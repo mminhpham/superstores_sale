@@ -1,0 +1,4249 @@
+productid,invoice,product type,product description
+2,2010-01-01,Coffee,Columbian
+6,2010-01-01,Espresso,Decaf Espresso
+8,2010-01-01,Herbal Tea,Chamomile
+6,2010-01-01,Espresso,Decaf Espresso
+12,2010-01-01,Tea,Earl Grey
+2,2010-01-01,Coffee,Columbian
+11,2010-01-01,Tea,Darjeeling
+2,2010-01-01,Coffee,Columbian
+5,2010-01-01,Espresso,Caffe Mocha
+9,2010-01-01,Herbal Tea,Lemon
+5,2010-01-01,Espresso,Caffe Mocha
+12,2010-01-01,Tea,Earl Grey
+9,2010-01-01,Herbal Tea,Lemon
+1,2010-01-01,Coffee,Amaretto
+2,2010-01-01,Coffee,Columbian
+6,2010-01-01,Espresso,Decaf Espresso
+12,2010-01-01,Tea,Earl Grey
+8,2010-01-01,Herbal Tea,Chamomile
+13,2010-01-01,Tea,Green Tea
+5,2010-01-01,Espresso,Caffe Mocha
+12,2010-01-01,Tea,Earl Grey
+3,2010-01-01,Coffee,Decaf Irish Cream
+5,2010-01-01,Espresso,Caffe Mocha
+9,2010-01-01,Herbal Tea,Lemon
+8,2010-01-01,Herbal Tea,Chamomile
+9,2010-01-01,Herbal Tea,Lemon
+11,2010-01-01,Tea,Darjeeling
+5,2010-01-01,Espresso,Caffe Mocha
+1,2010-01-01,Coffee,Amaretto
+12,2010-01-01,Tea,Earl Grey
+3,2010-01-01,Coffee,Decaf Irish Cream
+5,2010-01-01,Espresso,Caffe Mocha
+5,2010-01-01,Espresso,Caffe Mocha
+6,2010-01-01,Espresso,Decaf Espresso
+8,2010-01-01,Herbal Tea,Chamomile
+9,2010-01-01,Herbal Tea,Lemon
+13,2010-01-01,Tea,Green Tea
+11,2010-01-01,Tea,Darjeeling
+13,2010-01-01,Tea,Green Tea
+9,2010-01-01,Herbal Tea,Lemon
+11,2010-01-01,Tea,Darjeeling
+5,2010-01-01,Espresso,Caffe Mocha
+6,2010-01-01,Espresso,Decaf Espresso
+4,2010-01-01,Espresso,Caffe Latte
+2,2010-01-01,Coffee,Columbian
+2,2010-01-01,Coffee,Columbian
+3,2010-01-01,Coffee,Decaf Irish Cream
+5,2010-01-01,Espresso,Caffe Mocha
+13,2010-01-01,Tea,Green Tea
+4,2010-01-01,Espresso,Caffe Latte
+2,2010-01-01,Coffee,Columbian
+13,2010-01-01,Tea,Green Tea
+5,2010-01-01,Espresso,Caffe Mocha
+6,2010-01-01,Espresso,Decaf Espresso
+9,2010-01-01,Herbal Tea,Lemon
+10,2010-01-01,Herbal Tea,Mint
+11,2010-01-01,Tea,Darjeeling
+12,2010-01-01,Tea,Earl Grey
+4,2010-01-01,Espresso,Caffe Latte
+2,2010-01-01,Coffee,Columbian
+13,2010-01-01,Tea,Green Tea
+6,2010-01-01,Espresso,Decaf Espresso
+10,2010-01-01,Herbal Tea,Mint
+11,2010-01-01,Tea,Darjeeling
+2,2010-01-01,Coffee,Columbian
+5,2010-01-01,Espresso,Caffe Mocha
+9,2010-01-01,Herbal Tea,Lemon
+12,2010-01-01,Tea,Earl Grey
+4,2010-01-01,Espresso,Caffe Latte
+9,2010-01-01,Herbal Tea,Lemon
+4,2010-01-01,Espresso,Caffe Latte
+2,2010-01-01,Coffee,Columbian
+3,2010-01-01,Coffee,Decaf Irish Cream
+5,2010-01-01,Espresso,Caffe Mocha
+6,2010-01-01,Espresso,Decaf Espresso
+8,2010-01-01,Herbal Tea,Chamomile
+9,2010-01-01,Herbal Tea,Lemon
+4,2010-01-01,Espresso,Caffe Latte
+11,2010-01-01,Tea,Darjeeling
+3,2010-01-01,Coffee,Decaf Irish Cream
+8,2010-01-01,Herbal Tea,Chamomile
+1,2010-01-01,Coffee,Amaretto
+13,2010-01-01,Tea,Green Tea
+2,2010-01-01,Coffee,Columbian
+5,2010-01-01,Espresso,Caffe Mocha
+6,2010-01-01,Espresso,Decaf Espresso
+9,2010-01-01,Herbal Tea,Lemon
+11,2010-01-01,Tea,Darjeeling
+3,2010-01-01,Coffee,Decaf Irish Cream
+5,2010-01-01,Espresso,Caffe Mocha
+8,2010-01-01,Herbal Tea,Chamomile
+12,2010-01-01,Tea,Earl Grey
+2,2010-01-01,Coffee,Columbian
+3,2010-01-01,Coffee,Decaf Irish Cream
+9,2010-01-01,Herbal Tea,Lemon
+1,2010-01-01,Coffee,Amaretto
+2,2010-01-01,Coffee,Columbian
+13,2010-01-01,Tea,Green Tea
+5,2010-01-01,Espresso,Caffe Mocha
+9,2010-01-01,Herbal Tea,Lemon
+11,2010-01-01,Tea,Darjeeling
+7,2010-01-01,Espresso,Regular Espresso
+9,2010-01-01,Herbal Tea,Lemon
+11,2010-01-01,Tea,Darjeeling
+2,2010-01-01,Coffee,Columbian
+3,2010-01-01,Coffee,Decaf Irish Cream
+5,2010-01-01,Espresso,Caffe Mocha
+6,2010-01-01,Espresso,Decaf Espresso
+11,2010-01-01,Tea,Darjeeling
+6,2010-01-01,Espresso,Decaf Espresso
+9,2010-01-01,Herbal Tea,Lemon
+7,2010-01-01,Espresso,Regular Espresso
+2,2010-01-01,Coffee,Columbian
+2,2010-01-01,Coffee,Columbian
+8,2010-01-01,Herbal Tea,Chamomile
+12,2010-01-01,Tea,Earl Grey
+3,2010-01-01,Coffee,Decaf Irish Cream
+12,2010-01-01,Tea,Earl Grey
+6,2010-01-01,Espresso,Decaf Espresso
+4,2010-01-01,Espresso,Caffe Latte
+2,2010-01-01,Coffee,Columbian
+13,2010-01-01,Tea,Green Tea
+5,2010-01-01,Espresso,Caffe Mocha
+8,2010-01-01,Herbal Tea,Chamomile
+10,2010-01-01,Herbal Tea,Mint
+10,2010-01-01,Herbal Tea,Mint
+12,2010-01-01,Tea,Earl Grey
+3,2010-01-01,Coffee,Decaf Irish Cream
+11,2010-01-01,Tea,Darjeeling
+8,2010-01-01,Herbal Tea,Chamomile
+9,2010-01-01,Herbal Tea,Lemon
+2,2010-01-01,Coffee,Columbian
+1,2010-01-01,Coffee,Amaretto
+9,2010-01-01,Herbal Tea,Lemon
+11,2010-01-01,Tea,Darjeeling
+6,2010-01-01,Espresso,Decaf Espresso
+1,2010-01-01,Coffee,Amaretto
+9,2010-01-01,Herbal Tea,Lemon
+3,2010-01-01,Coffee,Decaf Irish Cream
+13,2010-01-01,Tea,Green Tea
+6,2010-01-01,Espresso,Decaf Espresso
+13,2010-01-01,Tea,Green Tea
+10,2010-01-01,Herbal Tea,Mint
+10,2010-01-01,Herbal Tea,Mint
+3,2010-01-01,Coffee,Decaf Irish Cream
+6,2010-01-01,Espresso,Decaf Espresso
+9,2010-01-01,Herbal Tea,Lemon
+11,2010-01-01,Tea,Darjeeling
+12,2010-01-01,Tea,Earl Grey
+4,2010-01-01,Espresso,Caffe Latte
+13,2010-01-01,Tea,Green Tea
+5,2010-01-01,Espresso,Caffe Mocha
+1,2010-01-01,Coffee,Amaretto
+3,2010-01-01,Coffee,Decaf Irish Cream
+8,2010-01-01,Herbal Tea,Chamomile
+5,2010-01-01,Espresso,Caffe Mocha
+4,2010-01-01,Espresso,Caffe Latte
+10,2010-01-01,Herbal Tea,Mint
+5,2010-01-01,Espresso,Caffe Mocha
+9,2010-01-01,Herbal Tea,Lemon
+8,2010-01-01,Herbal Tea,Chamomile
+1,2010-01-01,Coffee,Amaretto
+8,2010-01-01,Herbal Tea,Chamomile
+8,2010-01-01,Herbal Tea,Chamomile
+2,2010-01-01,Coffee,Columbian
+11,2010-01-01,Tea,Darjeeling
+6,2010-01-01,Espresso,Decaf Espresso
+2,2010-01-01,Coffee,Columbian
+3,2010-01-01,Coffee,Decaf Irish Cream
+8,2010-01-01,Herbal Tea,Chamomile
+10,2010-01-01,Herbal Tea,Mint
+3,2010-01-01,Coffee,Decaf Irish Cream
+6,2010-01-01,Espresso,Decaf Espresso
+8,2010-01-01,Herbal Tea,Chamomile
+11,2010-01-01,Tea,Darjeeling
+7,2010-01-01,Espresso,Regular Espresso
+3,2010-01-01,Coffee,Decaf Irish Cream
+6,2010-02-01,Espresso,Decaf Espresso
+3,2010-02-01,Coffee,Decaf Irish Cream
+8,2010-02-01,Herbal Tea,Chamomile
+12,2010-02-01,Tea,Earl Grey
+8,2010-02-01,Herbal Tea,Chamomile
+9,2010-02-01,Herbal Tea,Lemon
+5,2010-02-01,Espresso,Caffe Mocha
+13,2010-02-01,Tea,Green Tea
+5,2010-02-01,Espresso,Caffe Mocha
+1,2010-02-01,Coffee,Amaretto
+9,2010-02-01,Herbal Tea,Lemon
+1,2010-02-01,Coffee,Amaretto
+6,2010-02-01,Espresso,Decaf Espresso
+10,2010-02-01,Herbal Tea,Mint
+3,2010-02-01,Coffee,Decaf Irish Cream
+5,2010-02-01,Espresso,Caffe Mocha
+11,2010-02-01,Tea,Darjeeling
+2,2010-02-01,Coffee,Columbian
+6,2010-02-01,Espresso,Decaf Espresso
+2,2010-02-01,Coffee,Columbian
+12,2010-02-01,Tea,Earl Grey
+4,2010-02-01,Espresso,Caffe Latte
+2,2010-02-01,Coffee,Columbian
+5,2010-02-01,Espresso,Caffe Mocha
+8,2010-02-01,Herbal Tea,Chamomile
+2,2010-02-01,Coffee,Columbian
+8,2010-02-01,Herbal Tea,Chamomile
+11,2010-02-01,Tea,Darjeeling
+4,2010-02-01,Espresso,Caffe Latte
+3,2010-02-01,Coffee,Decaf Irish Cream
+6,2010-02-01,Espresso,Decaf Espresso
+9,2010-02-01,Herbal Tea,Lemon
+4,2010-02-01,Espresso,Caffe Latte
+6,2010-02-01,Espresso,Decaf Espresso
+3,2010-02-01,Coffee,Decaf Irish Cream
+5,2010-02-01,Espresso,Caffe Mocha
+12,2010-02-01,Tea,Earl Grey
+2,2010-02-01,Coffee,Columbian
+9,2010-02-01,Herbal Tea,Lemon
+3,2010-02-01,Coffee,Decaf Irish Cream
+9,2010-02-01,Herbal Tea,Lemon
+1,2010-02-01,Coffee,Amaretto
+2,2010-02-01,Coffee,Columbian
+3,2010-02-01,Coffee,Decaf Irish Cream
+13,2010-02-01,Tea,Green Tea
+6,2010-02-01,Espresso,Decaf Espresso
+8,2010-02-01,Herbal Tea,Chamomile
+9,2010-02-01,Herbal Tea,Lemon
+10,2010-02-01,Herbal Tea,Mint
+11,2010-02-01,Tea,Darjeeling
+12,2010-02-01,Tea,Earl Grey
+4,2010-02-01,Espresso,Caffe Latte
+13,2010-02-01,Tea,Green Tea
+9,2010-02-01,Herbal Tea,Lemon
+11,2010-02-01,Tea,Darjeeling
+2,2010-02-01,Coffee,Columbian
+13,2010-02-01,Tea,Green Tea
+4,2010-02-01,Espresso,Caffe Latte
+3,2010-02-01,Coffee,Decaf Irish Cream
+5,2010-02-01,Espresso,Caffe Mocha
+2,2010-02-01,Coffee,Columbian
+3,2010-02-01,Coffee,Decaf Irish Cream
+5,2010-02-01,Espresso,Caffe Mocha
+6,2010-02-01,Espresso,Decaf Espresso
+8,2010-02-01,Herbal Tea,Chamomile
+9,2010-02-01,Herbal Tea,Lemon
+4,2010-02-01,Espresso,Caffe Latte
+5,2010-02-01,Espresso,Caffe Mocha
+7,2010-02-01,Espresso,Regular Espresso
+2,2010-02-01,Coffee,Columbian
+6,2010-02-01,Espresso,Decaf Espresso
+9,2010-02-01,Herbal Tea,Lemon
+4,2010-02-01,Espresso,Caffe Latte
+2,2010-02-01,Coffee,Columbian
+12,2010-02-01,Tea,Earl Grey
+12,2010-02-01,Tea,Earl Grey
+9,2010-02-01,Herbal Tea,Lemon
+12,2010-02-01,Tea,Earl Grey
+10,2010-02-01,Herbal Tea,Mint
+5,2010-02-01,Espresso,Caffe Mocha
+9,2010-02-01,Herbal Tea,Lemon
+11,2010-02-01,Tea,Darjeeling
+8,2010-02-01,Herbal Tea,Chamomile
+9,2010-02-01,Herbal Tea,Lemon
+11,2010-02-01,Tea,Darjeeling
+13,2010-02-01,Tea,Green Tea
+5,2010-02-01,Espresso,Caffe Mocha
+6,2010-02-01,Espresso,Decaf Espresso
+5,2010-02-01,Espresso,Caffe Mocha
+7,2010-02-01,Espresso,Regular Espresso
+1,2010-02-01,Coffee,Amaretto
+2,2010-02-01,Coffee,Columbian
+13,2010-02-01,Tea,Green Tea
+5,2010-02-01,Espresso,Caffe Mocha
+9,2010-02-01,Herbal Tea,Lemon
+11,2010-02-01,Tea,Darjeeling
+7,2010-02-01,Espresso,Regular Espresso
+10,2010-02-01,Herbal Tea,Mint
+3,2010-02-01,Coffee,Decaf Irish Cream
+6,2010-02-01,Espresso,Decaf Espresso
+11,2010-02-01,Tea,Darjeeling
+11,2010-02-01,Tea,Darjeeling
+12,2010-02-01,Tea,Earl Grey
+11,2010-02-01,Tea,Darjeeling
+8,2010-02-01,Herbal Tea,Chamomile
+3,2010-02-01,Coffee,Decaf Irish Cream
+13,2010-02-01,Tea,Green Tea
+10,2010-02-01,Herbal Tea,Mint
+12,2010-02-01,Tea,Earl Grey
+4,2010-02-01,Espresso,Caffe Latte
+5,2010-02-01,Espresso,Caffe Mocha
+1,2010-02-01,Coffee,Amaretto
+3,2010-02-01,Coffee,Decaf Irish Cream
+6,2010-02-01,Espresso,Decaf Espresso
+9,2010-02-01,Herbal Tea,Lemon
+6,2010-02-01,Espresso,Decaf Espresso
+8,2010-02-01,Herbal Tea,Chamomile
+3,2010-02-01,Coffee,Decaf Irish Cream
+11,2010-02-01,Tea,Darjeeling
+2,2010-02-01,Coffee,Columbian
+12,2010-02-01,Tea,Earl Grey
+13,2010-02-01,Tea,Green Tea
+9,2010-02-01,Herbal Tea,Lemon
+9,2010-02-01,Herbal Tea,Lemon
+2,2010-02-01,Coffee,Columbian
+8,2010-02-01,Herbal Tea,Chamomile
+9,2010-02-01,Herbal Tea,Lemon
+2,2010-02-01,Coffee,Columbian
+2,2010-02-01,Coffee,Columbian
+5,2010-02-01,Espresso,Caffe Mocha
+6,2010-02-01,Espresso,Decaf Espresso
+8,2010-02-01,Herbal Tea,Chamomile
+9,2010-02-01,Herbal Tea,Lemon
+11,2010-02-01,Tea,Darjeeling
+9,2010-02-01,Herbal Tea,Lemon
+11,2010-02-01,Tea,Darjeeling
+5,2010-02-01,Espresso,Caffe Mocha
+8,2010-02-01,Herbal Tea,Chamomile
+3,2010-02-01,Coffee,Decaf Irish Cream
+11,2010-02-01,Tea,Darjeeling
+3,2010-02-01,Coffee,Decaf Irish Cream
+4,2010-02-01,Espresso,Caffe Latte
+13,2010-02-01,Tea,Green Tea
+3,2010-02-01,Coffee,Decaf Irish Cream
+10,2010-02-01,Herbal Tea,Mint
+10,2010-02-01,Herbal Tea,Mint
+13,2010-02-01,Tea,Green Tea
+12,2010-02-01,Tea,Earl Grey
+5,2010-02-01,Espresso,Caffe Mocha
+10,2010-02-01,Herbal Tea,Mint
+5,2010-02-01,Espresso,Caffe Mocha
+1,2010-02-01,Coffee,Amaretto
+5,2010-02-01,Espresso,Caffe Mocha
+2,2010-02-01,Coffee,Columbian
+2,2010-02-01,Coffee,Columbian
+5,2010-02-01,Espresso,Caffe Mocha
+8,2010-02-01,Herbal Tea,Chamomile
+2,2010-02-01,Coffee,Columbian
+11,2010-02-01,Tea,Darjeeling
+1,2010-02-01,Coffee,Amaretto
+8,2010-02-01,Herbal Tea,Chamomile
+6,2010-02-01,Espresso,Decaf Espresso
+6,2010-02-01,Espresso,Decaf Espresso
+2,2010-02-01,Coffee,Columbian
+13,2010-02-01,Tea,Green Tea
+5,2010-02-01,Espresso,Caffe Mocha
+8,2010-02-01,Herbal Tea,Chamomile
+9,2010-02-01,Herbal Tea,Lemon
+1,2010-02-01,Coffee,Amaretto
+3,2010-02-01,Coffee,Decaf Irish Cream
+6,2010-02-01,Espresso,Decaf Espresso
+8,2010-02-01,Herbal Tea,Chamomile
+12,2010-02-01,Tea,Earl Grey
+2,2010-02-01,Coffee,Columbian
+13,2010-02-01,Tea,Green Tea
+11,2010-02-01,Tea,Darjeeling
+6,2010-02-01,Espresso,Decaf Espresso
+9,2010-03-01,Herbal Tea,Lemon
+10,2010-03-01,Herbal Tea,Mint
+2,2010-03-01,Coffee,Columbian
+3,2010-03-01,Coffee,Decaf Irish Cream
+13,2010-03-01,Tea,Green Tea
+8,2010-03-01,Herbal Tea,Chamomile
+11,2010-03-01,Tea,Darjeeling
+9,2010-03-01,Herbal Tea,Lemon
+3,2010-03-01,Coffee,Decaf Irish Cream
+8,2010-03-01,Herbal Tea,Chamomile
+2,2010-03-01,Coffee,Columbian
+8,2010-03-01,Herbal Tea,Chamomile
+2,2010-03-01,Coffee,Columbian
+6,2010-03-01,Espresso,Decaf Espresso
+8,2010-03-01,Herbal Tea,Chamomile
+5,2010-03-01,Espresso,Caffe Mocha
+12,2010-03-01,Tea,Earl Grey
+4,2010-03-01,Espresso,Caffe Latte
+1,2010-03-01,Coffee,Amaretto
+2,2010-03-01,Coffee,Columbian
+8,2010-03-01,Herbal Tea,Chamomile
+9,2010-03-01,Herbal Tea,Lemon
+12,2010-03-01,Tea,Earl Grey
+5,2010-03-01,Espresso,Caffe Mocha
+12,2010-03-01,Tea,Earl Grey
+3,2010-03-01,Coffee,Decaf Irish Cream
+5,2010-03-01,Espresso,Caffe Mocha
+9,2010-03-01,Herbal Tea,Lemon
+4,2010-03-01,Espresso,Caffe Latte
+9,2010-03-01,Herbal Tea,Lemon
+3,2010-03-01,Coffee,Decaf Irish Cream
+5,2010-03-01,Espresso,Caffe Mocha
+4,2010-03-01,Espresso,Caffe Latte
+8,2010-03-01,Herbal Tea,Chamomile
+9,2010-03-01,Herbal Tea,Lemon
+3,2010-03-01,Coffee,Decaf Irish Cream
+9,2010-03-01,Herbal Tea,Lemon
+4,2010-03-01,Espresso,Caffe Latte
+3,2010-03-01,Coffee,Decaf Irish Cream
+11,2010-03-01,Tea,Darjeeling
+13,2010-03-01,Tea,Green Tea
+11,2010-03-01,Tea,Darjeeling
+11,2010-03-01,Tea,Darjeeling
+12,2010-03-01,Tea,Earl Grey
+6,2010-03-01,Espresso,Decaf Espresso
+1,2010-03-01,Coffee,Amaretto
+3,2010-03-01,Coffee,Decaf Irish Cream
+13,2010-03-01,Tea,Green Tea
+6,2010-03-01,Espresso,Decaf Espresso
+8,2010-03-01,Herbal Tea,Chamomile
+9,2010-03-01,Herbal Tea,Lemon
+12,2010-03-01,Tea,Earl Grey
+4,2010-03-01,Espresso,Caffe Latte
+2,2010-03-01,Coffee,Columbian
+1,2010-03-01,Coffee,Amaretto
+2,2010-03-01,Coffee,Columbian
+3,2010-03-01,Coffee,Decaf Irish Cream
+12,2010-03-01,Tea,Earl Grey
+6,2010-03-01,Espresso,Decaf Espresso
+2,2010-03-01,Coffee,Columbian
+3,2010-03-01,Coffee,Decaf Irish Cream
+5,2010-03-01,Espresso,Caffe Mocha
+6,2010-03-01,Espresso,Decaf Espresso
+8,2010-03-01,Herbal Tea,Chamomile
+9,2010-03-01,Herbal Tea,Lemon
+4,2010-03-01,Espresso,Caffe Latte
+5,2010-03-01,Espresso,Caffe Mocha
+9,2010-03-01,Herbal Tea,Lemon
+7,2010-03-01,Espresso,Regular Espresso
+3,2010-03-01,Coffee,Decaf Irish Cream
+5,2010-03-01,Espresso,Caffe Mocha
+11,2010-03-01,Tea,Darjeeling
+12,2010-03-01,Tea,Earl Grey
+11,2010-03-01,Tea,Darjeeling
+12,2010-03-01,Tea,Earl Grey
+9,2010-03-01,Herbal Tea,Lemon
+13,2010-03-01,Tea,Green Tea
+13,2010-03-01,Tea,Green Tea
+8,2010-03-01,Herbal Tea,Chamomile
+4,2010-03-01,Espresso,Caffe Latte
+2,2010-03-01,Coffee,Columbian
+8,2010-03-01,Herbal Tea,Chamomile
+10,2010-03-01,Herbal Tea,Mint
+3,2010-03-01,Coffee,Decaf Irish Cream
+6,2010-03-01,Espresso,Decaf Espresso
+2,2010-03-01,Coffee,Columbian
+3,2010-03-01,Coffee,Decaf Irish Cream
+13,2010-03-01,Tea,Green Tea
+5,2010-03-01,Espresso,Caffe Mocha
+6,2010-03-01,Espresso,Decaf Espresso
+8,2010-03-01,Herbal Tea,Chamomile
+1,2010-03-01,Coffee,Amaretto
+2,2010-03-01,Coffee,Columbian
+13,2010-03-01,Tea,Green Tea
+5,2010-03-01,Espresso,Caffe Mocha
+9,2010-03-01,Herbal Tea,Lemon
+11,2010-03-01,Tea,Darjeeling
+7,2010-03-01,Espresso,Regular Espresso
+5,2010-03-01,Espresso,Caffe Mocha
+3,2010-03-01,Coffee,Decaf Irish Cream
+9,2010-03-01,Herbal Tea,Lemon
+9,2010-03-01,Herbal Tea,Lemon
+2,2010-03-01,Coffee,Columbian
+8,2010-03-01,Herbal Tea,Chamomile
+3,2010-03-01,Coffee,Decaf Irish Cream
+6,2010-03-01,Espresso,Decaf Espresso
+2,2010-03-01,Coffee,Columbian
+3,2010-03-01,Coffee,Decaf Irish Cream
+9,2010-03-01,Herbal Tea,Lemon
+10,2010-03-01,Herbal Tea,Mint
+11,2010-03-01,Tea,Darjeeling
+12,2010-03-01,Tea,Earl Grey
+2,2010-03-01,Coffee,Columbian
+1,2010-03-01,Coffee,Amaretto
+5,2010-03-01,Espresso,Caffe Mocha
+5,2010-03-01,Espresso,Caffe Mocha
+6,2010-03-01,Espresso,Decaf Espresso
+9,2010-03-01,Herbal Tea,Lemon
+11,2010-03-01,Tea,Darjeeling
+2,2010-03-01,Coffee,Columbian
+7,2010-03-01,Espresso,Regular Espresso
+5,2010-03-01,Espresso,Caffe Mocha
+8,2010-03-01,Herbal Tea,Chamomile
+1,2010-03-01,Coffee,Amaretto
+3,2010-03-01,Coffee,Decaf Irish Cream
+13,2010-03-01,Tea,Green Tea
+10,2010-03-01,Herbal Tea,Mint
+2,2010-03-01,Coffee,Columbian
+9,2010-03-01,Herbal Tea,Lemon
+4,2010-03-01,Espresso,Caffe Latte
+9,2010-03-01,Herbal Tea,Lemon
+6,2010-03-01,Espresso,Decaf Espresso
+10,2010-03-01,Herbal Tea,Mint
+12,2010-03-01,Tea,Earl Grey
+13,2010-03-01,Tea,Green Tea
+5,2010-03-01,Espresso,Caffe Mocha
+6,2010-03-01,Espresso,Decaf Espresso
+8,2010-03-01,Herbal Tea,Chamomile
+4,2010-03-01,Espresso,Caffe Latte
+2,2010-03-01,Coffee,Columbian
+5,2010-03-01,Espresso,Caffe Mocha
+10,2010-03-01,Herbal Tea,Mint
+11,2010-03-01,Tea,Darjeeling
+13,2010-03-01,Tea,Green Tea
+10,2010-03-01,Herbal Tea,Mint
+11,2010-03-01,Tea,Darjeeling
+8,2010-03-01,Herbal Tea,Chamomile
+13,2010-03-01,Tea,Green Tea
+13,2010-03-01,Tea,Green Tea
+5,2010-03-01,Espresso,Caffe Mocha
+6,2010-03-01,Espresso,Decaf Espresso
+8,2010-03-01,Herbal Tea,Chamomile
+11,2010-03-01,Tea,Darjeeling
+10,2010-03-01,Herbal Tea,Mint
+6,2010-03-01,Espresso,Decaf Espresso
+2,2010-03-01,Coffee,Columbian
+5,2010-03-01,Espresso,Caffe Mocha
+12,2010-03-01,Tea,Earl Grey
+1,2010-03-01,Coffee,Amaretto
+5,2010-03-01,Espresso,Caffe Mocha
+1,2010-03-01,Coffee,Amaretto
+2,2010-03-01,Coffee,Columbian
+5,2010-03-01,Espresso,Caffe Mocha
+6,2010-03-01,Espresso,Decaf Espresso
+12,2010-03-01,Tea,Earl Grey
+11,2010-03-01,Tea,Darjeeling
+2,2010-03-01,Coffee,Columbian
+6,2010-03-01,Espresso,Decaf Espresso
+9,2010-03-01,Herbal Tea,Lemon
+11,2010-03-01,Tea,Darjeeling
+5,2010-03-01,Espresso,Caffe Mocha
+6,2010-03-01,Espresso,Decaf Espresso
+9,2010-03-01,Herbal Tea,Lemon
+11,2010-03-01,Tea,Darjeeling
+6,2010-03-01,Espresso,Decaf Espresso
+2,2010-03-01,Coffee,Columbian
+11,2010-03-01,Tea,Darjeeling
+2,2010-04-01,Coffee,Columbian
+11,2010-04-01,Tea,Darjeeling
+3,2010-04-01,Coffee,Decaf Irish Cream
+6,2010-04-01,Espresso,Decaf Espresso
+4,2010-04-01,Espresso,Caffe Latte
+2,2010-04-01,Coffee,Columbian
+13,2010-04-01,Tea,Green Tea
+8,2010-04-01,Herbal Tea,Chamomile
+2,2010-04-01,Coffee,Columbian
+5,2010-04-01,Espresso,Caffe Mocha
+6,2010-04-01,Espresso,Decaf Espresso
+8,2010-04-01,Herbal Tea,Chamomile
+9,2010-04-01,Herbal Tea,Lemon
+5,2010-04-01,Espresso,Caffe Mocha
+6,2010-04-01,Espresso,Decaf Espresso
+13,2010-04-01,Tea,Green Tea
+5,2010-04-01,Espresso,Caffe Mocha
+8,2010-04-01,Herbal Tea,Chamomile
+11,2010-04-01,Tea,Darjeeling
+12,2010-04-01,Tea,Earl Grey
+8,2010-04-01,Herbal Tea,Chamomile
+11,2010-04-01,Tea,Darjeeling
+3,2010-04-01,Coffee,Decaf Irish Cream
+13,2010-04-01,Tea,Green Tea
+8,2010-04-01,Herbal Tea,Chamomile
+11,2010-04-01,Tea,Darjeeling
+2,2010-04-01,Coffee,Columbian
+8,2010-04-01,Herbal Tea,Chamomile
+9,2010-04-01,Herbal Tea,Lemon
+3,2010-04-01,Coffee,Decaf Irish Cream
+8,2010-04-01,Herbal Tea,Chamomile
+12,2010-04-01,Tea,Earl Grey
+3,2010-04-01,Coffee,Decaf Irish Cream
+3,2010-04-01,Coffee,Decaf Irish Cream
+9,2010-04-01,Herbal Tea,Lemon
+11,2010-04-01,Tea,Darjeeling
+5,2010-04-01,Espresso,Caffe Mocha
+9,2010-04-01,Herbal Tea,Lemon
+9,2010-04-01,Herbal Tea,Lemon
+7,2010-04-01,Espresso,Regular Espresso
+2,2010-04-01,Coffee,Columbian
+3,2010-04-01,Coffee,Decaf Irish Cream
+9,2010-04-01,Herbal Tea,Lemon
+8,2010-04-01,Herbal Tea,Chamomile
+3,2010-04-01,Coffee,Decaf Irish Cream
+12,2010-04-01,Tea,Earl Grey
+13,2010-04-01,Tea,Green Tea
+6,2010-04-01,Espresso,Decaf Espresso
+1,2010-04-01,Coffee,Amaretto
+2,2010-04-01,Coffee,Columbian
+3,2010-04-01,Coffee,Decaf Irish Cream
+13,2010-04-01,Tea,Green Tea
+6,2010-04-01,Espresso,Decaf Espresso
+8,2010-04-01,Herbal Tea,Chamomile
+9,2010-04-01,Herbal Tea,Lemon
+10,2010-04-01,Herbal Tea,Mint
+11,2010-04-01,Tea,Darjeeling
+12,2010-04-01,Tea,Earl Grey
+4,2010-04-01,Espresso,Caffe Latte
+13,2010-04-01,Tea,Green Tea
+6,2010-04-01,Espresso,Decaf Espresso
+2,2010-04-01,Coffee,Columbian
+3,2010-04-01,Coffee,Decaf Irish Cream
+6,2010-04-01,Espresso,Decaf Espresso
+11,2010-04-01,Tea,Darjeeling
+2,2010-04-01,Coffee,Columbian
+2,2010-04-01,Coffee,Columbian
+3,2010-04-01,Coffee,Decaf Irish Cream
+5,2010-04-01,Espresso,Caffe Mocha
+6,2010-04-01,Espresso,Decaf Espresso
+8,2010-04-01,Herbal Tea,Chamomile
+9,2010-04-01,Herbal Tea,Lemon
+4,2010-04-01,Espresso,Caffe Latte
+9,2010-04-01,Herbal Tea,Lemon
+2,2010-04-01,Coffee,Columbian
+9,2010-04-01,Herbal Tea,Lemon
+2,2010-04-01,Coffee,Columbian
+3,2010-04-01,Coffee,Decaf Irish Cream
+1,2010-04-01,Coffee,Amaretto
+2,2010-04-01,Coffee,Columbian
+12,2010-04-01,Tea,Earl Grey
+7,2010-04-01,Espresso,Regular Espresso
+12,2010-04-01,Tea,Earl Grey
+12,2010-04-01,Tea,Earl Grey
+4,2010-04-01,Espresso,Caffe Latte
+3,2010-04-01,Coffee,Decaf Irish Cream
+5,2010-04-01,Espresso,Caffe Mocha
+8,2010-04-01,Herbal Tea,Chamomile
+5,2010-04-01,Espresso,Caffe Mocha
+2,2010-04-01,Coffee,Columbian
+13,2010-04-01,Tea,Green Tea
+6,2010-04-01,Espresso,Decaf Espresso
+5,2010-04-01,Espresso,Caffe Mocha
+6,2010-04-01,Espresso,Decaf Espresso
+8,2010-04-01,Herbal Tea,Chamomile
+11,2010-04-01,Tea,Darjeeling
+1,2010-04-01,Coffee,Amaretto
+2,2010-04-01,Coffee,Columbian
+13,2010-04-01,Tea,Green Tea
+5,2010-04-01,Espresso,Caffe Mocha
+9,2010-04-01,Herbal Tea,Lemon
+11,2010-04-01,Tea,Darjeeling
+7,2010-04-01,Espresso,Regular Espresso
+9,2010-04-01,Herbal Tea,Lemon
+9,2010-04-01,Herbal Tea,Lemon
+5,2010-04-01,Espresso,Caffe Mocha
+10,2010-04-01,Herbal Tea,Mint
+12,2010-04-01,Tea,Earl Grey
+2,2010-04-01,Coffee,Columbian
+9,2010-04-01,Herbal Tea,Lemon
+12,2010-04-01,Tea,Earl Grey
+11,2010-04-01,Tea,Darjeeling
+3,2010-04-01,Coffee,Decaf Irish Cream
+5,2010-04-01,Espresso,Caffe Mocha
+9,2010-04-01,Herbal Tea,Lemon
+13,2010-04-01,Tea,Green Tea
+5,2010-04-01,Espresso,Caffe Mocha
+10,2010-04-01,Herbal Tea,Mint
+11,2010-04-01,Tea,Darjeeling
+9,2010-04-01,Herbal Tea,Lemon
+6,2010-04-01,Espresso,Decaf Espresso
+2,2010-04-01,Coffee,Columbian
+5,2010-04-01,Espresso,Caffe Mocha
+6,2010-04-01,Espresso,Decaf Espresso
+10,2010-04-01,Herbal Tea,Mint
+6,2010-04-01,Espresso,Decaf Espresso
+9,2010-04-01,Herbal Tea,Lemon
+10,2010-04-01,Herbal Tea,Mint
+12,2010-04-01,Tea,Earl Grey
+1,2010-04-01,Coffee,Amaretto
+5,2010-04-01,Espresso,Caffe Mocha
+1,2010-04-01,Coffee,Amaretto
+11,2010-04-01,Tea,Darjeeling
+13,2010-04-01,Tea,Green Tea
+10,2010-04-01,Herbal Tea,Mint
+2,2010-04-01,Coffee,Columbian
+2,2010-04-01,Coffee,Columbian
+3,2010-04-01,Coffee,Decaf Irish Cream
+6,2010-04-01,Espresso,Decaf Espresso
+8,2010-04-01,Herbal Tea,Chamomile
+9,2010-04-01,Herbal Tea,Lemon
+12,2010-04-01,Tea,Earl Grey
+4,2010-04-01,Espresso,Caffe Latte
+13,2010-04-01,Tea,Green Tea
+11,2010-04-01,Tea,Darjeeling
+5,2010-04-01,Espresso,Caffe Mocha
+5,2010-04-01,Espresso,Caffe Mocha
+5,2010-04-01,Espresso,Caffe Mocha
+10,2010-04-01,Herbal Tea,Mint
+11,2010-04-01,Tea,Darjeeling
+11,2010-04-01,Tea,Darjeeling
+8,2010-04-01,Herbal Tea,Chamomile
+1,2010-04-01,Coffee,Amaretto
+6,2010-04-01,Espresso,Decaf Espresso
+2,2010-04-01,Coffee,Columbian
+4,2010-04-01,Espresso,Caffe Latte
+5,2010-04-01,Espresso,Caffe Mocha
+10,2010-04-01,Herbal Tea,Mint
+3,2010-04-01,Coffee,Decaf Irish Cream
+6,2010-04-01,Espresso,Decaf Espresso
+11,2010-04-01,Tea,Darjeeling
+5,2010-04-01,Espresso,Caffe Mocha
+3,2010-04-01,Coffee,Decaf Irish Cream
+4,2010-04-01,Espresso,Caffe Latte
+1,2010-04-01,Coffee,Amaretto
+4,2010-04-01,Espresso,Caffe Latte
+12,2010-04-01,Tea,Earl Grey
+6,2010-04-01,Espresso,Decaf Espresso
+9,2010-04-01,Herbal Tea,Lemon
+2,2010-04-01,Coffee,Columbian
+1,2010-04-01,Coffee,Amaretto
+13,2010-04-01,Tea,Green Tea
+5,2010-04-01,Espresso,Caffe Mocha
+8,2010-04-01,Herbal Tea,Chamomile
+9,2010-04-01,Herbal Tea,Lemon
+8,2010-04-01,Herbal Tea,Chamomile
+4,2010-04-01,Espresso,Caffe Latte
+6,2010-05-01,Espresso,Decaf Espresso
+5,2010-05-01,Espresso,Caffe Mocha
+6,2010-05-01,Espresso,Decaf Espresso
+8,2010-05-01,Herbal Tea,Chamomile
+9,2010-05-01,Herbal Tea,Lemon
+4,2010-05-01,Espresso,Caffe Latte
+1,2010-05-01,Coffee,Amaretto
+5,2010-05-01,Espresso,Caffe Mocha
+7,2010-05-01,Espresso,Regular Espresso
+9,2010-05-01,Herbal Tea,Lemon
+5,2010-05-01,Espresso,Caffe Mocha
+11,2010-05-01,Tea,Darjeeling
+13,2010-05-01,Tea,Green Tea
+10,2010-05-01,Herbal Tea,Mint
+2,2010-05-01,Coffee,Columbian
+3,2010-05-01,Coffee,Decaf Irish Cream
+5,2010-05-01,Espresso,Caffe Mocha
+4,2010-05-01,Espresso,Caffe Latte
+1,2010-05-01,Coffee,Amaretto
+2,2010-05-01,Coffee,Columbian
+6,2010-05-01,Espresso,Decaf Espresso
+9,2010-05-01,Herbal Tea,Lemon
+12,2010-05-01,Tea,Earl Grey
+2,2010-05-01,Coffee,Columbian
+5,2010-05-01,Espresso,Caffe Mocha
+6,2010-05-01,Espresso,Decaf Espresso
+12,2010-05-01,Tea,Earl Grey
+9,2010-05-01,Herbal Tea,Lemon
+11,2010-05-01,Tea,Darjeeling
+11,2010-05-01,Tea,Darjeeling
+12,2010-05-01,Tea,Earl Grey
+9,2010-05-01,Herbal Tea,Lemon
+10,2010-05-01,Herbal Tea,Mint
+2,2010-05-01,Coffee,Columbian
+3,2010-05-01,Coffee,Decaf Irish Cream
+6,2010-05-01,Espresso,Decaf Espresso
+5,2010-05-01,Espresso,Caffe Mocha
+3,2010-05-01,Coffee,Decaf Irish Cream
+1,2010-05-01,Coffee,Amaretto
+9,2010-05-01,Herbal Tea,Lemon
+7,2010-05-01,Espresso,Regular Espresso
+11,2010-05-01,Tea,Darjeeling
+12,2010-05-01,Tea,Earl Grey
+3,2010-05-01,Coffee,Decaf Irish Cream
+5,2010-05-01,Espresso,Caffe Mocha
+6,2010-05-01,Espresso,Decaf Espresso
+13,2010-05-01,Tea,Green Tea
+5,2010-05-01,Espresso,Caffe Mocha
+4,2010-05-01,Espresso,Caffe Latte
+8,2010-05-01,Herbal Tea,Chamomile
+8,2010-05-01,Herbal Tea,Chamomile
+13,2010-05-01,Tea,Green Tea
+2,2010-05-01,Coffee,Columbian
+6,2010-05-01,Espresso,Decaf Espresso
+1,2010-05-01,Coffee,Amaretto
+2,2010-05-01,Coffee,Columbian
+3,2010-05-01,Coffee,Decaf Irish Cream
+5,2010-05-01,Espresso,Caffe Mocha
+6,2010-05-01,Espresso,Decaf Espresso
+8,2010-05-01,Herbal Tea,Chamomile
+9,2010-05-01,Herbal Tea,Lemon
+10,2010-05-01,Herbal Tea,Mint
+11,2010-05-01,Tea,Darjeeling
+12,2010-05-01,Tea,Earl Grey
+4,2010-05-01,Espresso,Caffe Latte
+3,2010-05-01,Coffee,Decaf Irish Cream
+13,2010-05-01,Tea,Green Tea
+5,2010-05-01,Espresso,Caffe Mocha
+10,2010-05-01,Herbal Tea,Mint
+1,2010-05-01,Coffee,Amaretto
+8,2010-05-01,Herbal Tea,Chamomile
+11,2010-05-01,Tea,Darjeeling
+12,2010-05-01,Tea,Earl Grey
+2,2010-05-01,Coffee,Columbian
+3,2010-05-01,Coffee,Decaf Irish Cream
+5,2010-05-01,Espresso,Caffe Mocha
+6,2010-05-01,Espresso,Decaf Espresso
+8,2010-05-01,Herbal Tea,Chamomile
+9,2010-05-01,Herbal Tea,Lemon
+4,2010-05-01,Espresso,Caffe Latte
+11,2010-05-01,Tea,Darjeeling
+9,2010-05-01,Herbal Tea,Lemon
+2,2010-05-01,Coffee,Columbian
+12,2010-05-01,Tea,Earl Grey
+2,2010-05-01,Coffee,Columbian
+3,2010-05-01,Coffee,Decaf Irish Cream
+6,2010-05-01,Espresso,Decaf Espresso
+9,2010-05-01,Herbal Tea,Lemon
+13,2010-05-01,Tea,Green Tea
+11,2010-05-01,Tea,Darjeeling
+12,2010-05-01,Tea,Earl Grey
+5,2010-05-01,Espresso,Caffe Mocha
+6,2010-05-01,Espresso,Decaf Espresso
+4,2010-05-01,Espresso,Caffe Latte
+8,2010-05-01,Herbal Tea,Chamomile
+12,2010-05-01,Tea,Earl Grey
+9,2010-05-01,Herbal Tea,Lemon
+2,2010-05-01,Coffee,Columbian
+13,2010-05-01,Tea,Green Tea
+2,2010-05-01,Coffee,Columbian
+2,2010-05-01,Coffee,Columbian
+1,2010-05-01,Coffee,Amaretto
+2,2010-05-01,Coffee,Columbian
+13,2010-05-01,Tea,Green Tea
+5,2010-05-01,Espresso,Caffe Mocha
+9,2010-05-01,Herbal Tea,Lemon
+11,2010-05-01,Tea,Darjeeling
+7,2010-05-01,Espresso,Regular Espresso
+5,2010-05-01,Espresso,Caffe Mocha
+3,2010-05-01,Coffee,Decaf Irish Cream
+6,2010-05-01,Espresso,Decaf Espresso
+2,2010-05-01,Coffee,Columbian
+6,2010-05-01,Espresso,Decaf Espresso
+5,2010-05-01,Espresso,Caffe Mocha
+5,2010-05-01,Espresso,Caffe Mocha
+2,2010-05-01,Coffee,Columbian
+3,2010-05-01,Coffee,Decaf Irish Cream
+9,2010-05-01,Herbal Tea,Lemon
+2,2010-05-01,Coffee,Columbian
+13,2010-05-01,Tea,Green Tea
+11,2010-05-01,Tea,Darjeeling
+1,2010-05-01,Coffee,Amaretto
+11,2010-05-01,Tea,Darjeeling
+3,2010-05-01,Coffee,Decaf Irish Cream
+13,2010-05-01,Tea,Green Tea
+3,2010-05-01,Coffee,Decaf Irish Cream
+8,2010-05-01,Herbal Tea,Chamomile
+12,2010-05-01,Tea,Earl Grey
+13,2010-05-01,Tea,Green Tea
+10,2010-05-01,Herbal Tea,Mint
+1,2010-05-01,Coffee,Amaretto
+3,2010-05-01,Coffee,Decaf Irish Cream
+9,2010-05-01,Herbal Tea,Lemon
+11,2010-05-01,Tea,Darjeeling
+5,2010-05-01,Espresso,Caffe Mocha
+6,2010-05-01,Espresso,Decaf Espresso
+8,2010-05-01,Herbal Tea,Chamomile
+5,2010-05-01,Espresso,Caffe Mocha
+8,2010-05-01,Herbal Tea,Chamomile
+10,2010-05-01,Herbal Tea,Mint
+3,2010-05-01,Coffee,Decaf Irish Cream
+5,2010-05-01,Espresso,Caffe Mocha
+6,2010-05-01,Espresso,Decaf Espresso
+8,2010-05-01,Herbal Tea,Chamomile
+9,2010-05-01,Herbal Tea,Lemon
+10,2010-05-01,Herbal Tea,Mint
+12,2010-05-01,Tea,Earl Grey
+4,2010-05-01,Espresso,Caffe Latte
+5,2010-05-01,Espresso,Caffe Mocha
+13,2010-05-01,Tea,Green Tea
+9,2010-05-01,Herbal Tea,Lemon
+10,2010-05-01,Herbal Tea,Mint
+12,2010-05-01,Tea,Earl Grey
+6,2010-05-01,Espresso,Decaf Espresso
+11,2010-05-01,Tea,Darjeeling
+9,2010-05-01,Herbal Tea,Lemon
+11,2010-05-01,Tea,Darjeeling
+9,2010-05-01,Herbal Tea,Lemon
+11,2010-05-01,Tea,Darjeeling
+6,2010-05-01,Espresso,Decaf Espresso
+2,2010-05-01,Coffee,Columbian
+8,2010-05-01,Herbal Tea,Chamomile
+8,2010-05-01,Herbal Tea,Chamomile
+9,2010-05-01,Herbal Tea,Lemon
+4,2010-05-01,Espresso,Caffe Latte
+11,2010-05-01,Tea,Darjeeling
+8,2010-05-01,Herbal Tea,Chamomile
+3,2010-05-01,Coffee,Decaf Irish Cream
+2,2010-05-01,Coffee,Columbian
+8,2010-05-01,Herbal Tea,Chamomile
+2,2010-05-01,Coffee,Columbian
+3,2010-05-01,Coffee,Decaf Irish Cream
+13,2010-05-01,Tea,Green Tea
+9,2010-05-01,Herbal Tea,Lemon
+2,2010-05-01,Coffee,Columbian
+8,2010-05-01,Herbal Tea,Chamomile
+4,2010-05-01,Espresso,Caffe Latte
+13,2010-06-01,Tea,Green Tea
+5,2010-06-01,Espresso,Caffe Mocha
+9,2010-06-01,Herbal Tea,Lemon
+3,2010-06-01,Coffee,Decaf Irish Cream
+8,2010-06-01,Herbal Tea,Chamomile
+12,2010-06-01,Tea,Earl Grey
+4,2010-06-01,Espresso,Caffe Latte
+11,2010-06-01,Tea,Darjeeling
+2,2010-06-01,Coffee,Columbian
+5,2010-06-01,Espresso,Caffe Mocha
+8,2010-06-01,Herbal Tea,Chamomile
+6,2010-06-01,Espresso,Decaf Espresso
+5,2010-06-01,Espresso,Caffe Mocha
+6,2010-06-01,Espresso,Decaf Espresso
+5,2010-06-01,Espresso,Caffe Mocha
+6,2010-06-01,Espresso,Decaf Espresso
+10,2010-06-01,Herbal Tea,Mint
+10,2010-06-01,Herbal Tea,Mint
+5,2010-06-01,Espresso,Caffe Mocha
+6,2010-06-01,Espresso,Decaf Espresso
+11,2010-06-01,Tea,Darjeeling
+12,2010-06-01,Tea,Earl Grey
+3,2010-06-01,Coffee,Decaf Irish Cream
+3,2010-06-01,Coffee,Decaf Irish Cream
+6,2010-06-01,Espresso,Decaf Espresso
+9,2010-06-01,Herbal Tea,Lemon
+4,2010-06-01,Espresso,Caffe Latte
+6,2010-06-01,Espresso,Decaf Espresso
+9,2010-06-01,Herbal Tea,Lemon
+6,2010-06-01,Espresso,Decaf Espresso
+2,2010-06-01,Coffee,Columbian
+7,2010-06-01,Espresso,Regular Espresso
+5,2010-06-01,Espresso,Caffe Mocha
+13,2010-06-01,Tea,Green Tea
+11,2010-06-01,Tea,Darjeeling
+11,2010-06-01,Tea,Darjeeling
+3,2010-06-01,Coffee,Decaf Irish Cream
+13,2010-06-01,Tea,Green Tea
+10,2010-06-01,Herbal Tea,Mint
+9,2010-06-01,Herbal Tea,Lemon
+13,2010-06-01,Tea,Green Tea
+3,2010-06-01,Coffee,Decaf Irish Cream
+12,2010-06-01,Tea,Earl Grey
+5,2010-06-01,Espresso,Caffe Mocha
+6,2010-06-01,Espresso,Decaf Espresso
+2,2010-06-01,Coffee,Columbian
+5,2010-06-01,Espresso,Caffe Mocha
+1,2010-06-01,Coffee,Amaretto
+3,2010-06-01,Coffee,Decaf Irish Cream
+13,2010-06-01,Tea,Green Tea
+5,2010-06-01,Espresso,Caffe Mocha
+6,2010-06-01,Espresso,Decaf Espresso
+8,2010-06-01,Herbal Tea,Chamomile
+9,2010-06-01,Herbal Tea,Lemon
+10,2010-06-01,Herbal Tea,Mint
+4,2010-06-01,Espresso,Caffe Latte
+6,2010-06-01,Espresso,Decaf Espresso
+2,2010-06-01,Coffee,Columbian
+6,2010-06-01,Espresso,Decaf Espresso
+10,2010-06-01,Herbal Tea,Mint
+13,2010-06-01,Tea,Green Tea
+5,2010-06-01,Espresso,Caffe Mocha
+9,2010-06-01,Herbal Tea,Lemon
+11,2010-06-01,Tea,Darjeeling
+12,2010-06-01,Tea,Earl Grey
+4,2010-06-01,Espresso,Caffe Latte
+2,2010-06-01,Coffee,Columbian
+3,2010-06-01,Coffee,Decaf Irish Cream
+5,2010-06-01,Espresso,Caffe Mocha
+6,2010-06-01,Espresso,Decaf Espresso
+8,2010-06-01,Herbal Tea,Chamomile
+9,2010-06-01,Herbal Tea,Lemon
+4,2010-06-01,Espresso,Caffe Latte
+9,2010-06-01,Herbal Tea,Lemon
+1,2010-06-01,Coffee,Amaretto
+9,2010-06-01,Herbal Tea,Lemon
+11,2010-06-01,Tea,Darjeeling
+5,2010-06-01,Espresso,Caffe Mocha
+11,2010-06-01,Tea,Darjeeling
+1,2010-06-01,Coffee,Amaretto
+3,2010-06-01,Coffee,Decaf Irish Cream
+6,2010-06-01,Espresso,Decaf Espresso
+6,2010-06-01,Espresso,Decaf Espresso
+2,2010-06-01,Coffee,Columbian
+12,2010-06-01,Tea,Earl Grey
+2,2010-06-01,Coffee,Columbian
+13,2010-06-01,Tea,Green Tea
+6,2010-06-01,Espresso,Decaf Espresso
+12,2010-06-01,Tea,Earl Grey
+9,2010-06-01,Herbal Tea,Lemon
+1,2010-06-01,Coffee,Amaretto
+2,2010-06-01,Coffee,Columbian
+13,2010-06-01,Tea,Green Tea
+5,2010-06-01,Espresso,Caffe Mocha
+9,2010-06-01,Herbal Tea,Lemon
+11,2010-06-01,Tea,Darjeeling
+7,2010-06-01,Espresso,Regular Espresso
+9,2010-06-01,Herbal Tea,Lemon
+2,2010-06-01,Coffee,Columbian
+2,2010-06-01,Coffee,Columbian
+8,2010-06-01,Herbal Tea,Chamomile
+2,2010-06-01,Coffee,Columbian
+3,2010-06-01,Coffee,Decaf Irish Cream
+8,2010-06-01,Herbal Tea,Chamomile
+9,2010-06-01,Herbal Tea,Lemon
+7,2010-06-01,Espresso,Regular Espresso
+9,2010-06-01,Herbal Tea,Lemon
+11,2010-06-01,Tea,Darjeeling
+1,2010-06-01,Coffee,Amaretto
+8,2010-06-01,Herbal Tea,Chamomile
+11,2010-06-01,Tea,Darjeeling
+2,2010-06-01,Coffee,Columbian
+5,2010-06-01,Espresso,Caffe Mocha
+8,2010-06-01,Herbal Tea,Chamomile
+8,2010-06-01,Herbal Tea,Chamomile
+9,2010-06-01,Herbal Tea,Lemon
+2,2010-06-01,Coffee,Columbian
+13,2010-06-01,Tea,Green Tea
+6,2010-06-01,Espresso,Decaf Espresso
+9,2010-06-01,Herbal Tea,Lemon
+12,2010-06-01,Tea,Earl Grey
+1,2010-06-01,Coffee,Amaretto
+4,2010-06-01,Espresso,Caffe Latte
+3,2010-06-01,Coffee,Decaf Irish Cream
+13,2010-06-01,Tea,Green Tea
+5,2010-06-01,Espresso,Caffe Mocha
+1,2010-06-01,Coffee,Amaretto
+8,2010-06-01,Herbal Tea,Chamomile
+12,2010-06-01,Tea,Earl Grey
+10,2010-06-01,Herbal Tea,Mint
+13,2010-06-01,Tea,Green Tea
+1,2010-06-01,Coffee,Amaretto
+3,2010-06-01,Coffee,Decaf Irish Cream
+5,2010-06-01,Espresso,Caffe Mocha
+10,2010-06-01,Herbal Tea,Mint
+11,2010-06-01,Tea,Darjeeling
+13,2010-06-01,Tea,Green Tea
+8,2010-06-01,Herbal Tea,Chamomile
+9,2010-06-01,Herbal Tea,Lemon
+9,2010-06-01,Herbal Tea,Lemon
+3,2010-06-01,Coffee,Decaf Irish Cream
+5,2010-06-01,Espresso,Caffe Mocha
+8,2010-06-01,Herbal Tea,Chamomile
+10,2010-06-01,Herbal Tea,Mint
+11,2010-06-01,Tea,Darjeeling
+4,2010-06-01,Espresso,Caffe Latte
+9,2010-06-01,Herbal Tea,Lemon
+11,2010-06-01,Tea,Darjeeling
+5,2010-06-01,Espresso,Caffe Mocha
+2,2010-06-01,Coffee,Columbian
+11,2010-06-01,Tea,Darjeeling
+12,2010-06-01,Tea,Earl Grey
+2,2010-06-01,Coffee,Columbian
+3,2010-06-01,Coffee,Decaf Irish Cream
+2,2010-06-01,Coffee,Columbian
+8,2010-06-01,Herbal Tea,Chamomile
+12,2010-06-01,Tea,Earl Grey
+3,2010-06-01,Coffee,Decaf Irish Cream
+2,2010-06-01,Coffee,Columbian
+5,2010-06-01,Espresso,Caffe Mocha
+2,2010-06-01,Coffee,Columbian
+5,2010-06-01,Espresso,Caffe Mocha
+6,2010-06-01,Espresso,Decaf Espresso
+8,2010-06-01,Herbal Tea,Chamomile
+4,2010-06-01,Espresso,Caffe Latte
+3,2010-06-01,Coffee,Decaf Irish Cream
+9,2010-06-01,Herbal Tea,Lemon
+11,2010-06-01,Tea,Darjeeling
+4,2010-06-01,Espresso,Caffe Latte
+3,2010-06-01,Coffee,Decaf Irish Cream
+12,2010-06-01,Tea,Earl Grey
+8,2010-06-01,Herbal Tea,Chamomile
+11,2010-06-01,Tea,Darjeeling
+2,2010-06-01,Coffee,Columbian
+12,2010-06-01,Tea,Earl Grey
+2,2010-06-01,Coffee,Columbian
+8,2010-06-01,Herbal Tea,Chamomile
+2,2010-07-01,Coffee,Columbian
+6,2010-07-01,Espresso,Decaf Espresso
+11,2010-07-01,Tea,Darjeeling
+5,2010-07-01,Espresso,Caffe Mocha
+4,2010-07-01,Espresso,Caffe Latte
+1,2010-07-01,Coffee,Amaretto
+5,2010-07-01,Espresso,Caffe Mocha
+11,2010-07-01,Tea,Darjeeling
+5,2010-07-01,Espresso,Caffe Mocha
+3,2010-07-01,Coffee,Decaf Irish Cream
+5,2010-07-01,Espresso,Caffe Mocha
+5,2010-07-01,Espresso,Caffe Mocha
+6,2010-07-01,Espresso,Decaf Espresso
+13,2010-07-01,Tea,Green Tea
+6,2010-07-01,Espresso,Decaf Espresso
+2,2010-07-01,Coffee,Columbian
+9,2010-07-01,Herbal Tea,Lemon
+9,2010-07-01,Herbal Tea,Lemon
+4,2010-07-01,Espresso,Caffe Latte
+13,2010-07-01,Tea,Green Tea
+5,2010-07-01,Espresso,Caffe Mocha
+6,2010-07-01,Espresso,Decaf Espresso
+8,2010-07-01,Herbal Tea,Chamomile
+2,2010-07-01,Coffee,Columbian
+6,2010-07-01,Espresso,Decaf Espresso
+8,2010-07-01,Herbal Tea,Chamomile
+9,2010-07-01,Herbal Tea,Lemon
+3,2010-07-01,Coffee,Decaf Irish Cream
+6,2010-07-01,Espresso,Decaf Espresso
+13,2010-07-01,Tea,Green Tea
+2,2010-07-01,Coffee,Columbian
+3,2010-07-01,Coffee,Decaf Irish Cream
+8,2010-07-01,Herbal Tea,Chamomile
+9,2010-07-01,Herbal Tea,Lemon
+1,2010-07-01,Coffee,Amaretto
+8,2010-07-01,Herbal Tea,Chamomile
+9,2010-07-01,Herbal Tea,Lemon
+12,2010-07-01,Tea,Earl Grey
+3,2010-07-01,Coffee,Decaf Irish Cream
+3,2010-07-01,Coffee,Decaf Irish Cream
+13,2010-07-01,Tea,Green Tea
+5,2010-07-01,Espresso,Caffe Mocha
+3,2010-07-01,Coffee,Decaf Irish Cream
+5,2010-07-01,Espresso,Caffe Mocha
+11,2010-07-01,Tea,Darjeeling
+3,2010-07-01,Coffee,Decaf Irish Cream
+8,2010-07-01,Herbal Tea,Chamomile
+9,2010-07-01,Herbal Tea,Lemon
+11,2010-07-01,Tea,Darjeeling
+13,2010-07-01,Tea,Green Tea
+9,2010-07-01,Herbal Tea,Lemon
+2,2010-07-01,Coffee,Columbian
+8,2010-07-01,Herbal Tea,Chamomile
+2,2010-07-01,Coffee,Columbian
+1,2010-07-01,Coffee,Amaretto
+3,2010-07-01,Coffee,Decaf Irish Cream
+13,2010-07-01,Tea,Green Tea
+8,2010-07-01,Herbal Tea,Chamomile
+9,2010-07-01,Herbal Tea,Lemon
+11,2010-07-01,Tea,Darjeeling
+12,2010-07-01,Tea,Earl Grey
+3,2010-07-01,Coffee,Decaf Irish Cream
+13,2010-07-01,Tea,Green Tea
+5,2010-07-01,Espresso,Caffe Mocha
+8,2010-07-01,Herbal Tea,Chamomile
+9,2010-07-01,Herbal Tea,Lemon
+12,2010-07-01,Tea,Earl Grey
+2,2010-07-01,Coffee,Columbian
+3,2010-07-01,Coffee,Decaf Irish Cream
+5,2010-07-01,Espresso,Caffe Mocha
+6,2010-07-01,Espresso,Decaf Espresso
+8,2010-07-01,Herbal Tea,Chamomile
+9,2010-07-01,Herbal Tea,Lemon
+4,2010-07-01,Espresso,Caffe Latte
+2,2010-07-01,Coffee,Columbian
+9,2010-07-01,Herbal Tea,Lemon
+11,2010-07-01,Tea,Darjeeling
+12,2010-07-01,Tea,Earl Grey
+2,2010-07-01,Coffee,Columbian
+6,2010-07-01,Espresso,Decaf Espresso
+12,2010-07-01,Tea,Earl Grey
+11,2010-07-01,Tea,Darjeeling
+9,2010-07-01,Herbal Tea,Lemon
+12,2010-07-01,Tea,Earl Grey
+6,2010-07-01,Espresso,Decaf Espresso
+11,2010-07-01,Tea,Darjeeling
+5,2010-07-01,Espresso,Caffe Mocha
+11,2010-07-01,Tea,Darjeeling
+5,2010-07-01,Espresso,Caffe Mocha
+2,2010-07-01,Coffee,Columbian
+6,2010-07-01,Espresso,Decaf Espresso
+4,2010-07-01,Espresso,Caffe Latte
+7,2010-07-01,Espresso,Regular Espresso
+1,2010-07-01,Coffee,Amaretto
+2,2010-07-01,Coffee,Columbian
+13,2010-07-01,Tea,Green Tea
+5,2010-07-01,Espresso,Caffe Mocha
+9,2010-07-01,Herbal Tea,Lemon
+11,2010-07-01,Tea,Darjeeling
+7,2010-07-01,Espresso,Regular Espresso
+5,2010-07-01,Espresso,Caffe Mocha
+12,2010-07-01,Tea,Earl Grey
+1,2010-07-01,Coffee,Amaretto
+9,2010-07-01,Herbal Tea,Lemon
+7,2010-07-01,Espresso,Regular Espresso
+2,2010-07-01,Coffee,Columbian
+11,2010-07-01,Tea,Darjeeling
+5,2010-07-01,Espresso,Caffe Mocha
+6,2010-07-01,Espresso,Decaf Espresso
+6,2010-07-01,Espresso,Decaf Espresso
+9,2010-07-01,Herbal Tea,Lemon
+13,2010-07-01,Tea,Green Tea
+6,2010-07-01,Espresso,Decaf Espresso
+11,2010-07-01,Tea,Darjeeling
+4,2010-07-01,Espresso,Caffe Latte
+2,2010-07-01,Coffee,Columbian
+3,2010-07-01,Coffee,Decaf Irish Cream
+2,2010-07-01,Coffee,Columbian
+3,2010-07-01,Coffee,Decaf Irish Cream
+10,2010-07-01,Herbal Tea,Mint
+1,2010-07-01,Coffee,Amaretto
+10,2010-07-01,Herbal Tea,Mint
+12,2010-07-01,Tea,Earl Grey
+3,2010-07-01,Coffee,Decaf Irish Cream
+8,2010-07-01,Herbal Tea,Chamomile
+11,2010-07-01,Tea,Darjeeling
+2,2010-07-01,Coffee,Columbian
+3,2010-07-01,Coffee,Decaf Irish Cream
+5,2010-07-01,Espresso,Caffe Mocha
+8,2010-07-01,Herbal Tea,Chamomile
+9,2010-07-01,Herbal Tea,Lemon
+10,2010-07-01,Herbal Tea,Mint
+12,2010-07-01,Tea,Earl Grey
+2,2010-07-01,Coffee,Columbian
+5,2010-07-01,Espresso,Caffe Mocha
+6,2010-07-01,Espresso,Decaf Espresso
+10,2010-07-01,Herbal Tea,Mint
+4,2010-07-01,Espresso,Caffe Latte
+8,2010-07-01,Herbal Tea,Chamomile
+10,2010-07-01,Herbal Tea,Mint
+11,2010-07-01,Tea,Darjeeling
+12,2010-07-01,Tea,Earl Grey
+13,2010-07-01,Tea,Green Tea
+8,2010-07-01,Herbal Tea,Chamomile
+12,2010-07-01,Tea,Earl Grey
+4,2010-07-01,Espresso,Caffe Latte
+10,2010-07-01,Herbal Tea,Mint
+12,2010-07-01,Tea,Earl Grey
+6,2010-07-01,Espresso,Decaf Espresso
+2,2010-07-01,Coffee,Columbian
+13,2010-07-01,Tea,Green Tea
+5,2010-07-01,Espresso,Caffe Mocha
+6,2010-07-01,Espresso,Decaf Espresso
+8,2010-07-01,Herbal Tea,Chamomile
+8,2010-07-01,Herbal Tea,Chamomile
+2,2010-07-01,Coffee,Columbian
+9,2010-07-01,Herbal Tea,Lemon
+10,2010-07-01,Herbal Tea,Mint
+5,2010-07-01,Espresso,Caffe Mocha
+1,2010-07-01,Coffee,Amaretto
+3,2010-07-01,Coffee,Decaf Irish Cream
+6,2010-07-01,Espresso,Decaf Espresso
+8,2010-07-01,Herbal Tea,Chamomile
+11,2010-07-01,Tea,Darjeeling
+13,2010-07-01,Tea,Green Tea
+9,2010-07-01,Herbal Tea,Lemon
+10,2010-07-01,Herbal Tea,Mint
+2,2010-07-01,Coffee,Columbian
+3,2010-07-01,Coffee,Decaf Irish Cream
+9,2010-07-01,Herbal Tea,Lemon
+11,2010-07-01,Tea,Darjeeling
+1,2010-07-01,Coffee,Amaretto
+2,2010-07-01,Coffee,Columbian
+4,2010-07-01,Espresso,Caffe Latte
+5,2010-07-01,Espresso,Caffe Mocha
+9,2010-07-01,Herbal Tea,Lemon
+4,2010-07-01,Espresso,Caffe Latte
+6,2010-08-01,Espresso,Decaf Espresso
+11,2010-08-01,Tea,Darjeeling
+3,2010-08-01,Coffee,Decaf Irish Cream
+13,2010-08-01,Tea,Green Tea
+6,2010-08-01,Espresso,Decaf Espresso
+12,2010-08-01,Tea,Earl Grey
+4,2010-08-01,Espresso,Caffe Latte
+11,2010-08-01,Tea,Darjeeling
+1,2010-08-01,Coffee,Amaretto
+2,2010-08-01,Coffee,Columbian
+11,2010-08-01,Tea,Darjeeling
+9,2010-08-01,Herbal Tea,Lemon
+11,2010-08-01,Tea,Darjeeling
+6,2010-08-01,Espresso,Decaf Espresso
+9,2010-08-01,Herbal Tea,Lemon
+9,2010-08-01,Herbal Tea,Lemon
+8,2010-08-01,Herbal Tea,Chamomile
+10,2010-08-01,Herbal Tea,Mint
+9,2010-08-01,Herbal Tea,Lemon
+10,2010-08-01,Herbal Tea,Mint
+10,2010-08-01,Herbal Tea,Mint
+10,2010-08-01,Herbal Tea,Mint
+12,2010-08-01,Tea,Earl Grey
+5,2010-08-01,Espresso,Caffe Mocha
+8,2010-08-01,Herbal Tea,Chamomile
+3,2010-08-01,Coffee,Decaf Irish Cream
+9,2010-08-01,Herbal Tea,Lemon
+12,2010-08-01,Tea,Earl Grey
+5,2010-08-01,Espresso,Caffe Mocha
+5,2010-08-01,Espresso,Caffe Mocha
+9,2010-08-01,Herbal Tea,Lemon
+8,2010-08-01,Herbal Tea,Chamomile
+2,2010-08-01,Coffee,Columbian
+3,2010-08-01,Coffee,Decaf Irish Cream
+6,2010-08-01,Espresso,Decaf Espresso
+7,2010-08-01,Espresso,Regular Espresso
+3,2010-08-01,Coffee,Decaf Irish Cream
+2,2010-08-01,Coffee,Columbian
+13,2010-08-01,Tea,Green Tea
+6,2010-08-01,Espresso,Decaf Espresso
+5,2010-08-01,Espresso,Caffe Mocha
+8,2010-08-01,Herbal Tea,Chamomile
+4,2010-08-01,Espresso,Caffe Latte
+2,2010-08-01,Coffee,Columbian
+3,2010-08-01,Coffee,Decaf Irish Cream
+13,2010-08-01,Tea,Green Tea
+6,2010-08-01,Espresso,Decaf Espresso
+9,2010-08-01,Herbal Tea,Lemon
+12,2010-08-01,Tea,Earl Grey
+2,2010-08-01,Coffee,Columbian
+5,2010-08-01,Espresso,Caffe Mocha
+6,2010-08-01,Espresso,Decaf Espresso
+11,2010-08-01,Tea,Darjeeling
+2,2010-08-01,Coffee,Columbian
+3,2010-08-01,Coffee,Decaf Irish Cream
+6,2010-08-01,Espresso,Decaf Espresso
+8,2010-08-01,Herbal Tea,Chamomile
+2,2010-08-01,Coffee,Columbian
+3,2010-08-01,Coffee,Decaf Irish Cream
+5,2010-08-01,Espresso,Caffe Mocha
+6,2010-08-01,Espresso,Decaf Espresso
+8,2010-08-01,Herbal Tea,Chamomile
+9,2010-08-01,Herbal Tea,Lemon
+4,2010-08-01,Espresso,Caffe Latte
+2,2010-08-01,Coffee,Columbian
+13,2010-08-01,Tea,Green Tea
+11,2010-08-01,Tea,Darjeeling
+2,2010-08-01,Coffee,Columbian
+6,2010-08-01,Espresso,Decaf Espresso
+5,2010-08-01,Espresso,Caffe Mocha
+6,2010-08-01,Espresso,Decaf Espresso
+11,2010-08-01,Tea,Darjeeling
+12,2010-08-01,Tea,Earl Grey
+5,2010-08-01,Espresso,Caffe Mocha
+5,2010-08-01,Espresso,Caffe Mocha
+1,2010-08-01,Coffee,Amaretto
+3,2010-08-01,Coffee,Decaf Irish Cream
+13,2010-08-01,Tea,Green Tea
+9,2010-08-01,Herbal Tea,Lemon
+1,2010-08-01,Coffee,Amaretto
+2,2010-08-01,Coffee,Columbian
+8,2010-08-01,Herbal Tea,Chamomile
+9,2010-08-01,Herbal Tea,Lemon
+8,2010-08-01,Herbal Tea,Chamomile
+9,2010-08-01,Herbal Tea,Lemon
+1,2010-08-01,Coffee,Amaretto
+2,2010-08-01,Coffee,Columbian
+13,2010-08-01,Tea,Green Tea
+5,2010-08-01,Espresso,Caffe Mocha
+9,2010-08-01,Herbal Tea,Lemon
+11,2010-08-01,Tea,Darjeeling
+7,2010-08-01,Espresso,Regular Espresso
+2,2010-08-01,Coffee,Columbian
+3,2010-08-01,Coffee,Decaf Irish Cream
+12,2010-08-01,Tea,Earl Grey
+3,2010-08-01,Coffee,Decaf Irish Cream
+3,2010-08-01,Coffee,Decaf Irish Cream
+5,2010-08-01,Espresso,Caffe Mocha
+8,2010-08-01,Herbal Tea,Chamomile
+11,2010-08-01,Tea,Darjeeling
+1,2010-08-01,Coffee,Amaretto
+3,2010-08-01,Coffee,Decaf Irish Cream
+13,2010-08-01,Tea,Green Tea
+9,2010-08-01,Herbal Tea,Lemon
+7,2010-08-01,Espresso,Regular Espresso
+2,2010-08-01,Coffee,Columbian
+12,2010-08-01,Tea,Earl Grey
+3,2010-08-01,Coffee,Decaf Irish Cream
+5,2010-08-01,Espresso,Caffe Mocha
+2,2010-08-01,Coffee,Columbian
+3,2010-08-01,Coffee,Decaf Irish Cream
+6,2010-08-01,Espresso,Decaf Espresso
+10,2010-08-01,Herbal Tea,Mint
+11,2010-08-01,Tea,Darjeeling
+4,2010-08-01,Espresso,Caffe Latte
+6,2010-08-01,Espresso,Decaf Espresso
+5,2010-08-01,Espresso,Caffe Mocha
+8,2010-08-01,Herbal Tea,Chamomile
+9,2010-08-01,Herbal Tea,Lemon
+1,2010-08-01,Coffee,Amaretto
+8,2010-08-01,Herbal Tea,Chamomile
+12,2010-08-01,Tea,Earl Grey
+10,2010-08-01,Herbal Tea,Mint
+2,2010-08-01,Coffee,Columbian
+3,2010-08-01,Coffee,Decaf Irish Cream
+13,2010-08-01,Tea,Green Tea
+6,2010-08-01,Espresso,Decaf Espresso
+1,2010-08-01,Coffee,Amaretto
+5,2010-08-01,Espresso,Caffe Mocha
+11,2010-08-01,Tea,Darjeeling
+11,2010-08-01,Tea,Darjeeling
+13,2010-08-01,Tea,Green Tea
+5,2010-08-01,Espresso,Caffe Mocha
+8,2010-08-01,Herbal Tea,Chamomile
+9,2010-08-01,Herbal Tea,Lemon
+12,2010-08-01,Tea,Earl Grey
+1,2010-08-01,Coffee,Amaretto
+5,2010-08-01,Espresso,Caffe Mocha
+8,2010-08-01,Herbal Tea,Chamomile
+10,2010-08-01,Herbal Tea,Mint
+11,2010-08-01,Tea,Darjeeling
+4,2010-08-01,Espresso,Caffe Latte
+8,2010-08-01,Herbal Tea,Chamomile
+3,2010-08-01,Coffee,Decaf Irish Cream
+11,2010-08-01,Tea,Darjeeling
+13,2010-08-01,Tea,Green Tea
+8,2010-08-01,Herbal Tea,Chamomile
+2,2010-08-01,Coffee,Columbian
+2,2010-08-01,Coffee,Columbian
+6,2010-08-01,Espresso,Decaf Espresso
+9,2010-08-01,Herbal Tea,Lemon
+2,2010-08-01,Coffee,Columbian
+6,2010-08-01,Espresso,Decaf Espresso
+5,2010-08-01,Espresso,Caffe Mocha
+9,2010-08-01,Herbal Tea,Lemon
+13,2010-08-01,Tea,Green Tea
+12,2010-08-01,Tea,Earl Grey
+9,2010-08-01,Herbal Tea,Lemon
+4,2010-08-01,Espresso,Caffe Latte
+5,2010-08-01,Espresso,Caffe Mocha
+4,2010-08-01,Espresso,Caffe Latte
+5,2010-08-01,Espresso,Caffe Mocha
+11,2010-08-01,Tea,Darjeeling
+6,2010-08-01,Espresso,Decaf Espresso
+5,2010-08-01,Espresso,Caffe Mocha
+11,2010-08-01,Tea,Darjeeling
+13,2010-08-01,Tea,Green Tea
+10,2010-08-01,Herbal Tea,Mint
+9,2010-08-01,Herbal Tea,Lemon
+12,2010-08-01,Tea,Earl Grey
+2,2010-08-01,Coffee,Columbian
+8,2010-08-01,Herbal Tea,Chamomile
+12,2010-08-01,Tea,Earl Grey
+4,2010-08-01,Espresso,Caffe Latte
+2,2010-08-01,Coffee,Columbian
+9,2010-08-01,Herbal Tea,Lemon
+4,2010-08-01,Espresso,Caffe Latte
+11,2010-09-01,Tea,Darjeeling
+6,2010-09-01,Espresso,Decaf Espresso
+4,2010-09-01,Espresso,Caffe Latte
+9,2010-09-01,Herbal Tea,Lemon
+10,2010-09-01,Herbal Tea,Mint
+6,2010-09-01,Espresso,Decaf Espresso
+2,2010-09-01,Coffee,Columbian
+9,2010-09-01,Herbal Tea,Lemon
+3,2010-09-01,Coffee,Decaf Irish Cream
+5,2010-09-01,Espresso,Caffe Mocha
+8,2010-09-01,Herbal Tea,Chamomile
+3,2010-09-01,Coffee,Decaf Irish Cream
+5,2010-09-01,Espresso,Caffe Mocha
+6,2010-09-01,Espresso,Decaf Espresso
+9,2010-09-01,Herbal Tea,Lemon
+2,2010-09-01,Coffee,Columbian
+11,2010-09-01,Tea,Darjeeling
+6,2010-09-01,Espresso,Decaf Espresso
+2,2010-09-01,Coffee,Columbian
+3,2010-09-01,Coffee,Decaf Irish Cream
+11,2010-09-01,Tea,Darjeeling
+12,2010-09-01,Tea,Earl Grey
+2,2010-09-01,Coffee,Columbian
+8,2010-09-01,Herbal Tea,Chamomile
+4,2010-09-01,Espresso,Caffe Latte
+1,2010-09-01,Coffee,Amaretto
+2,2010-09-01,Coffee,Columbian
+6,2010-09-01,Espresso,Decaf Espresso
+3,2010-09-01,Coffee,Decaf Irish Cream
+11,2010-09-01,Tea,Darjeeling
+11,2010-09-01,Tea,Darjeeling
+2,2010-09-01,Coffee,Columbian
+3,2010-09-01,Coffee,Decaf Irish Cream
+9,2010-09-01,Herbal Tea,Lemon
+12,2010-09-01,Tea,Earl Grey
+2,2010-09-01,Coffee,Columbian
+10,2010-09-01,Herbal Tea,Mint
+2,2010-09-01,Coffee,Columbian
+1,2010-09-01,Coffee,Amaretto
+2,2010-09-01,Coffee,Columbian
+5,2010-09-01,Espresso,Caffe Mocha
+6,2010-09-01,Espresso,Decaf Espresso
+2,2010-09-01,Coffee,Columbian
+9,2010-09-01,Herbal Tea,Lemon
+13,2010-09-01,Tea,Green Tea
+11,2010-09-01,Tea,Darjeeling
+2,2010-09-01,Coffee,Columbian
+13,2010-09-01,Tea,Green Tea
+5,2010-09-01,Espresso,Caffe Mocha
+6,2010-09-01,Espresso,Decaf Espresso
+8,2010-09-01,Herbal Tea,Chamomile
+9,2010-09-01,Herbal Tea,Lemon
+11,2010-09-01,Tea,Darjeeling
+4,2010-09-01,Espresso,Caffe Latte
+11,2010-09-01,Tea,Darjeeling
+10,2010-09-01,Herbal Tea,Mint
+4,2010-09-01,Espresso,Caffe Latte
+3,2010-09-01,Coffee,Decaf Irish Cream
+2,2010-09-01,Coffee,Columbian
+3,2010-09-01,Coffee,Decaf Irish Cream
+5,2010-09-01,Espresso,Caffe Mocha
+6,2010-09-01,Espresso,Decaf Espresso
+8,2010-09-01,Herbal Tea,Chamomile
+9,2010-09-01,Herbal Tea,Lemon
+4,2010-09-01,Espresso,Caffe Latte
+5,2010-09-01,Espresso,Caffe Mocha
+5,2010-09-01,Espresso,Caffe Mocha
+12,2010-09-01,Tea,Earl Grey
+5,2010-09-01,Espresso,Caffe Mocha
+12,2010-09-01,Tea,Earl Grey
+1,2010-09-01,Coffee,Amaretto
+2,2010-09-01,Coffee,Columbian
+13,2010-09-01,Tea,Green Tea
+5,2010-09-01,Espresso,Caffe Mocha
+6,2010-09-01,Espresso,Decaf Espresso
+8,2010-09-01,Herbal Tea,Chamomile
+11,2010-09-01,Tea,Darjeeling
+12,2010-09-01,Tea,Earl Grey
+8,2010-09-01,Herbal Tea,Chamomile
+3,2010-09-01,Coffee,Decaf Irish Cream
+9,2010-09-01,Herbal Tea,Lemon
+6,2010-09-01,Espresso,Decaf Espresso
+13,2010-09-01,Tea,Green Tea
+2,2010-09-01,Coffee,Columbian
+3,2010-09-01,Coffee,Decaf Irish Cream
+5,2010-09-01,Espresso,Caffe Mocha
+6,2010-09-01,Espresso,Decaf Espresso
+8,2010-09-01,Herbal Tea,Chamomile
+9,2010-09-01,Herbal Tea,Lemon
+4,2010-09-01,Espresso,Caffe Latte
+5,2010-09-01,Espresso,Caffe Mocha
+1,2010-09-01,Coffee,Amaretto
+2,2010-09-01,Coffee,Columbian
+13,2010-09-01,Tea,Green Tea
+5,2010-09-01,Espresso,Caffe Mocha
+9,2010-09-01,Herbal Tea,Lemon
+11,2010-09-01,Tea,Darjeeling
+7,2010-09-01,Espresso,Regular Espresso
+6,2010-09-01,Espresso,Decaf Espresso
+9,2010-09-01,Herbal Tea,Lemon
+1,2010-09-01,Coffee,Amaretto
+13,2010-09-01,Tea,Green Tea
+5,2010-09-01,Espresso,Caffe Mocha
+2,2010-09-01,Coffee,Columbian
+8,2010-09-01,Herbal Tea,Chamomile
+9,2010-09-01,Herbal Tea,Lemon
+8,2010-09-01,Herbal Tea,Chamomile
+11,2010-09-01,Tea,Darjeeling
+13,2010-09-01,Tea,Green Tea
+9,2010-09-01,Herbal Tea,Lemon
+2,2010-09-01,Coffee,Columbian
+3,2010-09-01,Coffee,Decaf Irish Cream
+6,2010-09-01,Espresso,Decaf Espresso
+8,2010-09-01,Herbal Tea,Chamomile
+9,2010-09-01,Herbal Tea,Lemon
+11,2010-09-01,Tea,Darjeeling
+12,2010-09-01,Tea,Earl Grey
+4,2010-09-01,Espresso,Caffe Latte
+3,2010-09-01,Coffee,Decaf Irish Cream
+8,2010-09-01,Herbal Tea,Chamomile
+8,2010-09-01,Herbal Tea,Chamomile
+12,2010-09-01,Tea,Earl Grey
+5,2010-09-01,Espresso,Caffe Mocha
+1,2010-09-01,Coffee,Amaretto
+12,2010-09-01,Tea,Earl Grey
+12,2010-09-01,Tea,Earl Grey
+7,2010-09-01,Espresso,Regular Espresso
+10,2010-09-01,Herbal Tea,Mint
+12,2010-09-01,Tea,Earl Grey
+11,2010-09-01,Tea,Darjeeling
+13,2010-09-01,Tea,Green Tea
+10,2010-09-01,Herbal Tea,Mint
+12,2010-09-01,Tea,Earl Grey
+13,2010-09-01,Tea,Green Tea
+5,2010-09-01,Espresso,Caffe Mocha
+10,2010-09-01,Herbal Tea,Mint
+7,2010-09-01,Espresso,Regular Espresso
+1,2010-09-01,Coffee,Amaretto
+3,2010-09-01,Coffee,Decaf Irish Cream
+10,2010-09-01,Herbal Tea,Mint
+12,2010-09-01,Tea,Earl Grey
+11,2010-09-01,Tea,Darjeeling
+5,2010-09-01,Espresso,Caffe Mocha
+8,2010-09-01,Herbal Tea,Chamomile
+9,2010-09-01,Herbal Tea,Lemon
+4,2010-09-01,Espresso,Caffe Latte
+9,2010-09-01,Herbal Tea,Lemon
+2,2010-09-01,Coffee,Columbian
+13,2010-09-01,Tea,Green Tea
+6,2010-09-01,Espresso,Decaf Espresso
+5,2010-09-01,Espresso,Caffe Mocha
+6,2010-09-01,Espresso,Decaf Espresso
+13,2010-09-01,Tea,Green Tea
+3,2010-09-01,Coffee,Decaf Irish Cream
+2,2010-09-01,Coffee,Columbian
+9,2010-09-01,Herbal Tea,Lemon
+8,2010-09-01,Herbal Tea,Chamomile
+11,2010-09-01,Tea,Darjeeling
+8,2010-09-01,Herbal Tea,Chamomile
+4,2010-09-01,Espresso,Caffe Latte
+5,2010-09-01,Espresso,Caffe Mocha
+10,2010-09-01,Herbal Tea,Mint
+3,2010-09-01,Coffee,Decaf Irish Cream
+5,2010-09-01,Espresso,Caffe Mocha
+9,2010-09-01,Herbal Tea,Lemon
+1,2010-09-01,Coffee,Amaretto
+2,2010-09-01,Coffee,Columbian
+3,2010-09-01,Coffee,Decaf Irish Cream
+13,2010-09-01,Tea,Green Tea
+8,2010-09-01,Herbal Tea,Chamomile
+9,2010-09-01,Herbal Tea,Lemon
+11,2010-09-01,Tea,Darjeeling
+3,2010-09-01,Coffee,Decaf Irish Cream
+9,2010-09-01,Herbal Tea,Lemon
+6,2010-09-01,Espresso,Decaf Espresso
+5,2010-09-01,Espresso,Caffe Mocha
+6,2010-09-01,Espresso,Decaf Espresso
+5,2010-10-01,Espresso,Caffe Mocha
+2,2010-10-01,Coffee,Columbian
+13,2010-10-01,Tea,Green Tea
+8,2010-10-01,Herbal Tea,Chamomile
+11,2010-10-01,Tea,Darjeeling
+4,2010-10-01,Espresso,Caffe Latte
+10,2010-10-01,Herbal Tea,Mint
+12,2010-10-01,Tea,Earl Grey
+5,2010-10-01,Espresso,Caffe Mocha
+3,2010-10-01,Coffee,Decaf Irish Cream
+3,2010-10-01,Coffee,Decaf Irish Cream
+11,2010-10-01,Tea,Darjeeling
+2,2010-10-01,Coffee,Columbian
+3,2010-10-01,Coffee,Decaf Irish Cream
+8,2010-10-01,Herbal Tea,Chamomile
+11,2010-10-01,Tea,Darjeeling
+5,2010-10-01,Espresso,Caffe Mocha
+6,2010-10-01,Espresso,Decaf Espresso
+5,2010-10-01,Espresso,Caffe Mocha
+6,2010-10-01,Espresso,Decaf Espresso
+9,2010-10-01,Herbal Tea,Lemon
+11,2010-10-01,Tea,Darjeeling
+5,2010-10-01,Espresso,Caffe Mocha
+6,2010-10-01,Espresso,Decaf Espresso
+9,2010-10-01,Herbal Tea,Lemon
+11,2010-10-01,Tea,Darjeeling
+12,2010-10-01,Tea,Earl Grey
+10,2010-10-01,Herbal Tea,Mint
+6,2010-10-01,Espresso,Decaf Espresso
+13,2010-10-01,Tea,Green Tea
+5,2010-10-01,Espresso,Caffe Mocha
+2,2010-10-01,Coffee,Columbian
+10,2010-10-01,Herbal Tea,Mint
+6,2010-10-01,Espresso,Decaf Espresso
+4,2010-10-01,Espresso,Caffe Latte
+5,2010-10-01,Espresso,Caffe Mocha
+12,2010-10-01,Tea,Earl Grey
+8,2010-10-01,Herbal Tea,Chamomile
+5,2010-10-01,Espresso,Caffe Mocha
+6,2010-10-01,Espresso,Decaf Espresso
+8,2010-10-01,Herbal Tea,Chamomile
+9,2010-10-01,Herbal Tea,Lemon
+4,2010-10-01,Espresso,Caffe Latte
+2,2010-10-01,Coffee,Columbian
+9,2010-10-01,Herbal Tea,Lemon
+13,2010-10-01,Tea,Green Tea
+8,2010-10-01,Herbal Tea,Chamomile
+12,2010-10-01,Tea,Earl Grey
+3,2010-10-01,Coffee,Decaf Irish Cream
+9,2010-10-01,Herbal Tea,Lemon
+1,2010-10-01,Coffee,Amaretto
+2,2010-10-01,Coffee,Columbian
+3,2010-10-01,Coffee,Decaf Irish Cream
+13,2010-10-01,Tea,Green Tea
+6,2010-10-01,Espresso,Decaf Espresso
+9,2010-10-01,Herbal Tea,Lemon
+10,2010-10-01,Herbal Tea,Mint
+12,2010-10-01,Tea,Earl Grey
+1,2010-10-01,Coffee,Amaretto
+6,2010-10-01,Espresso,Decaf Espresso
+4,2010-10-01,Espresso,Caffe Latte
+9,2010-10-01,Herbal Tea,Lemon
+2,2010-10-01,Coffee,Columbian
+3,2010-10-01,Coffee,Decaf Irish Cream
+5,2010-10-01,Espresso,Caffe Mocha
+6,2010-10-01,Espresso,Decaf Espresso
+8,2010-10-01,Herbal Tea,Chamomile
+9,2010-10-01,Herbal Tea,Lemon
+4,2010-10-01,Espresso,Caffe Latte
+11,2010-10-01,Tea,Darjeeling
+9,2010-10-01,Herbal Tea,Lemon
+2,2010-10-01,Coffee,Columbian
+11,2010-10-01,Tea,Darjeeling
+13,2010-10-01,Tea,Green Tea
+11,2010-10-01,Tea,Darjeeling
+3,2010-10-01,Coffee,Decaf Irish Cream
+13,2010-10-01,Tea,Green Tea
+5,2010-10-01,Espresso,Caffe Mocha
+9,2010-10-01,Herbal Tea,Lemon
+11,2010-10-01,Tea,Darjeeling
+4,2010-10-01,Espresso,Caffe Latte
+1,2010-10-01,Coffee,Amaretto
+11,2010-10-01,Tea,Darjeeling
+12,2010-10-01,Tea,Earl Grey
+5,2010-10-01,Espresso,Caffe Mocha
+8,2010-10-01,Herbal Tea,Chamomile
+9,2010-10-01,Herbal Tea,Lemon
+1,2010-10-01,Coffee,Amaretto
+2,2010-10-01,Coffee,Columbian
+13,2010-10-01,Tea,Green Tea
+5,2010-10-01,Espresso,Caffe Mocha
+9,2010-10-01,Herbal Tea,Lemon
+11,2010-10-01,Tea,Darjeeling
+7,2010-10-01,Espresso,Regular Espresso
+5,2010-10-01,Espresso,Caffe Mocha
+6,2010-10-01,Espresso,Decaf Espresso
+12,2010-10-01,Tea,Earl Grey
+2,2010-10-01,Coffee,Columbian
+9,2010-10-01,Herbal Tea,Lemon
+11,2010-10-01,Tea,Darjeeling
+3,2010-10-01,Coffee,Decaf Irish Cream
+9,2010-10-01,Herbal Tea,Lemon
+3,2010-10-01,Coffee,Decaf Irish Cream
+6,2010-10-01,Espresso,Decaf Espresso
+8,2010-10-01,Herbal Tea,Chamomile
+13,2010-10-01,Tea,Green Tea
+5,2010-10-01,Espresso,Caffe Mocha
+6,2010-10-01,Espresso,Decaf Espresso
+9,2010-10-01,Herbal Tea,Lemon
+10,2010-10-01,Herbal Tea,Mint
+11,2010-10-01,Tea,Darjeeling
+4,2010-10-01,Espresso,Caffe Latte
+8,2010-10-01,Herbal Tea,Chamomile
+6,2010-10-01,Espresso,Decaf Espresso
+8,2010-10-01,Herbal Tea,Chamomile
+8,2010-10-01,Herbal Tea,Chamomile
+6,2010-10-01,Espresso,Decaf Espresso
+1,2010-10-01,Coffee,Amaretto
+2,2010-10-01,Coffee,Columbian
+3,2010-10-01,Coffee,Decaf Irish Cream
+6,2010-10-01,Espresso,Decaf Espresso
+12,2010-10-01,Tea,Earl Grey
+12,2010-10-01,Tea,Earl Grey
+7,2010-10-01,Espresso,Regular Espresso
+2,2010-10-01,Coffee,Columbian
+3,2010-10-01,Coffee,Decaf Irish Cream
+8,2010-10-01,Herbal Tea,Chamomile
+13,2010-10-01,Tea,Green Tea
+5,2010-10-01,Espresso,Caffe Mocha
+2,2010-10-01,Coffee,Columbian
+3,2010-10-01,Coffee,Decaf Irish Cream
+8,2010-10-01,Herbal Tea,Chamomile
+12,2010-10-01,Tea,Earl Grey
+9,2010-10-01,Herbal Tea,Lemon
+7,2010-10-01,Espresso,Regular Espresso
+5,2010-10-01,Espresso,Caffe Mocha
+8,2010-10-01,Herbal Tea,Chamomile
+11,2010-10-01,Tea,Darjeeling
+4,2010-10-01,Espresso,Caffe Latte
+2,2010-10-01,Coffee,Columbian
+3,2010-10-01,Coffee,Decaf Irish Cream
+5,2010-10-01,Espresso,Caffe Mocha
+10,2010-10-01,Herbal Tea,Mint
+2,2010-10-01,Coffee,Columbian
+1,2010-10-01,Coffee,Amaretto
+4,2010-10-01,Espresso,Caffe Latte
+5,2010-10-01,Espresso,Caffe Mocha
+9,2010-10-01,Herbal Tea,Lemon
+12,2010-10-01,Tea,Earl Grey
+9,2010-10-01,Herbal Tea,Lemon
+11,2010-10-01,Tea,Darjeeling
+2,2010-10-01,Coffee,Columbian
+2,2010-10-01,Coffee,Columbian
+6,2010-10-01,Espresso,Decaf Espresso
+10,2010-10-01,Herbal Tea,Mint
+11,2010-10-01,Tea,Darjeeling
+13,2010-10-01,Tea,Green Tea
+6,2010-10-01,Espresso,Decaf Espresso
+2,2010-10-01,Coffee,Columbian
+3,2010-10-01,Coffee,Decaf Irish Cream
+2,2010-10-01,Coffee,Columbian
+2,2010-10-01,Coffee,Columbian
+8,2010-10-01,Herbal Tea,Chamomile
+3,2010-10-01,Coffee,Decaf Irish Cream
+13,2010-10-01,Tea,Green Tea
+9,2010-10-01,Herbal Tea,Lemon
+1,2010-10-01,Coffee,Amaretto
+10,2010-10-01,Herbal Tea,Mint
+1,2010-10-01,Coffee,Amaretto
+2,2010-10-01,Coffee,Columbian
+3,2010-10-01,Coffee,Decaf Irish Cream
+13,2010-10-01,Tea,Green Tea
+5,2010-10-01,Espresso,Caffe Mocha
+8,2010-10-01,Herbal Tea,Chamomile
+9,2010-10-01,Herbal Tea,Lemon
+12,2010-10-01,Tea,Earl Grey
+5,2010-10-01,Espresso,Caffe Mocha
+2,2010-11-01,Coffee,Columbian
+13,2010-11-01,Tea,Green Tea
+5,2010-11-01,Espresso,Caffe Mocha
+13,2010-11-01,Tea,Green Tea
+6,2010-11-01,Espresso,Decaf Espresso
+8,2010-11-01,Herbal Tea,Chamomile
+12,2010-11-01,Tea,Earl Grey
+6,2010-11-01,Espresso,Decaf Espresso
+8,2010-11-01,Herbal Tea,Chamomile
+9,2010-11-01,Herbal Tea,Lemon
+11,2010-11-01,Tea,Darjeeling
+5,2010-11-01,Espresso,Caffe Mocha
+2,2010-11-01,Coffee,Columbian
+5,2010-11-01,Espresso,Caffe Mocha
+6,2010-11-01,Espresso,Decaf Espresso
+3,2010-11-01,Coffee,Decaf Irish Cream
+4,2010-11-01,Espresso,Caffe Latte
+1,2010-11-01,Coffee,Amaretto
+2,2010-11-01,Coffee,Columbian
+3,2010-11-01,Coffee,Decaf Irish Cream
+9,2010-11-01,Herbal Tea,Lemon
+11,2010-11-01,Tea,Darjeeling
+5,2010-11-01,Espresso,Caffe Mocha
+6,2010-11-01,Espresso,Decaf Espresso
+9,2010-11-01,Herbal Tea,Lemon
+8,2010-11-01,Herbal Tea,Chamomile
+3,2010-11-01,Coffee,Decaf Irish Cream
+13,2010-11-01,Tea,Green Tea
+5,2010-11-01,Espresso,Caffe Mocha
+6,2010-11-01,Espresso,Decaf Espresso
+12,2010-11-01,Tea,Earl Grey
+12,2010-11-01,Tea,Earl Grey
+1,2010-11-01,Coffee,Amaretto
+11,2010-11-01,Tea,Darjeeling
+8,2010-11-01,Herbal Tea,Chamomile
+9,2010-11-01,Herbal Tea,Lemon
+11,2010-11-01,Tea,Darjeeling
+2,2010-11-01,Coffee,Columbian
+5,2010-11-01,Espresso,Caffe Mocha
+13,2010-11-01,Tea,Green Tea
+11,2010-11-01,Tea,Darjeeling
+9,2010-11-01,Herbal Tea,Lemon
+5,2010-11-01,Espresso,Caffe Mocha
+11,2010-11-01,Tea,Darjeeling
+6,2010-11-01,Espresso,Decaf Espresso
+12,2010-11-01,Tea,Earl Grey
+2,2010-11-01,Coffee,Columbian
+5,2010-11-01,Espresso,Caffe Mocha
+11,2010-11-01,Tea,Darjeeling
+2,2010-11-01,Coffee,Columbian
+5,2010-11-01,Espresso,Caffe Mocha
+6,2010-11-01,Espresso,Decaf Espresso
+9,2010-11-01,Herbal Tea,Lemon
+11,2010-11-01,Tea,Darjeeling
+12,2010-11-01,Tea,Earl Grey
+4,2010-11-01,Espresso,Caffe Latte
+5,2010-11-01,Espresso,Caffe Mocha
+10,2010-11-01,Herbal Tea,Mint
+3,2010-11-01,Coffee,Decaf Irish Cream
+5,2010-11-01,Espresso,Caffe Mocha
+6,2010-11-01,Espresso,Decaf Espresso
+8,2010-11-01,Herbal Tea,Chamomile
+3,2010-11-01,Coffee,Decaf Irish Cream
+4,2010-11-01,Espresso,Caffe Latte
+2,2010-11-01,Coffee,Columbian
+3,2010-11-01,Coffee,Decaf Irish Cream
+5,2010-11-01,Espresso,Caffe Mocha
+6,2010-11-01,Espresso,Decaf Espresso
+8,2010-11-01,Herbal Tea,Chamomile
+9,2010-11-01,Herbal Tea,Lemon
+4,2010-11-01,Espresso,Caffe Latte
+7,2010-11-01,Espresso,Regular Espresso
+9,2010-11-01,Herbal Tea,Lemon
+5,2010-11-01,Espresso,Caffe Mocha
+11,2010-11-01,Tea,Darjeeling
+1,2010-11-01,Coffee,Amaretto
+11,2010-11-01,Tea,Darjeeling
+4,2010-11-01,Espresso,Caffe Latte
+4,2010-11-01,Espresso,Caffe Latte
+13,2010-11-01,Tea,Green Tea
+6,2010-11-01,Espresso,Decaf Espresso
+8,2010-11-01,Herbal Tea,Chamomile
+1,2010-11-01,Coffee,Amaretto
+2,2010-11-01,Coffee,Columbian
+3,2010-11-01,Coffee,Decaf Irish Cream
+2,2010-11-01,Coffee,Columbian
+8,2010-11-01,Herbal Tea,Chamomile
+9,2010-11-01,Herbal Tea,Lemon
+3,2010-11-01,Coffee,Decaf Irish Cream
+9,2010-11-01,Herbal Tea,Lemon
+1,2010-11-01,Coffee,Amaretto
+2,2010-11-01,Coffee,Columbian
+13,2010-11-01,Tea,Green Tea
+5,2010-11-01,Espresso,Caffe Mocha
+9,2010-11-01,Herbal Tea,Lemon
+11,2010-11-01,Tea,Darjeeling
+7,2010-11-01,Espresso,Regular Espresso
+2,2010-11-01,Coffee,Columbian
+9,2010-11-01,Herbal Tea,Lemon
+9,2010-11-01,Herbal Tea,Lemon
+1,2010-11-01,Coffee,Amaretto
+10,2010-11-01,Herbal Tea,Mint
+12,2010-11-01,Tea,Earl Grey
+9,2010-11-01,Herbal Tea,Lemon
+12,2010-11-01,Tea,Earl Grey
+3,2010-11-01,Coffee,Decaf Irish Cream
+7,2010-11-01,Espresso,Regular Espresso
+13,2010-11-01,Tea,Green Tea
+12,2010-11-01,Tea,Earl Grey
+13,2010-11-01,Tea,Green Tea
+9,2010-11-01,Herbal Tea,Lemon
+10,2010-11-01,Herbal Tea,Mint
+11,2010-11-01,Tea,Darjeeling
+12,2010-11-01,Tea,Earl Grey
+6,2010-11-01,Espresso,Decaf Espresso
+10,2010-11-01,Herbal Tea,Mint
+6,2010-11-01,Espresso,Decaf Espresso
+8,2010-11-01,Herbal Tea,Chamomile
+9,2010-11-01,Herbal Tea,Lemon
+11,2010-11-01,Tea,Darjeeling
+8,2010-11-01,Herbal Tea,Chamomile
+6,2010-11-01,Espresso,Decaf Espresso
+12,2010-11-01,Tea,Earl Grey
+13,2010-11-01,Tea,Green Tea
+13,2010-11-01,Tea,Green Tea
+11,2010-11-01,Tea,Darjeeling
+12,2010-11-01,Tea,Earl Grey
+10,2010-11-01,Herbal Tea,Mint
+2,2010-11-01,Coffee,Columbian
+5,2010-11-01,Espresso,Caffe Mocha
+3,2010-11-01,Coffee,Decaf Irish Cream
+9,2010-11-01,Herbal Tea,Lemon
+5,2010-11-01,Espresso,Caffe Mocha
+2,2010-11-01,Coffee,Columbian
+3,2010-11-01,Coffee,Decaf Irish Cream
+5,2010-11-01,Espresso,Caffe Mocha
+6,2010-11-01,Espresso,Decaf Espresso
+8,2010-11-01,Herbal Tea,Chamomile
+4,2010-11-01,Espresso,Caffe Latte
+1,2010-11-01,Coffee,Amaretto
+3,2010-11-01,Coffee,Decaf Irish Cream
+13,2010-11-01,Tea,Green Tea
+8,2010-11-01,Herbal Tea,Chamomile
+10,2010-11-01,Herbal Tea,Mint
+2,2010-11-01,Coffee,Columbian
+3,2010-11-01,Coffee,Decaf Irish Cream
+4,2010-11-01,Espresso,Caffe Latte
+5,2010-11-01,Espresso,Caffe Mocha
+6,2010-11-01,Espresso,Decaf Espresso
+11,2010-11-01,Tea,Darjeeling
+6,2010-11-01,Espresso,Decaf Espresso
+9,2010-11-01,Herbal Tea,Lemon
+3,2010-11-01,Coffee,Decaf Irish Cream
+10,2010-11-01,Herbal Tea,Mint
+3,2010-11-01,Coffee,Decaf Irish Cream
+2,2010-11-01,Coffee,Columbian
+5,2010-11-01,Espresso,Caffe Mocha
+6,2010-11-01,Espresso,Decaf Espresso
+8,2010-11-01,Herbal Tea,Chamomile
+4,2010-11-01,Espresso,Caffe Latte
+5,2010-11-01,Espresso,Caffe Mocha
+8,2010-11-01,Herbal Tea,Chamomile
+9,2010-11-01,Herbal Tea,Lemon
+8,2010-11-01,Herbal Tea,Chamomile
+2,2010-11-01,Coffee,Columbian
+10,2010-11-01,Herbal Tea,Mint
+2,2010-11-01,Coffee,Columbian
+11,2010-11-01,Tea,Darjeeling
+1,2010-11-01,Coffee,Amaretto
+2,2010-11-01,Coffee,Columbian
+3,2010-11-01,Coffee,Decaf Irish Cream
+8,2010-11-01,Herbal Tea,Chamomile
+2,2010-11-01,Coffee,Columbian
+13,2010-11-01,Tea,Green Tea
+9,2010-11-01,Herbal Tea,Lemon
+12,2010-11-01,Tea,Earl Grey
+2,2010-11-01,Coffee,Columbian
+2,2010-12-01,Coffee,Columbian
+6,2010-12-01,Espresso,Decaf Espresso
+5,2010-12-01,Espresso,Caffe Mocha
+13,2010-12-01,Tea,Green Tea
+6,2010-12-01,Espresso,Decaf Espresso
+9,2010-12-01,Herbal Tea,Lemon
+3,2010-12-01,Coffee,Decaf Irish Cream
+6,2010-12-01,Espresso,Decaf Espresso
+8,2010-12-01,Herbal Tea,Chamomile
+2,2010-12-01,Coffee,Columbian
+6,2010-12-01,Espresso,Decaf Espresso
+4,2010-12-01,Espresso,Caffe Latte
+6,2010-12-01,Espresso,Decaf Espresso
+11,2010-12-01,Tea,Darjeeling
+8,2010-12-01,Herbal Tea,Chamomile
+10,2010-12-01,Herbal Tea,Mint
+11,2010-12-01,Tea,Darjeeling
+12,2010-12-01,Tea,Earl Grey
+5,2010-12-01,Espresso,Caffe Mocha
+8,2010-12-01,Herbal Tea,Chamomile
+11,2010-12-01,Tea,Darjeeling
+5,2010-12-01,Espresso,Caffe Mocha
+6,2010-12-01,Espresso,Decaf Espresso
+2,2010-12-01,Coffee,Columbian
+3,2010-12-01,Coffee,Decaf Irish Cream
+9,2010-12-01,Herbal Tea,Lemon
+9,2010-12-01,Herbal Tea,Lemon
+5,2010-12-01,Espresso,Caffe Mocha
+2,2010-12-01,Coffee,Columbian
+7,2010-12-01,Espresso,Regular Espresso
+13,2010-12-01,Tea,Green Tea
+2,2010-12-01,Coffee,Columbian
+6,2010-12-01,Espresso,Decaf Espresso
+8,2010-12-01,Herbal Tea,Chamomile
+6,2010-12-01,Espresso,Decaf Espresso
+9,2010-12-01,Herbal Tea,Lemon
+8,2010-12-01,Herbal Tea,Chamomile
+3,2010-12-01,Coffee,Decaf Irish Cream
+9,2010-12-01,Herbal Tea,Lemon
+1,2010-12-01,Coffee,Amaretto
+3,2010-12-01,Coffee,Decaf Irish Cream
+13,2010-12-01,Tea,Green Tea
+5,2010-12-01,Espresso,Caffe Mocha
+6,2010-12-01,Espresso,Decaf Espresso
+8,2010-12-01,Herbal Tea,Chamomile
+10,2010-12-01,Herbal Tea,Mint
+11,2010-12-01,Tea,Darjeeling
+4,2010-12-01,Espresso,Caffe Latte
+8,2010-12-01,Herbal Tea,Chamomile
+5,2010-12-01,Espresso,Caffe Mocha
+9,2010-12-01,Herbal Tea,Lemon
+10,2010-12-01,Herbal Tea,Mint
+1,2010-12-01,Coffee,Amaretto
+2,2010-12-01,Coffee,Columbian
+3,2010-12-01,Coffee,Decaf Irish Cream
+13,2010-12-01,Tea,Green Tea
+5,2010-12-01,Espresso,Caffe Mocha
+2,2010-12-01,Coffee,Columbian
+3,2010-12-01,Coffee,Decaf Irish Cream
+5,2010-12-01,Espresso,Caffe Mocha
+6,2010-12-01,Espresso,Decaf Espresso
+8,2010-12-01,Herbal Tea,Chamomile
+9,2010-12-01,Herbal Tea,Lemon
+4,2010-12-01,Espresso,Caffe Latte
+9,2010-12-01,Herbal Tea,Lemon
+3,2010-12-01,Coffee,Decaf Irish Cream
+5,2010-12-01,Espresso,Caffe Mocha
+8,2010-12-01,Herbal Tea,Chamomile
+11,2010-12-01,Tea,Darjeeling
+12,2010-12-01,Tea,Earl Grey
+4,2010-12-01,Espresso,Caffe Latte
+1,2010-12-01,Coffee,Amaretto
+11,2010-12-01,Tea,Darjeeling
+5,2010-12-01,Espresso,Caffe Mocha
+13,2010-12-01,Tea,Green Tea
+5,2010-12-01,Espresso,Caffe Mocha
+8,2010-12-01,Herbal Tea,Chamomile
+9,2010-12-01,Herbal Tea,Lemon
+10,2010-12-01,Herbal Tea,Mint
+2,2010-12-01,Coffee,Columbian
+2,2010-12-01,Coffee,Columbian
+9,2010-12-01,Herbal Tea,Lemon
+11,2010-12-01,Tea,Darjeeling
+12,2010-12-01,Tea,Earl Grey
+3,2010-12-01,Coffee,Decaf Irish Cream
+5,2010-12-01,Espresso,Caffe Mocha
+9,2010-12-01,Herbal Tea,Lemon
+1,2010-12-01,Coffee,Amaretto
+2,2010-12-01,Coffee,Columbian
+13,2010-12-01,Tea,Green Tea
+5,2010-12-01,Espresso,Caffe Mocha
+9,2010-12-01,Herbal Tea,Lemon
+11,2010-12-01,Tea,Darjeeling
+7,2010-12-01,Espresso,Regular Espresso
+9,2010-12-01,Herbal Tea,Lemon
+2,2010-12-01,Coffee,Columbian
+11,2010-12-01,Tea,Darjeeling
+12,2010-12-01,Tea,Earl Grey
+8,2010-12-01,Herbal Tea,Chamomile
+3,2010-12-01,Coffee,Decaf Irish Cream
+6,2010-12-01,Espresso,Decaf Espresso
+10,2010-12-01,Herbal Tea,Mint
+12,2010-12-01,Tea,Earl Grey
+13,2010-12-01,Tea,Green Tea
+1,2010-12-01,Coffee,Amaretto
+6,2010-12-01,Espresso,Decaf Espresso
+8,2010-12-01,Herbal Tea,Chamomile
+11,2010-12-01,Tea,Darjeeling
+12,2010-12-01,Tea,Earl Grey
+3,2010-12-01,Coffee,Decaf Irish Cream
+3,2010-12-01,Coffee,Decaf Irish Cream
+6,2010-12-01,Espresso,Decaf Espresso
+8,2010-12-01,Herbal Tea,Chamomile
+11,2010-12-01,Tea,Darjeeling
+12,2010-12-01,Tea,Earl Grey
+4,2010-12-01,Espresso,Caffe Latte
+2,2010-12-01,Coffee,Columbian
+3,2010-12-01,Coffee,Decaf Irish Cream
+1,2010-12-01,Coffee,Amaretto
+2,2010-12-01,Coffee,Columbian
+3,2010-12-01,Coffee,Decaf Irish Cream
+5,2010-12-01,Espresso,Caffe Mocha
+9,2010-12-01,Herbal Tea,Lemon
+10,2010-12-01,Herbal Tea,Mint
+11,2010-12-01,Tea,Darjeeling
+12,2010-12-01,Tea,Earl Grey
+7,2010-12-01,Espresso,Regular Espresso
+1,2010-12-01,Coffee,Amaretto
+13,2010-12-01,Tea,Green Tea
+3,2010-12-01,Coffee,Decaf Irish Cream
+5,2010-12-01,Espresso,Caffe Mocha
+6,2010-12-01,Espresso,Decaf Espresso
+12,2010-12-01,Tea,Earl Grey
+2,2010-12-01,Coffee,Columbian
+8,2010-12-01,Herbal Tea,Chamomile
+9,2010-12-01,Herbal Tea,Lemon
+2,2010-12-01,Coffee,Columbian
+13,2010-12-01,Tea,Green Tea
+5,2010-12-01,Espresso,Caffe Mocha
+9,2010-12-01,Herbal Tea,Lemon
+10,2010-12-01,Herbal Tea,Mint
+2,2010-12-01,Coffee,Columbian
+9,2010-12-01,Herbal Tea,Lemon
+12,2010-12-01,Tea,Earl Grey
+10,2010-12-01,Herbal Tea,Mint
+3,2010-12-01,Coffee,Decaf Irish Cream
+11,2010-12-01,Tea,Darjeeling
+5,2010-12-01,Espresso,Caffe Mocha
+3,2010-12-01,Coffee,Decaf Irish Cream
+2,2010-12-01,Coffee,Columbian
+2,2010-12-01,Coffee,Columbian
+13,2010-12-01,Tea,Green Tea
+11,2010-12-01,Tea,Darjeeling
+13,2010-12-01,Tea,Green Tea
+11,2010-12-01,Tea,Darjeeling
+4,2010-12-01,Espresso,Caffe Latte
+4,2010-12-01,Espresso,Caffe Latte
+8,2010-12-01,Herbal Tea,Chamomile
+12,2010-12-01,Tea,Earl Grey
+8,2010-12-01,Herbal Tea,Chamomile
+1,2010-12-01,Coffee,Amaretto
+9,2010-12-01,Herbal Tea,Lemon
+13,2010-12-01,Tea,Green Tea
+6,2010-12-01,Espresso,Decaf Espresso
+2,2010-12-01,Coffee,Columbian
+5,2010-12-01,Espresso,Caffe Mocha
+6,2010-12-01,Espresso,Decaf Espresso
+9,2010-12-01,Herbal Tea,Lemon
+6,2010-12-01,Espresso,Decaf Espresso
+11,2010-12-01,Tea,Darjeeling
+12,2010-12-01,Tea,Earl Grey
+4,2010-12-01,Espresso,Caffe Latte
+2,2010-12-01,Coffee,Columbian
+5,2010-12-01,Espresso,Caffe Mocha
+5,2010-12-01,Espresso,Caffe Mocha
+9,2010-12-01,Herbal Tea,Lemon
+4,2010-12-01,Espresso,Caffe Latte
+5,2011-01-01,Espresso,Caffe Mocha
+6,2011-01-01,Espresso,Decaf Espresso
+2,2011-01-01,Coffee,Columbian
+5,2011-01-01,Espresso,Caffe Mocha
+12,2011-01-01,Tea,Earl Grey
+4,2011-01-01,Espresso,Caffe Latte
+1,2011-01-01,Coffee,Amaretto
+13,2011-01-01,Tea,Green Tea
+3,2011-01-01,Coffee,Decaf Irish Cream
+11,2011-01-01,Tea,Darjeeling
+10,2011-01-01,Herbal Tea,Mint
+5,2011-01-01,Espresso,Caffe Mocha
+5,2011-01-01,Espresso,Caffe Mocha
+13,2011-01-01,Tea,Green Tea
+5,2011-01-01,Espresso,Caffe Mocha
+11,2011-01-01,Tea,Darjeeling
+11,2011-01-01,Tea,Darjeeling
+9,2011-01-01,Herbal Tea,Lemon
+5,2011-01-01,Espresso,Caffe Mocha
+12,2011-01-01,Tea,Earl Grey
+8,2011-01-01,Herbal Tea,Chamomile
+13,2011-01-01,Tea,Green Tea
+6,2011-01-01,Espresso,Decaf Espresso
+3,2011-01-01,Coffee,Decaf Irish Cream
+5,2011-01-01,Espresso,Caffe Mocha
+2,2011-01-01,Coffee,Columbian
+3,2011-01-01,Coffee,Decaf Irish Cream
+9,2011-01-01,Herbal Tea,Lemon
+3,2011-01-01,Coffee,Decaf Irish Cream
+8,2011-01-01,Herbal Tea,Chamomile
+9,2011-01-01,Herbal Tea,Lemon
+11,2011-01-01,Tea,Darjeeling
+10,2011-01-01,Herbal Tea,Mint
+4,2011-01-01,Espresso,Caffe Latte
+1,2011-01-01,Coffee,Amaretto
+2,2011-01-01,Coffee,Columbian
+6,2011-01-01,Espresso,Decaf Espresso
+9,2011-01-01,Herbal Tea,Lemon
+3,2011-01-01,Coffee,Decaf Irish Cream
+3,2011-01-01,Coffee,Decaf Irish Cream
+6,2011-01-01,Espresso,Decaf Espresso
+9,2011-01-01,Herbal Tea,Lemon
+4,2011-01-01,Espresso,Caffe Latte
+6,2011-01-01,Espresso,Decaf Espresso
+2,2011-01-01,Coffee,Columbian
+3,2011-01-01,Coffee,Decaf Irish Cream
+13,2011-01-01,Tea,Green Tea
+6,2011-01-01,Espresso,Decaf Espresso
+2,2011-01-01,Coffee,Columbian
+13,2011-01-01,Tea,Green Tea
+5,2011-01-01,Espresso,Caffe Mocha
+6,2011-01-01,Espresso,Decaf Espresso
+8,2011-01-01,Herbal Tea,Chamomile
+9,2011-01-01,Herbal Tea,Lemon
+10,2011-01-01,Herbal Tea,Mint
+11,2011-01-01,Tea,Darjeeling
+4,2011-01-01,Espresso,Caffe Latte
+13,2011-01-01,Tea,Green Tea
+1,2011-01-01,Coffee,Amaretto
+2,2011-01-01,Coffee,Columbian
+5,2011-01-01,Espresso,Caffe Mocha
+8,2011-01-01,Herbal Tea,Chamomile
+9,2011-01-01,Herbal Tea,Lemon
+12,2011-01-01,Tea,Earl Grey
+4,2011-01-01,Espresso,Caffe Latte
+4,2011-01-01,Espresso,Caffe Latte
+2,2011-01-01,Coffee,Columbian
+3,2011-01-01,Coffee,Decaf Irish Cream
+5,2011-01-01,Espresso,Caffe Mocha
+6,2011-01-01,Espresso,Decaf Espresso
+8,2011-01-01,Herbal Tea,Chamomile
+9,2011-01-01,Herbal Tea,Lemon
+4,2011-01-01,Espresso,Caffe Latte
+3,2011-01-01,Coffee,Decaf Irish Cream
+8,2011-01-01,Herbal Tea,Chamomile
+5,2011-01-01,Espresso,Caffe Mocha
+3,2011-01-01,Coffee,Decaf Irish Cream
+11,2011-01-01,Tea,Darjeeling
+3,2011-01-01,Coffee,Decaf Irish Cream
+6,2011-01-01,Espresso,Decaf Espresso
+5,2011-01-01,Espresso,Caffe Mocha
+9,2011-01-01,Herbal Tea,Lemon
+10,2011-01-01,Herbal Tea,Mint
+7,2011-01-01,Espresso,Regular Espresso
+2,2011-01-01,Coffee,Columbian
+5,2011-01-01,Espresso,Caffe Mocha
+9,2011-01-01,Herbal Tea,Lemon
+13,2011-01-01,Tea,Green Tea
+11,2011-01-01,Tea,Darjeeling
+11,2011-01-01,Tea,Darjeeling
+1,2011-01-01,Coffee,Amaretto
+5,2011-01-01,Espresso,Caffe Mocha
+8,2011-01-01,Herbal Tea,Chamomile
+12,2011-01-01,Tea,Earl Grey
+5,2011-01-01,Espresso,Caffe Mocha
+6,2011-01-01,Espresso,Decaf Espresso
+8,2011-01-01,Herbal Tea,Chamomile
+11,2011-01-01,Tea,Darjeeling
+2,2011-01-01,Coffee,Columbian
+5,2011-01-01,Espresso,Caffe Mocha
+1,2011-01-01,Coffee,Amaretto
+2,2011-01-01,Coffee,Columbian
+13,2011-01-01,Tea,Green Tea
+5,2011-01-01,Espresso,Caffe Mocha
+9,2011-01-01,Herbal Tea,Lemon
+11,2011-01-01,Tea,Darjeeling
+7,2011-01-01,Espresso,Regular Espresso
+11,2011-01-01,Tea,Darjeeling
+1,2011-01-01,Coffee,Amaretto
+9,2011-01-01,Herbal Tea,Lemon
+11,2011-01-01,Tea,Darjeeling
+2,2011-01-01,Coffee,Columbian
+9,2011-01-01,Herbal Tea,Lemon
+5,2011-01-01,Espresso,Caffe Mocha
+7,2011-01-01,Espresso,Regular Espresso
+2,2011-01-01,Coffee,Columbian
+8,2011-01-01,Herbal Tea,Chamomile
+9,2011-01-01,Herbal Tea,Lemon
+12,2011-01-01,Tea,Earl Grey
+13,2011-01-01,Tea,Green Tea
+8,2011-01-01,Herbal Tea,Chamomile
+10,2011-01-01,Herbal Tea,Mint
+12,2011-01-01,Tea,Earl Grey
+2,2011-01-01,Coffee,Columbian
+3,2011-01-01,Coffee,Decaf Irish Cream
+6,2011-01-01,Espresso,Decaf Espresso
+11,2011-01-01,Tea,Darjeeling
+4,2011-01-01,Espresso,Caffe Latte
+12,2011-01-01,Tea,Earl Grey
+2,2011-01-01,Coffee,Columbian
+6,2011-01-01,Espresso,Decaf Espresso
+8,2011-01-01,Herbal Tea,Chamomile
+12,2011-01-01,Tea,Earl Grey
+1,2011-01-01,Coffee,Amaretto
+3,2011-01-01,Coffee,Decaf Irish Cream
+6,2011-01-01,Espresso,Decaf Espresso
+11,2011-01-01,Tea,Darjeeling
+12,2011-01-01,Tea,Earl Grey
+2,2011-01-01,Coffee,Columbian
+5,2011-01-01,Espresso,Caffe Mocha
+8,2011-01-01,Herbal Tea,Chamomile
+9,2011-01-01,Herbal Tea,Lemon
+6,2011-01-01,Espresso,Decaf Espresso
+8,2011-01-01,Herbal Tea,Chamomile
+9,2011-01-01,Herbal Tea,Lemon
+2,2011-01-01,Coffee,Columbian
+13,2011-01-01,Tea,Green Tea
+5,2011-01-01,Espresso,Caffe Mocha
+8,2011-01-01,Herbal Tea,Chamomile
+9,2011-01-01,Herbal Tea,Lemon
+10,2011-01-01,Herbal Tea,Mint
+12,2011-01-01,Tea,Earl Grey
+9,2011-01-01,Herbal Tea,Lemon
+11,2011-01-01,Tea,Darjeeling
+1,2011-01-01,Coffee,Amaretto
+3,2011-01-01,Coffee,Decaf Irish Cream
+12,2011-01-01,Tea,Earl Grey
+4,2011-01-01,Espresso,Caffe Latte
+2,2011-01-01,Coffee,Columbian
+2,2011-01-01,Coffee,Columbian
+12,2011-01-01,Tea,Earl Grey
+13,2011-01-01,Tea,Green Tea
+8,2011-01-01,Herbal Tea,Chamomile
+9,2011-01-01,Herbal Tea,Lemon
+10,2011-01-01,Herbal Tea,Mint
+9,2011-01-01,Herbal Tea,Lemon
+3,2011-01-01,Coffee,Decaf Irish Cream
+8,2011-01-01,Herbal Tea,Chamomile
+6,2011-01-01,Espresso,Decaf Espresso
+2,2011-01-01,Coffee,Columbian
+6,2011-01-01,Espresso,Decaf Espresso
+2,2011-01-01,Coffee,Columbian
+11,2011-01-01,Tea,Darjeeling
+10,2011-01-01,Herbal Tea,Mint
+3,2011-01-01,Coffee,Decaf Irish Cream
+6,2011-01-01,Espresso,Decaf Espresso
+13,2011-01-01,Tea,Green Tea
+5,2011-02-01,Espresso,Caffe Mocha
+10,2011-02-01,Herbal Tea,Mint
+5,2011-02-01,Espresso,Caffe Mocha
+8,2011-02-01,Herbal Tea,Chamomile
+11,2011-02-01,Tea,Darjeeling
+8,2011-02-01,Herbal Tea,Chamomile
+2,2011-02-01,Coffee,Columbian
+6,2011-02-01,Espresso,Decaf Espresso
+5,2011-02-01,Espresso,Caffe Mocha
+3,2011-02-01,Coffee,Decaf Irish Cream
+4,2011-02-01,Espresso,Caffe Latte
+3,2011-02-01,Coffee,Decaf Irish Cream
+5,2011-02-01,Espresso,Caffe Mocha
+2,2011-02-01,Coffee,Columbian
+3,2011-02-01,Coffee,Decaf Irish Cream
+5,2011-02-01,Espresso,Caffe Mocha
+2,2011-02-01,Coffee,Columbian
+5,2011-02-01,Espresso,Caffe Mocha
+8,2011-02-01,Herbal Tea,Chamomile
+4,2011-02-01,Espresso,Caffe Latte
+1,2011-02-01,Coffee,Amaretto
+6,2011-02-01,Espresso,Decaf Espresso
+9,2011-02-01,Herbal Tea,Lemon
+1,2011-02-01,Coffee,Amaretto
+2,2011-02-01,Coffee,Columbian
+13,2011-02-01,Tea,Green Tea
+11,2011-02-01,Tea,Darjeeling
+3,2011-02-01,Coffee,Decaf Irish Cream
+6,2011-02-01,Espresso,Decaf Espresso
+10,2011-02-01,Herbal Tea,Mint
+2,2011-02-01,Coffee,Columbian
+2,2011-02-01,Coffee,Columbian
+6,2011-02-01,Espresso,Decaf Espresso
+9,2011-02-01,Herbal Tea,Lemon
+10,2011-02-01,Herbal Tea,Mint
+5,2011-02-01,Espresso,Caffe Mocha
+11,2011-02-01,Tea,Darjeeling
+8,2011-02-01,Herbal Tea,Chamomile
+13,2011-02-01,Tea,Green Tea
+6,2011-02-01,Espresso,Decaf Espresso
+12,2011-02-01,Tea,Earl Grey
+2,2011-02-01,Coffee,Columbian
+3,2011-02-01,Coffee,Decaf Irish Cream
+2,2011-02-01,Coffee,Columbian
+3,2011-02-01,Coffee,Decaf Irish Cream
+13,2011-02-01,Tea,Green Tea
+5,2011-02-01,Espresso,Caffe Mocha
+6,2011-02-01,Espresso,Decaf Espresso
+8,2011-02-01,Herbal Tea,Chamomile
+9,2011-02-01,Herbal Tea,Lemon
+10,2011-02-01,Herbal Tea,Mint
+4,2011-02-01,Espresso,Caffe Latte
+9,2011-02-01,Herbal Tea,Lemon
+11,2011-02-01,Tea,Darjeeling
+2,2011-02-01,Coffee,Columbian
+6,2011-02-01,Espresso,Decaf Espresso
+8,2011-02-01,Herbal Tea,Chamomile
+9,2011-02-01,Herbal Tea,Lemon
+11,2011-02-01,Tea,Darjeeling
+12,2011-02-01,Tea,Earl Grey
+2,2011-02-01,Coffee,Columbian
+3,2011-02-01,Coffee,Decaf Irish Cream
+2,2011-02-01,Coffee,Columbian
+3,2011-02-01,Coffee,Decaf Irish Cream
+5,2011-02-01,Espresso,Caffe Mocha
+6,2011-02-01,Espresso,Decaf Espresso
+8,2011-02-01,Herbal Tea,Chamomile
+9,2011-02-01,Herbal Tea,Lemon
+4,2011-02-01,Espresso,Caffe Latte
+9,2011-02-01,Herbal Tea,Lemon
+11,2011-02-01,Tea,Darjeeling
+9,2011-02-01,Herbal Tea,Lemon
+3,2011-02-01,Coffee,Decaf Irish Cream
+5,2011-02-01,Espresso,Caffe Mocha
+6,2011-02-01,Espresso,Decaf Espresso
+9,2011-02-01,Herbal Tea,Lemon
+9,2011-02-01,Herbal Tea,Lemon
+13,2011-02-01,Tea,Green Tea
+1,2011-02-01,Coffee,Amaretto
+5,2011-02-01,Espresso,Caffe Mocha
+4,2011-02-01,Espresso,Caffe Latte
+9,2011-02-01,Herbal Tea,Lemon
+2,2011-02-01,Coffee,Columbian
+8,2011-02-01,Herbal Tea,Chamomile
+2,2011-02-01,Coffee,Columbian
+13,2011-02-01,Tea,Green Tea
+8,2011-02-01,Herbal Tea,Chamomile
+9,2011-02-01,Herbal Tea,Lemon
+12,2011-02-01,Tea,Earl Grey
+3,2011-02-01,Coffee,Decaf Irish Cream
+5,2011-02-01,Espresso,Caffe Mocha
+8,2011-02-01,Herbal Tea,Chamomile
+4,2011-02-01,Espresso,Caffe Latte
+5,2011-02-01,Espresso,Caffe Mocha
+1,2011-02-01,Coffee,Amaretto
+2,2011-02-01,Coffee,Columbian
+13,2011-02-01,Tea,Green Tea
+5,2011-02-01,Espresso,Caffe Mocha
+9,2011-02-01,Herbal Tea,Lemon
+11,2011-02-01,Tea,Darjeeling
+7,2011-02-01,Espresso,Regular Espresso
+11,2011-02-01,Tea,Darjeeling
+4,2011-02-01,Espresso,Caffe Latte
+1,2011-02-01,Coffee,Amaretto
+6,2011-02-01,Espresso,Decaf Espresso
+8,2011-02-01,Herbal Tea,Chamomile
+12,2011-02-01,Tea,Earl Grey
+3,2011-02-01,Coffee,Decaf Irish Cream
+6,2011-02-01,Espresso,Decaf Espresso
+2,2011-02-01,Coffee,Columbian
+3,2011-02-01,Coffee,Decaf Irish Cream
+11,2011-02-01,Tea,Darjeeling
+12,2011-02-01,Tea,Earl Grey
+2,2011-02-01,Coffee,Columbian
+6,2011-02-01,Espresso,Decaf Espresso
+8,2011-02-01,Herbal Tea,Chamomile
+11,2011-02-01,Tea,Darjeeling
+6,2011-02-01,Espresso,Decaf Espresso
+12,2011-02-01,Tea,Earl Grey
+11,2011-02-01,Tea,Darjeeling
+12,2011-02-01,Tea,Earl Grey
+5,2011-02-01,Espresso,Caffe Mocha
+9,2011-02-01,Herbal Tea,Lemon
+1,2011-02-01,Coffee,Amaretto
+2,2011-02-01,Coffee,Columbian
+6,2011-02-01,Espresso,Decaf Espresso
+8,2011-02-01,Herbal Tea,Chamomile
+11,2011-02-01,Tea,Darjeeling
+2,2011-02-01,Coffee,Columbian
+10,2011-02-01,Herbal Tea,Mint
+1,2011-02-01,Coffee,Amaretto
+12,2011-02-01,Tea,Earl Grey
+8,2011-02-01,Herbal Tea,Chamomile
+3,2011-02-01,Coffee,Decaf Irish Cream
+9,2011-02-01,Herbal Tea,Lemon
+5,2011-02-01,Espresso,Caffe Mocha
+7,2011-02-01,Espresso,Regular Espresso
+3,2011-02-01,Coffee,Decaf Irish Cream
+13,2011-02-01,Tea,Green Tea
+5,2011-02-01,Espresso,Caffe Mocha
+9,2011-02-01,Herbal Tea,Lemon
+10,2011-02-01,Herbal Tea,Mint
+12,2011-02-01,Tea,Earl Grey
+4,2011-02-01,Espresso,Caffe Latte
+1,2011-02-01,Coffee,Amaretto
+11,2011-02-01,Tea,Darjeeling
+12,2011-02-01,Tea,Earl Grey
+11,2011-02-01,Tea,Darjeeling
+5,2011-02-01,Espresso,Caffe Mocha
+10,2011-02-01,Herbal Tea,Mint
+10,2011-02-01,Herbal Tea,Mint
+13,2011-02-01,Tea,Green Tea
+5,2011-02-01,Espresso,Caffe Mocha
+11,2011-02-01,Tea,Darjeeling
+2,2011-02-01,Coffee,Columbian
+2,2011-02-01,Coffee,Columbian
+9,2011-02-01,Herbal Tea,Lemon
+8,2011-02-01,Herbal Tea,Chamomile
+5,2011-02-01,Espresso,Caffe Mocha
+7,2011-02-01,Espresso,Regular Espresso
+9,2011-02-01,Herbal Tea,Lemon
+12,2011-02-01,Tea,Earl Grey
+3,2011-02-01,Coffee,Decaf Irish Cream
+4,2011-02-01,Espresso,Caffe Latte
+13,2011-02-01,Tea,Green Tea
+6,2011-02-01,Espresso,Decaf Espresso
+13,2011-02-01,Tea,Green Tea
+6,2011-02-01,Espresso,Decaf Espresso
+8,2011-02-01,Herbal Tea,Chamomile
+9,2011-02-01,Herbal Tea,Lemon
+11,2011-02-01,Tea,Darjeeling
+12,2011-02-01,Tea,Earl Grey
+3,2011-02-01,Coffee,Decaf Irish Cream
+13,2011-02-01,Tea,Green Tea
+13,2011-02-01,Tea,Green Tea
+6,2011-02-01,Espresso,Decaf Espresso
+9,2011-02-01,Herbal Tea,Lemon
+5,2011-03-01,Espresso,Caffe Mocha
+6,2011-03-01,Espresso,Decaf Espresso
+3,2011-03-01,Coffee,Decaf Irish Cream
+6,2011-03-01,Espresso,Decaf Espresso
+12,2011-03-01,Tea,Earl Grey
+5,2011-03-01,Espresso,Caffe Mocha
+4,2011-03-01,Espresso,Caffe Latte
+8,2011-03-01,Herbal Tea,Chamomile
+1,2011-03-01,Coffee,Amaretto
+6,2011-03-01,Espresso,Decaf Espresso
+12,2011-03-01,Tea,Earl Grey
+1,2011-03-01,Coffee,Amaretto
+3,2011-03-01,Coffee,Decaf Irish Cream
+9,2011-03-01,Herbal Tea,Lemon
+10,2011-03-01,Herbal Tea,Mint
+4,2011-03-01,Espresso,Caffe Latte
+8,2011-03-01,Herbal Tea,Chamomile
+2,2011-03-01,Coffee,Columbian
+3,2011-03-01,Coffee,Decaf Irish Cream
+11,2011-03-01,Tea,Darjeeling
+8,2011-03-01,Herbal Tea,Chamomile
+3,2011-03-01,Coffee,Decaf Irish Cream
+5,2011-03-01,Espresso,Caffe Mocha
+5,2011-03-01,Espresso,Caffe Mocha
+6,2011-03-01,Espresso,Decaf Espresso
+9,2011-03-01,Herbal Tea,Lemon
+2,2011-03-01,Coffee,Columbian
+6,2011-03-01,Espresso,Decaf Espresso
+2,2011-03-01,Coffee,Columbian
+10,2011-03-01,Herbal Tea,Mint
+11,2011-03-01,Tea,Darjeeling
+7,2011-03-01,Espresso,Regular Espresso
+8,2011-03-01,Herbal Tea,Chamomile
+13,2011-03-01,Tea,Green Tea
+5,2011-03-01,Espresso,Caffe Mocha
+8,2011-03-01,Herbal Tea,Chamomile
+6,2011-03-01,Espresso,Decaf Espresso
+2,2011-03-01,Coffee,Columbian
+3,2011-03-01,Coffee,Decaf Irish Cream
+4,2011-03-01,Espresso,Caffe Latte
+3,2011-03-01,Coffee,Decaf Irish Cream
+8,2011-03-01,Herbal Tea,Chamomile
+5,2011-03-01,Espresso,Caffe Mocha
+11,2011-03-01,Tea,Darjeeling
+5,2011-03-01,Espresso,Caffe Mocha
+8,2011-03-01,Herbal Tea,Chamomile
+12,2011-03-01,Tea,Earl Grey
+11,2011-03-01,Tea,Darjeeling
+4,2011-03-01,Espresso,Caffe Latte
+1,2011-03-01,Coffee,Amaretto
+3,2011-03-01,Coffee,Decaf Irish Cream
+13,2011-03-01,Tea,Green Tea
+6,2011-03-01,Espresso,Decaf Espresso
+8,2011-03-01,Herbal Tea,Chamomile
+9,2011-03-01,Herbal Tea,Lemon
+11,2011-03-01,Tea,Darjeeling
+3,2011-03-01,Coffee,Decaf Irish Cream
+13,2011-03-01,Tea,Green Tea
+10,2011-03-01,Herbal Tea,Mint
+5,2011-03-01,Espresso,Caffe Mocha
+6,2011-03-01,Espresso,Decaf Espresso
+8,2011-03-01,Herbal Tea,Chamomile
+9,2011-03-01,Herbal Tea,Lemon
+4,2011-03-01,Espresso,Caffe Latte
+5,2011-03-01,Espresso,Caffe Mocha
+9,2011-03-01,Herbal Tea,Lemon
+2,2011-03-01,Coffee,Columbian
+3,2011-03-01,Coffee,Decaf Irish Cream
+5,2011-03-01,Espresso,Caffe Mocha
+6,2011-03-01,Espresso,Decaf Espresso
+8,2011-03-01,Herbal Tea,Chamomile
+9,2011-03-01,Herbal Tea,Lemon
+4,2011-03-01,Espresso,Caffe Latte
+2,2011-03-01,Coffee,Columbian
+9,2011-03-01,Herbal Tea,Lemon
+11,2011-03-01,Tea,Darjeeling
+9,2011-03-01,Herbal Tea,Lemon
+11,2011-03-01,Tea,Darjeeling
+2,2011-03-01,Coffee,Columbian
+5,2011-03-01,Espresso,Caffe Mocha
+11,2011-03-01,Tea,Darjeeling
+8,2011-03-01,Herbal Tea,Chamomile
+12,2011-03-01,Tea,Earl Grey
+5,2011-03-01,Espresso,Caffe Mocha
+6,2011-03-01,Espresso,Decaf Espresso
+5,2011-03-01,Espresso,Caffe Mocha
+6,2011-03-01,Espresso,Decaf Espresso
+12,2011-03-01,Tea,Earl Grey
+1,2011-03-01,Coffee,Amaretto
+2,2011-03-01,Coffee,Columbian
+13,2011-03-01,Tea,Green Tea
+5,2011-03-01,Espresso,Caffe Mocha
+9,2011-03-01,Herbal Tea,Lemon
+11,2011-03-01,Tea,Darjeeling
+7,2011-03-01,Espresso,Regular Espresso
+11,2011-03-01,Tea,Darjeeling
+1,2011-03-01,Coffee,Amaretto
+5,2011-03-01,Espresso,Caffe Mocha
+6,2011-03-01,Espresso,Decaf Espresso
+9,2011-03-01,Herbal Tea,Lemon
+13,2011-03-01,Tea,Green Tea
+9,2011-03-01,Herbal Tea,Lemon
+13,2011-03-01,Tea,Green Tea
+12,2011-03-01,Tea,Earl Grey
+2,2011-03-01,Coffee,Columbian
+5,2011-03-01,Espresso,Caffe Mocha
+9,2011-03-01,Herbal Tea,Lemon
+11,2011-03-01,Tea,Darjeeling
+11,2011-03-01,Tea,Darjeeling
+1,2011-03-01,Coffee,Amaretto
+6,2011-03-01,Espresso,Decaf Espresso
+11,2011-03-01,Tea,Darjeeling
+2,2011-03-01,Coffee,Columbian
+3,2011-03-01,Coffee,Decaf Irish Cream
+9,2011-03-01,Herbal Tea,Lemon
+2,2011-03-01,Coffee,Columbian
+9,2011-03-01,Herbal Tea,Lemon
+13,2011-03-01,Tea,Green Tea
+5,2011-03-01,Espresso,Caffe Mocha
+9,2011-03-01,Herbal Tea,Lemon
+10,2011-03-01,Herbal Tea,Mint
+2,2011-03-01,Coffee,Columbian
+2,2011-03-01,Coffee,Columbian
+5,2011-03-01,Espresso,Caffe Mocha
+7,2011-03-01,Espresso,Regular Espresso
+3,2011-03-01,Coffee,Decaf Irish Cream
+13,2011-03-01,Tea,Green Tea
+6,2011-03-01,Espresso,Decaf Espresso
+8,2011-03-01,Herbal Tea,Chamomile
+10,2011-03-01,Herbal Tea,Mint
+12,2011-03-01,Tea,Earl Grey
+4,2011-03-01,Espresso,Caffe Latte
+13,2011-03-01,Tea,Green Tea
+9,2011-03-01,Herbal Tea,Lemon
+2,2011-03-01,Coffee,Columbian
+5,2011-03-01,Espresso,Caffe Mocha
+10,2011-03-01,Herbal Tea,Mint
+12,2011-03-01,Tea,Earl Grey
+4,2011-03-01,Espresso,Caffe Latte
+6,2011-03-01,Espresso,Decaf Espresso
+10,2011-03-01,Herbal Tea,Mint
+3,2011-03-01,Coffee,Decaf Irish Cream
+12,2011-03-01,Tea,Earl Grey
+9,2011-03-01,Herbal Tea,Lemon
+13,2011-03-01,Tea,Green Tea
+2,2011-03-01,Coffee,Columbian
+5,2011-03-01,Espresso,Caffe Mocha
+2,2011-03-01,Coffee,Columbian
+2,2011-03-01,Coffee,Columbian
+11,2011-03-01,Tea,Darjeeling
+3,2011-03-01,Coffee,Decaf Irish Cream
+11,2011-03-01,Tea,Darjeeling
+2,2011-03-01,Coffee,Columbian
+13,2011-03-01,Tea,Green Tea
+3,2011-03-01,Coffee,Decaf Irish Cream
+9,2011-03-01,Herbal Tea,Lemon
+1,2011-03-01,Coffee,Amaretto
+12,2011-03-01,Tea,Earl Grey
+8,2011-03-01,Herbal Tea,Chamomile
+9,2011-03-01,Herbal Tea,Lemon
+8,2011-03-01,Herbal Tea,Chamomile
+8,2011-03-01,Herbal Tea,Chamomile
+9,2011-03-01,Herbal Tea,Lemon
+2,2011-03-01,Coffee,Columbian
+6,2011-03-01,Espresso,Decaf Espresso
+8,2011-03-01,Herbal Tea,Chamomile
+10,2011-03-01,Herbal Tea,Mint
+11,2011-03-01,Tea,Darjeeling
+12,2011-03-01,Tea,Earl Grey
+1,2011-03-01,Coffee,Amaretto
+2,2011-03-01,Coffee,Columbian
+3,2011-03-01,Coffee,Decaf Irish Cream
+13,2011-03-01,Tea,Green Tea
+12,2011-03-01,Tea,Earl Grey
+4,2011-03-01,Espresso,Caffe Latte
+3,2011-03-01,Coffee,Decaf Irish Cream
+6,2011-03-01,Espresso,Decaf Espresso
+5,2011-04-01,Espresso,Caffe Mocha
+9,2011-04-01,Herbal Tea,Lemon
+2,2011-04-01,Coffee,Columbian
+13,2011-04-01,Tea,Green Tea
+5,2011-04-01,Espresso,Caffe Mocha
+6,2011-04-01,Espresso,Decaf Espresso
+8,2011-04-01,Herbal Tea,Chamomile
+12,2011-04-01,Tea,Earl Grey
+2,2011-04-01,Coffee,Columbian
+5,2011-04-01,Espresso,Caffe Mocha
+5,2011-04-01,Espresso,Caffe Mocha
+2,2011-04-01,Coffee,Columbian
+8,2011-04-01,Herbal Tea,Chamomile
+12,2011-04-01,Tea,Earl Grey
+11,2011-04-01,Tea,Darjeeling
+3,2011-04-01,Coffee,Decaf Irish Cream
+9,2011-04-01,Herbal Tea,Lemon
+11,2011-04-01,Tea,Darjeeling
+9,2011-04-01,Herbal Tea,Lemon
+3,2011-04-01,Coffee,Decaf Irish Cream
+13,2011-04-01,Tea,Green Tea
+6,2011-04-01,Espresso,Decaf Espresso
+12,2011-04-01,Tea,Earl Grey
+5,2011-04-01,Espresso,Caffe Mocha
+11,2011-04-01,Tea,Darjeeling
+3,2011-04-01,Coffee,Decaf Irish Cream
+13,2011-04-01,Tea,Green Tea
+5,2011-04-01,Espresso,Caffe Mocha
+11,2011-04-01,Tea,Darjeeling
+5,2011-04-01,Espresso,Caffe Mocha
+2,2011-04-01,Coffee,Columbian
+9,2011-04-01,Herbal Tea,Lemon
+8,2011-04-01,Herbal Tea,Chamomile
+2,2011-04-01,Coffee,Columbian
+9,2011-04-01,Herbal Tea,Lemon
+9,2011-04-01,Herbal Tea,Lemon
+2,2011-04-01,Coffee,Columbian
+5,2011-04-01,Espresso,Caffe Mocha
+12,2011-04-01,Tea,Earl Grey
+11,2011-04-01,Tea,Darjeeling
+3,2011-04-01,Coffee,Decaf Irish Cream
+9,2011-04-01,Herbal Tea,Lemon
+2,2011-04-01,Coffee,Columbian
+5,2011-04-01,Espresso,Caffe Mocha
+6,2011-04-01,Espresso,Decaf Espresso
+8,2011-04-01,Herbal Tea,Chamomile
+5,2011-04-01,Espresso,Caffe Mocha
+6,2011-04-01,Espresso,Decaf Espresso
+8,2011-04-01,Herbal Tea,Chamomile
+9,2011-04-01,Herbal Tea,Lemon
+4,2011-04-01,Espresso,Caffe Latte
+8,2011-04-01,Herbal Tea,Chamomile
+11,2011-04-01,Tea,Darjeeling
+12,2011-04-01,Tea,Earl Grey
+6,2011-04-01,Espresso,Decaf Espresso
+4,2011-04-01,Espresso,Caffe Latte
+2,2011-04-01,Coffee,Columbian
+5,2011-04-01,Espresso,Caffe Mocha
+6,2011-04-01,Espresso,Decaf Espresso
+9,2011-04-01,Herbal Tea,Lemon
+10,2011-04-01,Herbal Tea,Mint
+11,2011-04-01,Tea,Darjeeling
+4,2011-04-01,Espresso,Caffe Latte
+10,2011-04-01,Herbal Tea,Mint
+1,2011-04-01,Coffee,Amaretto
+12,2011-04-01,Tea,Earl Grey
+3,2011-04-01,Coffee,Decaf Irish Cream
+6,2011-04-01,Espresso,Decaf Espresso
+8,2011-04-01,Herbal Tea,Chamomile
+2,2011-04-01,Coffee,Columbian
+3,2011-04-01,Coffee,Decaf Irish Cream
+5,2011-04-01,Espresso,Caffe Mocha
+6,2011-04-01,Espresso,Decaf Espresso
+8,2011-04-01,Herbal Tea,Chamomile
+9,2011-04-01,Herbal Tea,Lemon
+4,2011-04-01,Espresso,Caffe Latte
+7,2011-04-01,Espresso,Regular Espresso
+8,2011-04-01,Herbal Tea,Chamomile
+3,2011-04-01,Coffee,Decaf Irish Cream
+1,2011-04-01,Coffee,Amaretto
+5,2011-04-01,Espresso,Caffe Mocha
+2,2011-04-01,Coffee,Columbian
+13,2011-04-01,Tea,Green Tea
+2,2011-04-01,Coffee,Columbian
+3,2011-04-01,Coffee,Decaf Irish Cream
+9,2011-04-01,Herbal Tea,Lemon
+11,2011-04-01,Tea,Darjeeling
+1,2011-04-01,Coffee,Amaretto
+10,2011-04-01,Herbal Tea,Mint
+8,2011-04-01,Herbal Tea,Chamomile
+12,2011-04-01,Tea,Earl Grey
+1,2011-04-01,Coffee,Amaretto
+2,2011-04-01,Coffee,Columbian
+3,2011-04-01,Coffee,Decaf Irish Cream
+6,2011-04-01,Espresso,Decaf Espresso
+3,2011-04-01,Coffee,Decaf Irish Cream
+4,2011-04-01,Espresso,Caffe Latte
+1,2011-04-01,Coffee,Amaretto
+2,2011-04-01,Coffee,Columbian
+13,2011-04-01,Tea,Green Tea
+5,2011-04-01,Espresso,Caffe Mocha
+9,2011-04-01,Herbal Tea,Lemon
+11,2011-04-01,Tea,Darjeeling
+7,2011-04-01,Espresso,Regular Espresso
+2,2011-04-01,Coffee,Columbian
+5,2011-04-01,Espresso,Caffe Mocha
+12,2011-04-01,Tea,Earl Grey
+13,2011-04-01,Tea,Green Tea
+2,2011-04-01,Coffee,Columbian
+9,2011-04-01,Herbal Tea,Lemon
+3,2011-04-01,Coffee,Decaf Irish Cream
+2,2011-04-01,Coffee,Columbian
+3,2011-04-01,Coffee,Decaf Irish Cream
+13,2011-04-01,Tea,Green Tea
+5,2011-04-01,Espresso,Caffe Mocha
+9,2011-04-01,Herbal Tea,Lemon
+11,2011-04-01,Tea,Darjeeling
+12,2011-04-01,Tea,Earl Grey
+9,2011-04-01,Herbal Tea,Lemon
+6,2011-04-01,Espresso,Decaf Espresso
+11,2011-04-01,Tea,Darjeeling
+1,2011-04-01,Coffee,Amaretto
+9,2011-04-01,Herbal Tea,Lemon
+10,2011-04-01,Herbal Tea,Mint
+5,2011-04-01,Espresso,Caffe Mocha
+8,2011-04-01,Herbal Tea,Chamomile
+9,2011-04-01,Herbal Tea,Lemon
+10,2011-04-01,Herbal Tea,Mint
+11,2011-04-01,Tea,Darjeeling
+3,2011-04-01,Coffee,Decaf Irish Cream
+6,2011-04-01,Espresso,Decaf Espresso
+9,2011-04-01,Herbal Tea,Lemon
+12,2011-04-01,Tea,Earl Grey
+13,2011-04-01,Tea,Green Tea
+9,2011-04-01,Herbal Tea,Lemon
+6,2011-04-01,Espresso,Decaf Espresso
+8,2011-04-01,Herbal Tea,Chamomile
+10,2011-04-01,Herbal Tea,Mint
+12,2011-04-01,Tea,Earl Grey
+4,2011-04-01,Espresso,Caffe Latte
+1,2011-04-01,Coffee,Amaretto
+3,2011-04-01,Coffee,Decaf Irish Cream
+13,2011-04-01,Tea,Green Tea
+8,2011-04-01,Herbal Tea,Chamomile
+12,2011-04-01,Tea,Earl Grey
+6,2011-04-01,Espresso,Decaf Espresso
+10,2011-04-01,Herbal Tea,Mint
+3,2011-04-01,Coffee,Decaf Irish Cream
+5,2011-04-01,Espresso,Caffe Mocha
+6,2011-04-01,Espresso,Decaf Espresso
+8,2011-04-01,Herbal Tea,Chamomile
+2,2011-04-01,Coffee,Columbian
+5,2011-04-01,Espresso,Caffe Mocha
+10,2011-04-01,Herbal Tea,Mint
+6,2011-04-01,Espresso,Decaf Espresso
+13,2011-04-01,Tea,Green Tea
+11,2011-04-01,Tea,Darjeeling
+7,2011-04-01,Espresso,Regular Espresso
+2,2011-04-01,Coffee,Columbian
+8,2011-04-01,Herbal Tea,Chamomile
+9,2011-04-01,Herbal Tea,Lemon
+6,2011-04-01,Espresso,Decaf Espresso
+11,2011-04-01,Tea,Darjeeling
+3,2011-04-01,Coffee,Decaf Irish Cream
+11,2011-04-01,Tea,Darjeeling
+4,2011-04-01,Espresso,Caffe Latte
+2,2011-04-01,Coffee,Columbian
+13,2011-04-01,Tea,Green Tea
+11,2011-04-01,Tea,Darjeeling
+1,2011-04-01,Coffee,Amaretto
+2,2011-04-01,Coffee,Columbian
+13,2011-04-01,Tea,Green Tea
+5,2011-04-01,Espresso,Caffe Mocha
+6,2011-04-01,Espresso,Decaf Espresso
+8,2011-04-01,Herbal Tea,Chamomile
+4,2011-04-01,Espresso,Caffe Latte
+4,2011-04-01,Espresso,Caffe Latte
+5,2011-05-01,Espresso,Caffe Mocha
+10,2011-05-01,Herbal Tea,Mint
+13,2011-05-01,Tea,Green Tea
+6,2011-05-01,Espresso,Decaf Espresso
+9,2011-05-01,Herbal Tea,Lemon
+4,2011-05-01,Espresso,Caffe Latte
+13,2011-05-01,Tea,Green Tea
+1,2011-05-01,Coffee,Amaretto
+5,2011-05-01,Espresso,Caffe Mocha
+6,2011-05-01,Espresso,Decaf Espresso
+6,2011-05-01,Espresso,Decaf Espresso
+2,2011-05-01,Coffee,Columbian
+3,2011-05-01,Coffee,Decaf Irish Cream
+2,2011-05-01,Coffee,Columbian
+3,2011-05-01,Coffee,Decaf Irish Cream
+6,2011-05-01,Espresso,Decaf Espresso
+9,2011-05-01,Herbal Tea,Lemon
+2,2011-05-01,Coffee,Columbian
+9,2011-05-01,Herbal Tea,Lemon
+3,2011-05-01,Coffee,Decaf Irish Cream
+3,2011-05-01,Coffee,Decaf Irish Cream
+12,2011-05-01,Tea,Earl Grey
+13,2011-05-01,Tea,Green Tea
+6,2011-05-01,Espresso,Decaf Espresso
+10,2011-05-01,Herbal Tea,Mint
+13,2011-05-01,Tea,Green Tea
+8,2011-05-01,Herbal Tea,Chamomile
+2,2011-05-01,Coffee,Columbian
+1,2011-05-01,Coffee,Amaretto
+8,2011-05-01,Herbal Tea,Chamomile
+11,2011-05-01,Tea,Darjeeling
+13,2011-05-01,Tea,Green Tea
+3,2011-05-01,Coffee,Decaf Irish Cream
+9,2011-05-01,Herbal Tea,Lemon
+2,2011-05-01,Coffee,Columbian
+5,2011-05-01,Espresso,Caffe Mocha
+8,2011-05-01,Herbal Tea,Chamomile
+4,2011-05-01,Espresso,Caffe Latte
+5,2011-05-01,Espresso,Caffe Mocha
+9,2011-05-01,Herbal Tea,Lemon
+1,2011-05-01,Coffee,Amaretto
+11,2011-05-01,Tea,Darjeeling
+12,2011-05-01,Tea,Earl Grey
+11,2011-05-01,Tea,Darjeeling
+12,2011-05-01,Tea,Earl Grey
+1,2011-05-01,Coffee,Amaretto
+2,2011-05-01,Coffee,Columbian
+3,2011-05-01,Coffee,Decaf Irish Cream
+5,2011-05-01,Espresso,Caffe Mocha
+6,2011-05-01,Espresso,Decaf Espresso
+8,2011-05-01,Herbal Tea,Chamomile
+9,2011-05-01,Herbal Tea,Lemon
+11,2011-05-01,Tea,Darjeeling
+12,2011-05-01,Tea,Earl Grey
+4,2011-05-01,Espresso,Caffe Latte
+9,2011-05-01,Herbal Tea,Lemon
+2,2011-05-01,Coffee,Columbian
+9,2011-05-01,Herbal Tea,Lemon
+11,2011-05-01,Tea,Darjeeling
+8,2011-05-01,Herbal Tea,Chamomile
+11,2011-05-01,Tea,Darjeeling
+12,2011-05-01,Tea,Earl Grey
+2,2011-05-01,Coffee,Columbian
+3,2011-05-01,Coffee,Decaf Irish Cream
+5,2011-05-01,Espresso,Caffe Mocha
+6,2011-05-01,Espresso,Decaf Espresso
+8,2011-05-01,Herbal Tea,Chamomile
+9,2011-05-01,Herbal Tea,Lemon
+4,2011-05-01,Espresso,Caffe Latte
+8,2011-05-01,Herbal Tea,Chamomile
+11,2011-05-01,Tea,Darjeeling
+12,2011-05-01,Tea,Earl Grey
+3,2011-05-01,Coffee,Decaf Irish Cream
+5,2011-05-01,Espresso,Caffe Mocha
+12,2011-05-01,Tea,Earl Grey
+11,2011-05-01,Tea,Darjeeling
+7,2011-05-01,Espresso,Regular Espresso
+9,2011-05-01,Herbal Tea,Lemon
+10,2011-05-01,Herbal Tea,Mint
+11,2011-05-01,Tea,Darjeeling
+13,2011-05-01,Tea,Green Tea
+6,2011-05-01,Espresso,Decaf Espresso
+9,2011-05-01,Herbal Tea,Lemon
+4,2011-05-01,Espresso,Caffe Latte
+9,2011-05-01,Herbal Tea,Lemon
+12,2011-05-01,Tea,Earl Grey
+6,2011-05-01,Espresso,Decaf Espresso
+9,2011-05-01,Herbal Tea,Lemon
+2,2011-05-01,Coffee,Columbian
+6,2011-05-01,Espresso,Decaf Espresso
+9,2011-05-01,Herbal Tea,Lemon
+1,2011-05-01,Coffee,Amaretto
+2,2011-05-01,Coffee,Columbian
+13,2011-05-01,Tea,Green Tea
+5,2011-05-01,Espresso,Caffe Mocha
+9,2011-05-01,Herbal Tea,Lemon
+11,2011-05-01,Tea,Darjeeling
+7,2011-05-01,Espresso,Regular Espresso
+10,2011-05-01,Herbal Tea,Mint
+5,2011-05-01,Espresso,Caffe Mocha
+8,2011-05-01,Herbal Tea,Chamomile
+12,2011-05-01,Tea,Earl Grey
+8,2011-05-01,Herbal Tea,Chamomile
+2,2011-05-01,Coffee,Columbian
+8,2011-05-01,Herbal Tea,Chamomile
+12,2011-05-01,Tea,Earl Grey
+5,2011-05-01,Espresso,Caffe Mocha
+9,2011-05-01,Herbal Tea,Lemon
+2,2011-05-01,Coffee,Columbian
+5,2011-05-01,Espresso,Caffe Mocha
+12,2011-05-01,Tea,Earl Grey
+4,2011-05-01,Espresso,Caffe Latte
+3,2011-05-01,Coffee,Decaf Irish Cream
+6,2011-05-01,Espresso,Decaf Espresso
+2,2011-05-01,Coffee,Columbian
+13,2011-05-01,Tea,Green Tea
+6,2011-05-01,Espresso,Decaf Espresso
+9,2011-05-01,Herbal Tea,Lemon
+10,2011-05-01,Herbal Tea,Mint
+2,2011-05-01,Coffee,Columbian
+5,2011-05-01,Espresso,Caffe Mocha
+2,2011-05-01,Coffee,Columbian
+3,2011-05-01,Coffee,Decaf Irish Cream
+6,2011-05-01,Espresso,Decaf Espresso
+11,2011-05-01,Tea,Darjeeling
+6,2011-05-01,Espresso,Decaf Espresso
+8,2011-05-01,Herbal Tea,Chamomile
+10,2011-05-01,Herbal Tea,Mint
+1,2011-05-01,Coffee,Amaretto
+2,2011-05-01,Coffee,Columbian
+11,2011-05-01,Tea,Darjeeling
+2,2011-05-01,Coffee,Columbian
+5,2011-05-01,Espresso,Caffe Mocha
+6,2011-05-01,Espresso,Decaf Espresso
+8,2011-05-01,Herbal Tea,Chamomile
+9,2011-05-01,Herbal Tea,Lemon
+11,2011-05-01,Tea,Darjeeling
+3,2011-05-01,Coffee,Decaf Irish Cream
+5,2011-05-01,Espresso,Caffe Mocha
+8,2011-05-01,Herbal Tea,Chamomile
+11,2011-05-01,Tea,Darjeeling
+12,2011-05-01,Tea,Earl Grey
+4,2011-05-01,Espresso,Caffe Latte
+13,2011-05-01,Tea,Green Tea
+7,2011-05-01,Espresso,Regular Espresso
+6,2011-05-01,Espresso,Decaf Espresso
+8,2011-05-01,Herbal Tea,Chamomile
+13,2011-05-01,Tea,Green Tea
+10,2011-05-01,Herbal Tea,Mint
+1,2011-05-01,Coffee,Amaretto
+2,2011-05-01,Coffee,Columbian
+5,2011-05-01,Espresso,Caffe Mocha
+3,2011-05-01,Coffee,Decaf Irish Cream
+11,2011-05-01,Tea,Darjeeling
+5,2011-05-01,Espresso,Caffe Mocha
+13,2011-05-01,Tea,Green Tea
+6,2011-05-01,Espresso,Decaf Espresso
+3,2011-05-01,Coffee,Decaf Irish Cream
+11,2011-05-01,Tea,Darjeeling
+9,2011-05-01,Herbal Tea,Lemon
+8,2011-05-01,Herbal Tea,Chamomile
+2,2011-05-01,Coffee,Columbian
+3,2011-05-01,Coffee,Decaf Irish Cream
+5,2011-05-01,Espresso,Caffe Mocha
+4,2011-05-01,Espresso,Caffe Latte
+3,2011-05-01,Coffee,Decaf Irish Cream
+10,2011-05-01,Herbal Tea,Mint
+13,2011-05-01,Tea,Green Tea
+5,2011-05-01,Espresso,Caffe Mocha
+9,2011-05-01,Herbal Tea,Lemon
+1,2011-05-01,Coffee,Amaretto
+2,2011-05-01,Coffee,Columbian
+3,2011-05-01,Coffee,Decaf Irish Cream
+5,2011-05-01,Espresso,Caffe Mocha
+5,2011-05-01,Espresso,Caffe Mocha
+8,2011-05-01,Herbal Tea,Chamomile
+4,2011-05-01,Espresso,Caffe Latte
+11,2011-06-01,Tea,Darjeeling
+2,2011-06-01,Coffee,Columbian
+3,2011-06-01,Coffee,Decaf Irish Cream
+11,2011-06-01,Tea,Darjeeling
+12,2011-06-01,Tea,Earl Grey
+8,2011-06-01,Herbal Tea,Chamomile
+2,2011-06-01,Coffee,Columbian
+3,2011-06-01,Coffee,Decaf Irish Cream
+6,2011-06-01,Espresso,Decaf Espresso
+4,2011-06-01,Espresso,Caffe Latte
+2,2011-06-01,Coffee,Columbian
+3,2011-06-01,Coffee,Decaf Irish Cream
+13,2011-06-01,Tea,Green Tea
+8,2011-06-01,Herbal Tea,Chamomile
+11,2011-06-01,Tea,Darjeeling
+8,2011-06-01,Herbal Tea,Chamomile
+9,2011-06-01,Herbal Tea,Lemon
+2,2011-06-01,Coffee,Columbian
+3,2011-06-01,Coffee,Decaf Irish Cream
+11,2011-06-01,Tea,Darjeeling
+4,2011-06-01,Espresso,Caffe Latte
+5,2011-06-01,Espresso,Caffe Mocha
+9,2011-06-01,Herbal Tea,Lemon
+6,2011-06-01,Espresso,Decaf Espresso
+12,2011-06-01,Tea,Earl Grey
+10,2011-06-01,Herbal Tea,Mint
+2,2011-06-01,Coffee,Columbian
+5,2011-06-01,Espresso,Caffe Mocha
+9,2011-06-01,Herbal Tea,Lemon
+9,2011-06-01,Herbal Tea,Lemon
+9,2011-06-01,Herbal Tea,Lemon
+1,2011-06-01,Coffee,Amaretto
+11,2011-06-01,Tea,Darjeeling
+5,2011-06-01,Espresso,Caffe Mocha
+8,2011-06-01,Herbal Tea,Chamomile
+13,2011-06-01,Tea,Green Tea
+12,2011-06-01,Tea,Earl Grey
+13,2011-06-01,Tea,Green Tea
+5,2011-06-01,Espresso,Caffe Mocha
+2,2011-06-01,Coffee,Columbian
+4,2011-06-01,Espresso,Caffe Latte
+6,2011-06-01,Espresso,Decaf Espresso
+7,2011-06-01,Espresso,Regular Espresso
+6,2011-06-01,Espresso,Decaf Espresso
+8,2011-06-01,Herbal Tea,Chamomile
+12,2011-06-01,Tea,Earl Grey
+9,2011-06-01,Herbal Tea,Lemon
+6,2011-06-01,Espresso,Decaf Espresso
+3,2011-06-01,Coffee,Decaf Irish Cream
+5,2011-06-01,Espresso,Caffe Mocha
+1,2011-06-01,Coffee,Amaretto
+2,2011-06-01,Coffee,Columbian
+3,2011-06-01,Coffee,Decaf Irish Cream
+13,2011-06-01,Tea,Green Tea
+6,2011-06-01,Espresso,Decaf Espresso
+8,2011-06-01,Herbal Tea,Chamomile
+10,2011-06-01,Herbal Tea,Mint
+11,2011-06-01,Tea,Darjeeling
+12,2011-06-01,Tea,Earl Grey
+4,2011-06-01,Espresso,Caffe Latte
+5,2011-06-01,Espresso,Caffe Mocha
+2,2011-06-01,Coffee,Columbian
+13,2011-06-01,Tea,Green Tea
+1,2011-06-01,Coffee,Amaretto
+2,2011-06-01,Coffee,Columbian
+3,2011-06-01,Coffee,Decaf Irish Cream
+13,2011-06-01,Tea,Green Tea
+6,2011-06-01,Espresso,Decaf Espresso
+9,2011-06-01,Herbal Tea,Lemon
+12,2011-06-01,Tea,Earl Grey
+2,2011-06-01,Coffee,Columbian
+3,2011-06-01,Coffee,Decaf Irish Cream
+5,2011-06-01,Espresso,Caffe Mocha
+6,2011-06-01,Espresso,Decaf Espresso
+8,2011-06-01,Herbal Tea,Chamomile
+9,2011-06-01,Herbal Tea,Lemon
+4,2011-06-01,Espresso,Caffe Latte
+13,2011-06-01,Tea,Green Tea
+4,2011-06-01,Espresso,Caffe Latte
+4,2011-06-01,Espresso,Caffe Latte
+1,2011-06-01,Coffee,Amaretto
+9,2011-06-01,Herbal Tea,Lemon
+3,2011-06-01,Coffee,Decaf Irish Cream
+12,2011-06-01,Tea,Earl Grey
+2,2011-06-01,Coffee,Columbian
+5,2011-06-01,Espresso,Caffe Mocha
+8,2011-06-01,Herbal Tea,Chamomile
+5,2011-06-01,Espresso,Caffe Mocha
+6,2011-06-01,Espresso,Decaf Espresso
+8,2011-06-01,Herbal Tea,Chamomile
+11,2011-06-01,Tea,Darjeeling
+12,2011-06-01,Tea,Earl Grey
+2,2011-06-01,Coffee,Columbian
+8,2011-06-01,Herbal Tea,Chamomile
+1,2011-06-01,Coffee,Amaretto
+2,2011-06-01,Coffee,Columbian
+13,2011-06-01,Tea,Green Tea
+5,2011-06-01,Espresso,Caffe Mocha
+9,2011-06-01,Herbal Tea,Lemon
+11,2011-06-01,Tea,Darjeeling
+7,2011-06-01,Espresso,Regular Espresso
+11,2011-06-01,Tea,Darjeeling
+8,2011-06-01,Herbal Tea,Chamomile
+10,2011-06-01,Herbal Tea,Mint
+6,2011-06-01,Espresso,Decaf Espresso
+2,2011-06-01,Coffee,Columbian
+1,2011-06-01,Coffee,Amaretto
+5,2011-06-01,Espresso,Caffe Mocha
+3,2011-06-01,Coffee,Decaf Irish Cream
+12,2011-06-01,Tea,Earl Grey
+6,2011-06-01,Espresso,Decaf Espresso
+2,2011-06-01,Coffee,Columbian
+3,2011-06-01,Coffee,Decaf Irish Cream
+5,2011-06-01,Espresso,Caffe Mocha
+9,2011-06-01,Herbal Tea,Lemon
+11,2011-06-01,Tea,Darjeeling
+9,2011-06-01,Herbal Tea,Lemon
+1,2011-06-01,Coffee,Amaretto
+5,2011-06-01,Espresso,Caffe Mocha
+9,2011-06-01,Herbal Tea,Lemon
+7,2011-06-01,Espresso,Regular Espresso
+1,2011-06-01,Coffee,Amaretto
+12,2011-06-01,Tea,Earl Grey
+3,2011-06-01,Coffee,Decaf Irish Cream
+8,2011-06-01,Herbal Tea,Chamomile
+10,2011-06-01,Herbal Tea,Mint
+6,2011-06-01,Espresso,Decaf Espresso
+9,2011-06-01,Herbal Tea,Lemon
+5,2011-06-01,Espresso,Caffe Mocha
+6,2011-06-01,Espresso,Decaf Espresso
+5,2011-06-01,Espresso,Caffe Mocha
+9,2011-06-01,Herbal Tea,Lemon
+2,2011-06-01,Coffee,Columbian
+13,2011-06-01,Tea,Green Tea
+6,2011-06-01,Espresso,Decaf Espresso
+8,2011-06-01,Herbal Tea,Chamomile
+10,2011-06-01,Herbal Tea,Mint
+12,2011-06-01,Tea,Earl Grey
+4,2011-06-01,Espresso,Caffe Latte
+5,2011-06-01,Espresso,Caffe Mocha
+9,2011-06-01,Herbal Tea,Lemon
+10,2011-06-01,Herbal Tea,Mint
+5,2011-06-01,Espresso,Caffe Mocha
+9,2011-06-01,Herbal Tea,Lemon
+3,2011-06-01,Coffee,Decaf Irish Cream
+13,2011-06-01,Tea,Green Tea
+8,2011-06-01,Herbal Tea,Chamomile
+11,2011-06-01,Tea,Darjeeling
+5,2011-06-01,Espresso,Caffe Mocha
+11,2011-06-01,Tea,Darjeeling
+5,2011-06-01,Espresso,Caffe Mocha
+9,2011-06-01,Herbal Tea,Lemon
+8,2011-06-01,Herbal Tea,Chamomile
+10,2011-06-01,Herbal Tea,Mint
+11,2011-06-01,Tea,Darjeeling
+2,2011-06-01,Coffee,Columbian
+3,2011-06-01,Coffee,Decaf Irish Cream
+5,2011-06-01,Espresso,Caffe Mocha
+6,2011-06-01,Espresso,Decaf Espresso
+9,2011-06-01,Herbal Tea,Lemon
+3,2011-06-01,Coffee,Decaf Irish Cream
+12,2011-06-01,Tea,Earl Grey
+2,2011-06-01,Coffee,Columbian
+13,2011-06-01,Tea,Green Tea
+8,2011-06-01,Herbal Tea,Chamomile
+11,2011-06-01,Tea,Darjeeling
+3,2011-06-01,Coffee,Decaf Irish Cream
+2,2011-06-01,Coffee,Columbian
+6,2011-06-01,Espresso,Decaf Espresso
+10,2011-06-01,Herbal Tea,Mint
+2,2011-06-01,Coffee,Columbian
+13,2011-06-01,Tea,Green Tea
+6,2011-06-01,Espresso,Decaf Espresso
+11,2011-06-01,Tea,Darjeeling
+11,2011-06-01,Tea,Darjeeling
+4,2011-06-01,Espresso,Caffe Latte
+9,2011-06-01,Herbal Tea,Lemon
+2,2011-07-01,Coffee,Columbian
+3,2011-07-01,Coffee,Decaf Irish Cream
+4,2011-07-01,Espresso,Caffe Latte
+11,2011-07-01,Tea,Darjeeling
+4,2011-07-01,Espresso,Caffe Latte
+8,2011-07-01,Herbal Tea,Chamomile
+5,2011-07-01,Espresso,Caffe Mocha
+6,2011-07-01,Espresso,Decaf Espresso
+4,2011-07-01,Espresso,Caffe Latte
+2,2011-07-01,Coffee,Columbian
+13,2011-07-01,Tea,Green Tea
+5,2011-07-01,Espresso,Caffe Mocha
+10,2011-07-01,Herbal Tea,Mint
+2,2011-07-01,Coffee,Columbian
+6,2011-07-01,Espresso,Decaf Espresso
+9,2011-07-01,Herbal Tea,Lemon
+1,2011-07-01,Coffee,Amaretto
+3,2011-07-01,Coffee,Decaf Irish Cream
+8,2011-07-01,Herbal Tea,Chamomile
+9,2011-07-01,Herbal Tea,Lemon
+11,2011-07-01,Tea,Darjeeling
+2,2011-07-01,Coffee,Columbian
+3,2011-07-01,Coffee,Decaf Irish Cream
+6,2011-07-01,Espresso,Decaf Espresso
+9,2011-07-01,Herbal Tea,Lemon
+2,2011-07-01,Coffee,Columbian
+10,2011-07-01,Herbal Tea,Mint
+11,2011-07-01,Tea,Darjeeling
+12,2011-07-01,Tea,Earl Grey
+2,2011-07-01,Coffee,Columbian
+3,2011-07-01,Coffee,Decaf Irish Cream
+6,2011-07-01,Espresso,Decaf Espresso
+11,2011-07-01,Tea,Darjeeling
+5,2011-07-01,Espresso,Caffe Mocha
+2,2011-07-01,Coffee,Columbian
+2,2011-07-01,Coffee,Columbian
+8,2011-07-01,Herbal Tea,Chamomile
+7,2011-07-01,Espresso,Regular Espresso
+5,2011-07-01,Espresso,Caffe Mocha
+8,2011-07-01,Herbal Tea,Chamomile
+9,2011-07-01,Herbal Tea,Lemon
+13,2011-07-01,Tea,Green Tea
+5,2011-07-01,Espresso,Caffe Mocha
+6,2011-07-01,Espresso,Decaf Espresso
+11,2011-07-01,Tea,Darjeeling
+6,2011-07-01,Espresso,Decaf Espresso
+9,2011-07-01,Herbal Tea,Lemon
+4,2011-07-01,Espresso,Caffe Latte
+5,2011-07-01,Espresso,Caffe Mocha
+5,2011-07-01,Espresso,Caffe Mocha
+11,2011-07-01,Tea,Darjeeling
+13,2011-07-01,Tea,Green Tea
+12,2011-07-01,Tea,Earl Grey
+8,2011-07-01,Herbal Tea,Chamomile
+9,2011-07-01,Herbal Tea,Lemon
+2,2011-07-01,Coffee,Columbian
+3,2011-07-01,Coffee,Decaf Irish Cream
+13,2011-07-01,Tea,Green Tea
+5,2011-07-01,Espresso,Caffe Mocha
+6,2011-07-01,Espresso,Decaf Espresso
+8,2011-07-01,Herbal Tea,Chamomile
+9,2011-07-01,Herbal Tea,Lemon
+4,2011-07-01,Espresso,Caffe Latte
+5,2011-07-01,Espresso,Caffe Mocha
+1,2011-07-01,Coffee,Amaretto
+5,2011-07-01,Espresso,Caffe Mocha
+6,2011-07-01,Espresso,Decaf Espresso
+8,2011-07-01,Herbal Tea,Chamomile
+9,2011-07-01,Herbal Tea,Lemon
+11,2011-07-01,Tea,Darjeeling
+3,2011-07-01,Coffee,Decaf Irish Cream
+2,2011-07-01,Coffee,Columbian
+3,2011-07-01,Coffee,Decaf Irish Cream
+5,2011-07-01,Espresso,Caffe Mocha
+6,2011-07-01,Espresso,Decaf Espresso
+8,2011-07-01,Herbal Tea,Chamomile
+9,2011-07-01,Herbal Tea,Lemon
+4,2011-07-01,Espresso,Caffe Latte
+12,2011-07-01,Tea,Earl Grey
+1,2011-07-01,Coffee,Amaretto
+8,2011-07-01,Herbal Tea,Chamomile
+12,2011-07-01,Tea,Earl Grey
+9,2011-07-01,Herbal Tea,Lemon
+2,2011-07-01,Coffee,Columbian
+3,2011-07-01,Coffee,Decaf Irish Cream
+13,2011-07-01,Tea,Green Tea
+12,2011-07-01,Tea,Earl Grey
+6,2011-07-01,Espresso,Decaf Espresso
+6,2011-07-01,Espresso,Decaf Espresso
+9,2011-07-01,Herbal Tea,Lemon
+11,2011-07-01,Tea,Darjeeling
+3,2011-07-01,Coffee,Decaf Irish Cream
+2,2011-07-01,Coffee,Columbian
+8,2011-07-01,Herbal Tea,Chamomile
+1,2011-07-01,Coffee,Amaretto
+2,2011-07-01,Coffee,Columbian
+13,2011-07-01,Tea,Green Tea
+5,2011-07-01,Espresso,Caffe Mocha
+9,2011-07-01,Herbal Tea,Lemon
+11,2011-07-01,Tea,Darjeeling
+7,2011-07-01,Espresso,Regular Espresso
+2,2011-07-01,Coffee,Columbian
+6,2011-07-01,Espresso,Decaf Espresso
+8,2011-07-01,Herbal Tea,Chamomile
+11,2011-07-01,Tea,Darjeeling
+5,2011-07-01,Espresso,Caffe Mocha
+13,2011-07-01,Tea,Green Tea
+7,2011-07-01,Espresso,Regular Espresso
+8,2011-07-01,Herbal Tea,Chamomile
+8,2011-07-01,Herbal Tea,Chamomile
+2,2011-07-01,Coffee,Columbian
+5,2011-07-01,Espresso,Caffe Mocha
+9,2011-07-01,Herbal Tea,Lemon
+1,2011-07-01,Coffee,Amaretto
+4,2011-07-01,Espresso,Caffe Latte
+3,2011-07-01,Coffee,Decaf Irish Cream
+5,2011-07-01,Espresso,Caffe Mocha
+8,2011-07-01,Herbal Tea,Chamomile
+9,2011-07-01,Herbal Tea,Lemon
+10,2011-07-01,Herbal Tea,Mint
+11,2011-07-01,Tea,Darjeeling
+12,2011-07-01,Tea,Earl Grey
+12,2011-07-01,Tea,Earl Grey
+8,2011-07-01,Herbal Tea,Chamomile
+1,2011-07-01,Coffee,Amaretto
+3,2011-07-01,Coffee,Decaf Irish Cream
+5,2011-07-01,Espresso,Caffe Mocha
+9,2011-07-01,Herbal Tea,Lemon
+5,2011-07-01,Espresso,Caffe Mocha
+6,2011-07-01,Espresso,Decaf Espresso
+12,2011-07-01,Tea,Earl Grey
+2,2011-07-01,Coffee,Columbian
+8,2011-07-01,Herbal Tea,Chamomile
+11,2011-07-01,Tea,Darjeeling
+1,2011-07-01,Coffee,Amaretto
+5,2011-07-01,Espresso,Caffe Mocha
+10,2011-07-01,Herbal Tea,Mint
+12,2011-07-01,Tea,Earl Grey
+11,2011-07-01,Tea,Darjeeling
+3,2011-07-01,Coffee,Decaf Irish Cream
+6,2011-07-01,Espresso,Decaf Espresso
+11,2011-07-01,Tea,Darjeeling
+9,2011-07-01,Herbal Tea,Lemon
+13,2011-07-01,Tea,Green Tea
+9,2011-07-01,Herbal Tea,Lemon
+2,2011-07-01,Coffee,Columbian
+13,2011-07-01,Tea,Green Tea
+6,2011-07-01,Espresso,Decaf Espresso
+4,2011-07-01,Espresso,Caffe Latte
+1,2011-07-01,Coffee,Amaretto
+10,2011-07-01,Herbal Tea,Mint
+11,2011-07-01,Tea,Darjeeling
+12,2011-07-01,Tea,Earl Grey
+3,2011-07-01,Coffee,Decaf Irish Cream
+2,2011-07-01,Coffee,Columbian
+6,2011-07-01,Espresso,Decaf Espresso
+12,2011-07-01,Tea,Earl Grey
+3,2011-07-01,Coffee,Decaf Irish Cream
+13,2011-07-01,Tea,Green Tea
+6,2011-07-01,Espresso,Decaf Espresso
+9,2011-07-01,Herbal Tea,Lemon
+3,2011-07-01,Coffee,Decaf Irish Cream
+10,2011-07-01,Herbal Tea,Mint
+10,2011-07-01,Herbal Tea,Mint
+12,2011-07-01,Tea,Earl Grey
+3,2011-07-01,Coffee,Decaf Irish Cream
+5,2011-07-01,Espresso,Caffe Mocha
+9,2011-07-01,Herbal Tea,Lemon
+13,2011-07-01,Tea,Green Tea
+10,2011-07-01,Herbal Tea,Mint
+11,2011-07-01,Tea,Darjeeling
+13,2011-07-01,Tea,Green Tea
+4,2011-07-01,Espresso,Caffe Latte
+2,2011-07-01,Coffee,Columbian
+2,2011-07-01,Coffee,Columbian
+5,2011-07-01,Espresso,Caffe Mocha
+9,2011-07-01,Herbal Tea,Lemon
+2,2011-08-01,Coffee,Columbian
+13,2011-08-01,Tea,Green Tea
+6,2011-08-01,Espresso,Decaf Espresso
+12,2011-08-01,Tea,Earl Grey
+5,2011-08-01,Espresso,Caffe Mocha
+9,2011-08-01,Herbal Tea,Lemon
+5,2011-08-01,Espresso,Caffe Mocha
+9,2011-08-01,Herbal Tea,Lemon
+2,2011-08-01,Coffee,Columbian
+10,2011-08-01,Herbal Tea,Mint
+4,2011-08-01,Espresso,Caffe Latte
+6,2011-08-01,Espresso,Decaf Espresso
+2,2011-08-01,Coffee,Columbian
+9,2011-08-01,Herbal Tea,Lemon
+13,2011-08-01,Tea,Green Tea
+8,2011-08-01,Herbal Tea,Chamomile
+6,2011-08-01,Espresso,Decaf Espresso
+9,2011-08-01,Herbal Tea,Lemon
+10,2011-08-01,Herbal Tea,Mint
+3,2011-08-01,Coffee,Decaf Irish Cream
+9,2011-08-01,Herbal Tea,Lemon
+10,2011-08-01,Herbal Tea,Mint
+11,2011-08-01,Tea,Darjeeling
+12,2011-08-01,Tea,Earl Grey
+5,2011-08-01,Espresso,Caffe Mocha
+1,2011-08-01,Coffee,Amaretto
+2,2011-08-01,Coffee,Columbian
+11,2011-08-01,Tea,Darjeeling
+2,2011-08-01,Coffee,Columbian
+4,2011-08-01,Espresso,Caffe Latte
+5,2011-08-01,Espresso,Caffe Mocha
+3,2011-08-01,Coffee,Decaf Irish Cream
+5,2011-08-01,Espresso,Caffe Mocha
+9,2011-08-01,Herbal Tea,Lemon
+9,2011-08-01,Herbal Tea,Lemon
+1,2011-08-01,Coffee,Amaretto
+8,2011-08-01,Herbal Tea,Chamomile
+3,2011-08-01,Coffee,Decaf Irish Cream
+1,2011-08-01,Coffee,Amaretto
+12,2011-08-01,Tea,Earl Grey
+2,2011-08-01,Coffee,Columbian
+6,2011-08-01,Espresso,Decaf Espresso
+11,2011-08-01,Tea,Darjeeling
+4,2011-08-01,Espresso,Caffe Latte
+1,2011-08-01,Coffee,Amaretto
+2,2011-08-01,Coffee,Columbian
+13,2011-08-01,Tea,Green Tea
+5,2011-08-01,Espresso,Caffe Mocha
+6,2011-08-01,Espresso,Decaf Espresso
+8,2011-08-01,Herbal Tea,Chamomile
+9,2011-08-01,Herbal Tea,Lemon
+11,2011-08-01,Tea,Darjeeling
+12,2011-08-01,Tea,Earl Grey
+4,2011-08-01,Espresso,Caffe Latte
+3,2011-08-01,Coffee,Decaf Irish Cream
+6,2011-08-01,Espresso,Decaf Espresso
+5,2011-08-01,Espresso,Caffe Mocha
+10,2011-08-01,Herbal Tea,Mint
+3,2011-08-01,Coffee,Decaf Irish Cream
+13,2011-08-01,Tea,Green Tea
+2,2011-08-01,Coffee,Columbian
+6,2011-08-01,Espresso,Decaf Espresso
+8,2011-08-01,Herbal Tea,Chamomile
+2,2011-08-01,Coffee,Columbian
+3,2011-08-01,Coffee,Decaf Irish Cream
+5,2011-08-01,Espresso,Caffe Mocha
+6,2011-08-01,Espresso,Decaf Espresso
+8,2011-08-01,Herbal Tea,Chamomile
+9,2011-08-01,Herbal Tea,Lemon
+4,2011-08-01,Espresso,Caffe Latte
+11,2011-08-01,Tea,Darjeeling
+3,2011-08-01,Coffee,Decaf Irish Cream
+5,2011-08-01,Espresso,Caffe Mocha
+8,2011-08-01,Herbal Tea,Chamomile
+9,2011-08-01,Herbal Tea,Lemon
+8,2011-08-01,Herbal Tea,Chamomile
+9,2011-08-01,Herbal Tea,Lemon
+12,2011-08-01,Tea,Earl Grey
+3,2011-08-01,Coffee,Decaf Irish Cream
+6,2011-08-01,Espresso,Decaf Espresso
+9,2011-08-01,Herbal Tea,Lemon
+11,2011-08-01,Tea,Darjeeling
+12,2011-08-01,Tea,Earl Grey
+4,2011-08-01,Espresso,Caffe Latte
+3,2011-08-01,Coffee,Decaf Irish Cream
+5,2011-08-01,Espresso,Caffe Mocha
+6,2011-08-01,Espresso,Decaf Espresso
+13,2011-08-01,Tea,Green Tea
+6,2011-08-01,Espresso,Decaf Espresso
+11,2011-08-01,Tea,Darjeeling
+2,2011-08-01,Coffee,Columbian
+5,2011-08-01,Espresso,Caffe Mocha
+6,2011-08-01,Espresso,Decaf Espresso
+7,2011-08-01,Espresso,Regular Espresso
+1,2011-08-01,Coffee,Amaretto
+2,2011-08-01,Coffee,Columbian
+13,2011-08-01,Tea,Green Tea
+5,2011-08-01,Espresso,Caffe Mocha
+9,2011-08-01,Herbal Tea,Lemon
+11,2011-08-01,Tea,Darjeeling
+7,2011-08-01,Espresso,Regular Espresso
+11,2011-08-01,Tea,Darjeeling
+2,2011-08-01,Coffee,Columbian
+5,2011-08-01,Espresso,Caffe Mocha
+8,2011-08-01,Herbal Tea,Chamomile
+3,2011-08-01,Coffee,Decaf Irish Cream
+11,2011-08-01,Tea,Darjeeling
+13,2011-08-01,Tea,Green Tea
+2,2011-08-01,Coffee,Columbian
+3,2011-08-01,Coffee,Decaf Irish Cream
+5,2011-08-01,Espresso,Caffe Mocha
+8,2011-08-01,Herbal Tea,Chamomile
+11,2011-08-01,Tea,Darjeeling
+12,2011-08-01,Tea,Earl Grey
+3,2011-08-01,Coffee,Decaf Irish Cream
+5,2011-08-01,Espresso,Caffe Mocha
+11,2011-08-01,Tea,Darjeeling
+12,2011-08-01,Tea,Earl Grey
+12,2011-08-01,Tea,Earl Grey
+10,2011-08-01,Herbal Tea,Mint
+5,2011-08-01,Espresso,Caffe Mocha
+8,2011-08-01,Herbal Tea,Chamomile
+9,2011-08-01,Herbal Tea,Lemon
+1,2011-08-01,Coffee,Amaretto
+3,2011-08-01,Coffee,Decaf Irish Cream
+13,2011-08-01,Tea,Green Tea
+6,2011-08-01,Espresso,Decaf Espresso
+11,2011-08-01,Tea,Darjeeling
+12,2011-08-01,Tea,Earl Grey
+9,2011-08-01,Herbal Tea,Lemon
+12,2011-08-01,Tea,Earl Grey
+5,2011-08-01,Espresso,Caffe Mocha
+2,2011-08-01,Coffee,Columbian
+13,2011-08-01,Tea,Green Tea
+6,2011-08-01,Espresso,Decaf Espresso
+9,2011-08-01,Herbal Tea,Lemon
+10,2011-08-01,Herbal Tea,Mint
+4,2011-08-01,Espresso,Caffe Latte
+13,2011-08-01,Tea,Green Tea
+8,2011-08-01,Herbal Tea,Chamomile
+3,2011-08-01,Coffee,Decaf Irish Cream
+10,2011-08-01,Herbal Tea,Mint
+11,2011-08-01,Tea,Darjeeling
+8,2011-08-01,Herbal Tea,Chamomile
+12,2011-08-01,Tea,Earl Grey
+9,2011-08-01,Herbal Tea,Lemon
+8,2011-08-01,Herbal Tea,Chamomile
+4,2011-08-01,Espresso,Caffe Latte
+9,2011-08-01,Herbal Tea,Lemon
+13,2011-08-01,Tea,Green Tea
+6,2011-08-01,Espresso,Decaf Espresso
+10,2011-08-01,Herbal Tea,Mint
+7,2011-08-01,Espresso,Regular Espresso
+1,2011-08-01,Coffee,Amaretto
+13,2011-08-01,Tea,Green Tea
+6,2011-08-01,Espresso,Decaf Espresso
+6,2011-08-01,Espresso,Decaf Espresso
+2,2011-08-01,Coffee,Columbian
+8,2011-08-01,Herbal Tea,Chamomile
+3,2011-08-01,Coffee,Decaf Irish Cream
+8,2011-08-01,Herbal Tea,Chamomile
+4,2011-08-01,Espresso,Caffe Latte
+2,2011-08-01,Coffee,Columbian
+2,2011-08-01,Coffee,Columbian
+5,2011-08-01,Espresso,Caffe Mocha
+5,2011-08-01,Espresso,Caffe Mocha
+2,2011-08-01,Coffee,Columbian
+11,2011-08-01,Tea,Darjeeling
+9,2011-08-01,Herbal Tea,Lemon
+11,2011-08-01,Tea,Darjeeling
+2,2011-08-01,Coffee,Columbian
+1,2011-08-01,Coffee,Amaretto
+2,2011-08-01,Coffee,Columbian
+5,2011-08-01,Espresso,Caffe Mocha
+8,2011-08-01,Herbal Tea,Chamomile
+9,2011-08-01,Herbal Tea,Lemon
+3,2011-08-01,Coffee,Decaf Irish Cream
+2,2011-09-01,Coffee,Columbian
+5,2011-09-01,Espresso,Caffe Mocha
+9,2011-09-01,Herbal Tea,Lemon
+10,2011-09-01,Herbal Tea,Mint
+3,2011-09-01,Coffee,Decaf Irish Cream
+13,2011-09-01,Tea,Green Tea
+6,2011-09-01,Espresso,Decaf Espresso
+11,2011-09-01,Tea,Darjeeling
+9,2011-09-01,Herbal Tea,Lemon
+1,2011-09-01,Coffee,Amaretto
+12,2011-09-01,Tea,Earl Grey
+8,2011-09-01,Herbal Tea,Chamomile
+2,2011-09-01,Coffee,Columbian
+2,2011-09-01,Coffee,Columbian
+8,2011-09-01,Herbal Tea,Chamomile
+9,2011-09-01,Herbal Tea,Lemon
+5,2011-09-01,Espresso,Caffe Mocha
+11,2011-09-01,Tea,Darjeeling
+4,2011-09-01,Espresso,Caffe Latte
+8,2011-09-01,Herbal Tea,Chamomile
+9,2011-09-01,Herbal Tea,Lemon
+13,2011-09-01,Tea,Green Tea
+6,2011-09-01,Espresso,Decaf Espresso
+8,2011-09-01,Herbal Tea,Chamomile
+2,2011-09-01,Coffee,Columbian
+4,2011-09-01,Espresso,Caffe Latte
+1,2011-09-01,Coffee,Amaretto
+3,2011-09-01,Coffee,Decaf Irish Cream
+5,2011-09-01,Espresso,Caffe Mocha
+8,2011-09-01,Herbal Tea,Chamomile
+3,2011-09-01,Coffee,Decaf Irish Cream
+6,2011-09-01,Espresso,Decaf Espresso
+5,2011-09-01,Espresso,Caffe Mocha
+6,2011-09-01,Espresso,Decaf Espresso
+8,2011-09-01,Herbal Tea,Chamomile
+2,2011-09-01,Coffee,Columbian
+5,2011-09-01,Espresso,Caffe Mocha
+4,2011-09-01,Espresso,Caffe Latte
+6,2011-09-01,Espresso,Decaf Espresso
+9,2011-09-01,Herbal Tea,Lemon
+3,2011-09-01,Coffee,Decaf Irish Cream
+9,2011-09-01,Herbal Tea,Lemon
+6,2011-09-01,Espresso,Decaf Espresso
+2,2011-09-01,Coffee,Columbian
+9,2011-09-01,Herbal Tea,Lemon
+1,2011-09-01,Coffee,Amaretto
+3,2011-09-01,Coffee,Decaf Irish Cream
+13,2011-09-01,Tea,Green Tea
+6,2011-09-01,Espresso,Decaf Espresso
+9,2011-09-01,Herbal Tea,Lemon
+10,2011-09-01,Herbal Tea,Mint
+12,2011-09-01,Tea,Earl Grey
+4,2011-09-01,Espresso,Caffe Latte
+5,2011-09-01,Espresso,Caffe Mocha
+9,2011-09-01,Herbal Tea,Lemon
+1,2011-09-01,Coffee,Amaretto
+3,2011-09-01,Coffee,Decaf Irish Cream
+5,2011-09-01,Espresso,Caffe Mocha
+8,2011-09-01,Herbal Tea,Chamomile
+12,2011-09-01,Tea,Earl Grey
+3,2011-09-01,Coffee,Decaf Irish Cream
+2,2011-09-01,Coffee,Columbian
+3,2011-09-01,Coffee,Decaf Irish Cream
+5,2011-09-01,Espresso,Caffe Mocha
+6,2011-09-01,Espresso,Decaf Espresso
+8,2011-09-01,Herbal Tea,Chamomile
+9,2011-09-01,Herbal Tea,Lemon
+4,2011-09-01,Espresso,Caffe Latte
+8,2011-09-01,Herbal Tea,Chamomile
+12,2011-09-01,Tea,Earl Grey
+8,2011-09-01,Herbal Tea,Chamomile
+2,2011-09-01,Coffee,Columbian
+9,2011-09-01,Herbal Tea,Lemon
+2,2011-09-01,Coffee,Columbian
+7,2011-09-01,Espresso,Regular Espresso
+5,2011-09-01,Espresso,Caffe Mocha
+12,2011-09-01,Tea,Earl Grey
+13,2011-09-01,Tea,Green Tea
+6,2011-09-01,Espresso,Decaf Espresso
+2,2011-09-01,Coffee,Columbian
+9,2011-09-01,Herbal Tea,Lemon
+11,2011-09-01,Tea,Darjeeling
+11,2011-09-01,Tea,Darjeeling
+2,2011-09-01,Coffee,Columbian
+8,2011-09-01,Herbal Tea,Chamomile
+11,2011-09-01,Tea,Darjeeling
+2,2011-09-01,Coffee,Columbian
+5,2011-09-01,Espresso,Caffe Mocha
+9,2011-09-01,Herbal Tea,Lemon
+11,2011-09-01,Tea,Darjeeling
+2,2011-09-01,Coffee,Columbian
+3,2011-09-01,Coffee,Decaf Irish Cream
+5,2011-09-01,Espresso,Caffe Mocha
+8,2011-09-01,Herbal Tea,Chamomile
+1,2011-09-01,Coffee,Amaretto
+2,2011-09-01,Coffee,Columbian
+13,2011-09-01,Tea,Green Tea
+5,2011-09-01,Espresso,Caffe Mocha
+9,2011-09-01,Herbal Tea,Lemon
+11,2011-09-01,Tea,Darjeeling
+7,2011-09-01,Espresso,Regular Espresso
+1,2011-09-01,Coffee,Amaretto
+11,2011-09-01,Tea,Darjeeling
+2,2011-09-01,Coffee,Columbian
+3,2011-09-01,Coffee,Decaf Irish Cream
+9,2011-09-01,Herbal Tea,Lemon
+11,2011-09-01,Tea,Darjeeling
+13,2011-09-01,Tea,Green Tea
+11,2011-09-01,Tea,Darjeeling
+2,2011-09-01,Coffee,Columbian
+11,2011-09-01,Tea,Darjeeling
+12,2011-09-01,Tea,Earl Grey
+12,2011-09-01,Tea,Earl Grey
+12,2011-09-01,Tea,Earl Grey
+12,2011-09-01,Tea,Earl Grey
+8,2011-09-01,Herbal Tea,Chamomile
+3,2011-09-01,Coffee,Decaf Irish Cream
+5,2011-09-01,Espresso,Caffe Mocha
+8,2011-09-01,Herbal Tea,Chamomile
+9,2011-09-01,Herbal Tea,Lemon
+10,2011-09-01,Herbal Tea,Mint
+6,2011-09-01,Espresso,Decaf Espresso
+5,2011-09-01,Espresso,Caffe Mocha
+1,2011-09-01,Coffee,Amaretto
+2,2011-09-01,Coffee,Columbian
+6,2011-09-01,Espresso,Decaf Espresso
+12,2011-09-01,Tea,Earl Grey
+13,2011-09-01,Tea,Green Tea
+13,2011-09-01,Tea,Green Tea
+5,2011-09-01,Espresso,Caffe Mocha
+11,2011-09-01,Tea,Darjeeling
+12,2011-09-01,Tea,Earl Grey
+3,2011-09-01,Coffee,Decaf Irish Cream
+10,2011-09-01,Herbal Tea,Mint
+8,2011-09-01,Herbal Tea,Chamomile
+13,2011-09-01,Tea,Green Tea
+5,2011-09-01,Espresso,Caffe Mocha
+10,2011-09-01,Herbal Tea,Mint
+6,2011-09-01,Espresso,Decaf Espresso
+10,2011-09-01,Herbal Tea,Mint
+2,2011-09-01,Coffee,Columbian
+9,2011-09-01,Herbal Tea,Lemon
+7,2011-09-01,Espresso,Regular Espresso
+2,2011-09-01,Coffee,Columbian
+13,2011-09-01,Tea,Green Tea
+6,2011-09-01,Espresso,Decaf Espresso
+11,2011-09-01,Tea,Darjeeling
+12,2011-09-01,Tea,Earl Grey
+4,2011-09-01,Espresso,Caffe Latte
+2,2011-09-01,Coffee,Columbian
+5,2011-09-01,Espresso,Caffe Mocha
+8,2011-09-01,Herbal Tea,Chamomile
+11,2011-09-01,Tea,Darjeeling
+3,2011-09-01,Coffee,Decaf Irish Cream
+3,2011-09-01,Coffee,Decaf Irish Cream
+3,2011-09-01,Coffee,Decaf Irish Cream
+10,2011-09-01,Herbal Tea,Mint
+9,2011-09-01,Herbal Tea,Lemon
+10,2011-09-01,Herbal Tea,Mint
+11,2011-09-01,Tea,Darjeeling
+3,2011-09-01,Coffee,Decaf Irish Cream
+5,2011-09-01,Espresso,Caffe Mocha
+11,2011-09-01,Tea,Darjeeling
+4,2011-09-01,Espresso,Caffe Latte
+4,2011-09-01,Espresso,Caffe Latte
+5,2011-09-01,Espresso,Caffe Mocha
+6,2011-09-01,Espresso,Decaf Espresso
+5,2011-09-01,Espresso,Caffe Mocha
+13,2011-09-01,Tea,Green Tea
+6,2011-09-01,Espresso,Decaf Espresso
+1,2011-09-01,Coffee,Amaretto
+6,2011-09-01,Espresso,Decaf Espresso
+9,2011-09-01,Herbal Tea,Lemon
+13,2011-09-01,Tea,Green Tea
+6,2011-09-01,Espresso,Decaf Espresso
+4,2011-09-01,Espresso,Caffe Latte
+9,2011-09-01,Herbal Tea,Lemon
+2,2011-10-01,Coffee,Columbian
+13,2011-10-01,Tea,Green Tea
+6,2011-10-01,Espresso,Decaf Espresso
+9,2011-10-01,Herbal Tea,Lemon
+10,2011-10-01,Herbal Tea,Mint
+3,2011-10-01,Coffee,Decaf Irish Cream
+13,2011-10-01,Tea,Green Tea
+4,2011-10-01,Espresso,Caffe Latte
+7,2011-10-01,Espresso,Regular Espresso
+5,2011-10-01,Espresso,Caffe Mocha
+9,2011-10-01,Herbal Tea,Lemon
+3,2011-10-01,Coffee,Decaf Irish Cream
+5,2011-10-01,Espresso,Caffe Mocha
+6,2011-10-01,Espresso,Decaf Espresso
+9,2011-10-01,Herbal Tea,Lemon
+11,2011-10-01,Tea,Darjeeling
+12,2011-10-01,Tea,Earl Grey
+3,2011-10-01,Coffee,Decaf Irish Cream
+2,2011-10-01,Coffee,Columbian
+5,2011-10-01,Espresso,Caffe Mocha
+9,2011-10-01,Herbal Tea,Lemon
+13,2011-10-01,Tea,Green Tea
+11,2011-10-01,Tea,Darjeeling
+6,2011-10-01,Espresso,Decaf Espresso
+8,2011-10-01,Herbal Tea,Chamomile
+8,2011-10-01,Herbal Tea,Chamomile
+6,2011-10-01,Espresso,Decaf Espresso
+8,2011-10-01,Herbal Tea,Chamomile
+2,2011-10-01,Coffee,Columbian
+9,2011-10-01,Herbal Tea,Lemon
+2,2011-10-01,Coffee,Columbian
+6,2011-10-01,Espresso,Decaf Espresso
+8,2011-10-01,Herbal Tea,Chamomile
+3,2011-10-01,Coffee,Decaf Irish Cream
+6,2011-10-01,Espresso,Decaf Espresso
+4,2011-10-01,Espresso,Caffe Latte
+1,2011-10-01,Coffee,Amaretto
+2,2011-10-01,Coffee,Columbian
+6,2011-10-01,Espresso,Decaf Espresso
+6,2011-10-01,Espresso,Decaf Espresso
+9,2011-10-01,Herbal Tea,Lemon
+6,2011-10-01,Espresso,Decaf Espresso
+11,2011-10-01,Tea,Darjeeling
+12,2011-10-01,Tea,Earl Grey
+5,2011-10-01,Espresso,Caffe Mocha
+11,2011-10-01,Tea,Darjeeling
+9,2011-10-01,Herbal Tea,Lemon
+2,2011-10-01,Coffee,Columbian
+6,2011-10-01,Espresso,Decaf Espresso
+1,2011-10-01,Coffee,Amaretto
+2,2011-10-01,Coffee,Columbian
+3,2011-10-01,Coffee,Decaf Irish Cream
+13,2011-10-01,Tea,Green Tea
+5,2011-10-01,Espresso,Caffe Mocha
+6,2011-10-01,Espresso,Decaf Espresso
+9,2011-10-01,Herbal Tea,Lemon
+10,2011-10-01,Herbal Tea,Mint
+11,2011-10-01,Tea,Darjeeling
+12,2011-10-01,Tea,Earl Grey
+4,2011-10-01,Espresso,Caffe Latte
+11,2011-10-01,Tea,Darjeeling
+1,2011-10-01,Coffee,Amaretto
+2,2011-10-01,Coffee,Columbian
+6,2011-10-01,Espresso,Decaf Espresso
+12,2011-10-01,Tea,Earl Grey
+4,2011-10-01,Espresso,Caffe Latte
+2,2011-10-01,Coffee,Columbian
+3,2011-10-01,Coffee,Decaf Irish Cream
+5,2011-10-01,Espresso,Caffe Mocha
+6,2011-10-01,Espresso,Decaf Espresso
+8,2011-10-01,Herbal Tea,Chamomile
+9,2011-10-01,Herbal Tea,Lemon
+4,2011-10-01,Espresso,Caffe Latte
+7,2011-10-01,Espresso,Regular Espresso
+9,2011-10-01,Herbal Tea,Lemon
+12,2011-10-01,Tea,Earl Grey
+13,2011-10-01,Tea,Green Tea
+5,2011-10-01,Espresso,Caffe Mocha
+1,2011-10-01,Coffee,Amaretto
+2,2011-10-01,Coffee,Columbian
+9,2011-10-01,Herbal Tea,Lemon
+11,2011-10-01,Tea,Darjeeling
+12,2011-10-01,Tea,Earl Grey
+10,2011-10-01,Herbal Tea,Mint
+13,2011-10-01,Tea,Green Tea
+5,2011-10-01,Espresso,Caffe Mocha
+9,2011-10-01,Herbal Tea,Lemon
+11,2011-10-01,Tea,Darjeeling
+6,2011-10-01,Espresso,Decaf Espresso
+2,2011-10-01,Coffee,Columbian
+5,2011-10-01,Espresso,Caffe Mocha
+8,2011-10-01,Herbal Tea,Chamomile
+12,2011-10-01,Tea,Earl Grey
+5,2011-10-01,Espresso,Caffe Mocha
+8,2011-10-01,Herbal Tea,Chamomile
+9,2011-10-01,Herbal Tea,Lemon
+11,2011-10-01,Tea,Darjeeling
+1,2011-10-01,Coffee,Amaretto
+2,2011-10-01,Coffee,Columbian
+13,2011-10-01,Tea,Green Tea
+5,2011-10-01,Espresso,Caffe Mocha
+9,2011-10-01,Herbal Tea,Lemon
+11,2011-10-01,Tea,Darjeeling
+7,2011-10-01,Espresso,Regular Espresso
+13,2011-10-01,Tea,Green Tea
+1,2011-10-01,Coffee,Amaretto
+12,2011-10-01,Tea,Earl Grey
+10,2011-10-01,Herbal Tea,Mint
+3,2011-10-01,Coffee,Decaf Irish Cream
+3,2011-10-01,Coffee,Decaf Irish Cream
+5,2011-10-01,Espresso,Caffe Mocha
+3,2011-10-01,Coffee,Decaf Irish Cream
+4,2011-10-01,Espresso,Caffe Latte
+2,2011-10-01,Coffee,Columbian
+13,2011-10-01,Tea,Green Tea
+8,2011-10-01,Herbal Tea,Chamomile
+4,2011-10-01,Espresso,Caffe Latte
+8,2011-10-01,Herbal Tea,Chamomile
+4,2011-10-01,Espresso,Caffe Latte
+8,2011-10-01,Herbal Tea,Chamomile
+2,2011-10-01,Coffee,Columbian
+12,2011-10-01,Tea,Earl Grey
+1,2011-10-01,Coffee,Amaretto
+3,2011-10-01,Coffee,Decaf Irish Cream
+8,2011-10-01,Herbal Tea,Chamomile
+9,2011-10-01,Herbal Tea,Lemon
+11,2011-10-01,Tea,Darjeeling
+5,2011-10-01,Espresso,Caffe Mocha
+3,2011-10-01,Coffee,Decaf Irish Cream
+13,2011-10-01,Tea,Green Tea
+6,2011-10-01,Espresso,Decaf Espresso
+5,2011-10-01,Espresso,Caffe Mocha
+3,2011-10-01,Coffee,Decaf Irish Cream
+5,2011-10-01,Espresso,Caffe Mocha
+6,2011-10-01,Espresso,Decaf Espresso
+9,2011-10-01,Herbal Tea,Lemon
+10,2011-10-01,Herbal Tea,Mint
+11,2011-10-01,Tea,Darjeeling
+12,2011-10-01,Tea,Earl Grey
+13,2011-10-01,Tea,Green Tea
+9,2011-10-01,Herbal Tea,Lemon
+8,2011-10-01,Herbal Tea,Chamomile
+5,2011-10-01,Espresso,Caffe Mocha
+2,2011-10-01,Coffee,Columbian
+3,2011-10-01,Coffee,Decaf Irish Cream
+10,2011-10-01,Herbal Tea,Mint
+11,2011-10-01,Tea,Darjeeling
+12,2011-10-01,Tea,Earl Grey
+5,2011-10-01,Espresso,Caffe Mocha
+2,2011-10-01,Coffee,Columbian
+11,2011-10-01,Tea,Darjeeling
+2,2011-10-01,Coffee,Columbian
+8,2011-10-01,Herbal Tea,Chamomile
+10,2011-10-01,Herbal Tea,Mint
+1,2011-10-01,Coffee,Amaretto
+5,2011-10-01,Espresso,Caffe Mocha
+2,2011-10-01,Coffee,Columbian
+9,2011-10-01,Herbal Tea,Lemon
+3,2011-10-01,Coffee,Decaf Irish Cream
+8,2011-10-01,Herbal Tea,Chamomile
+2,2011-10-01,Coffee,Columbian
+8,2011-10-01,Herbal Tea,Chamomile
+9,2011-10-01,Herbal Tea,Lemon
+9,2011-10-01,Herbal Tea,Lemon
+2,2011-10-01,Coffee,Columbian
+5,2011-10-01,Espresso,Caffe Mocha
+13,2011-10-01,Tea,Green Tea
+5,2011-10-01,Espresso,Caffe Mocha
+6,2011-10-01,Espresso,Decaf Espresso
+10,2011-10-01,Herbal Tea,Mint
+12,2011-10-01,Tea,Earl Grey
+3,2011-10-01,Coffee,Decaf Irish Cream
+8,2011-10-01,Herbal Tea,Chamomile
+11,2011-10-01,Tea,Darjeeling
+4,2011-10-01,Espresso,Caffe Latte
+11,2011-10-01,Tea,Darjeeling
+3,2011-10-01,Coffee,Decaf Irish Cream
+2,2011-11-01,Coffee,Columbian
+13,2011-11-01,Tea,Green Tea
+6,2011-11-01,Espresso,Decaf Espresso
+5,2011-11-01,Espresso,Caffe Mocha
+8,2011-11-01,Herbal Tea,Chamomile
+12,2011-11-01,Tea,Earl Grey
+13,2011-11-01,Tea,Green Tea
+2,2011-11-01,Coffee,Columbian
+6,2011-11-01,Espresso,Decaf Espresso
+1,2011-11-01,Coffee,Amaretto
+2,2011-11-01,Coffee,Columbian
+5,2011-11-01,Espresso,Caffe Mocha
+2,2011-11-01,Coffee,Columbian
+9,2011-11-01,Herbal Tea,Lemon
+6,2011-11-01,Espresso,Decaf Espresso
+1,2011-11-01,Coffee,Amaretto
+8,2011-11-01,Herbal Tea,Chamomile
+5,2011-11-01,Espresso,Caffe Mocha
+12,2011-11-01,Tea,Earl Grey
+9,2011-11-01,Herbal Tea,Lemon
+13,2011-11-01,Tea,Green Tea
+8,2011-11-01,Herbal Tea,Chamomile
+9,2011-11-01,Herbal Tea,Lemon
+2,2011-11-01,Coffee,Columbian
+5,2011-11-01,Espresso,Caffe Mocha
+4,2011-11-01,Espresso,Caffe Latte
+3,2011-11-01,Coffee,Decaf Irish Cream
+10,2011-11-01,Herbal Tea,Mint
+6,2011-11-01,Espresso,Decaf Espresso
+9,2011-11-01,Herbal Tea,Lemon
+5,2011-11-01,Espresso,Caffe Mocha
+11,2011-11-01,Tea,Darjeeling
+11,2011-11-01,Tea,Darjeeling
+9,2011-11-01,Herbal Tea,Lemon
+4,2011-11-01,Espresso,Caffe Latte
+3,2011-11-01,Coffee,Decaf Irish Cream
+9,2011-11-01,Herbal Tea,Lemon
+6,2011-11-01,Espresso,Decaf Espresso
+4,2011-11-01,Espresso,Caffe Latte
+2,2011-11-01,Coffee,Columbian
+1,2011-11-01,Coffee,Amaretto
+2,2011-11-01,Coffee,Columbian
+3,2011-11-01,Coffee,Decaf Irish Cream
+13,2011-11-01,Tea,Green Tea
+6,2011-11-01,Espresso,Decaf Espresso
+8,2011-11-01,Herbal Tea,Chamomile
+9,2011-11-01,Herbal Tea,Lemon
+10,2011-11-01,Herbal Tea,Mint
+11,2011-11-01,Tea,Darjeeling
+12,2011-11-01,Tea,Earl Grey
+4,2011-11-01,Espresso,Caffe Latte
+8,2011-11-01,Herbal Tea,Chamomile
+5,2011-11-01,Espresso,Caffe Mocha
+9,2011-11-01,Herbal Tea,Lemon
+3,2011-11-01,Coffee,Decaf Irish Cream
+11,2011-11-01,Tea,Darjeeling
+12,2011-11-01,Tea,Earl Grey
+4,2011-11-01,Espresso,Caffe Latte
+3,2011-11-01,Coffee,Decaf Irish Cream
+2,2011-11-01,Coffee,Columbian
+3,2011-11-01,Coffee,Decaf Irish Cream
+5,2011-11-01,Espresso,Caffe Mocha
+6,2011-11-01,Espresso,Decaf Espresso
+8,2011-11-01,Herbal Tea,Chamomile
+9,2011-11-01,Herbal Tea,Lemon
+4,2011-11-01,Espresso,Caffe Latte
+3,2011-11-01,Coffee,Decaf Irish Cream
+13,2011-11-01,Tea,Green Tea
+11,2011-11-01,Tea,Darjeeling
+9,2011-11-01,Herbal Tea,Lemon
+2,2011-11-01,Coffee,Columbian
+5,2011-11-01,Espresso,Caffe Mocha
+6,2011-11-01,Espresso,Decaf Espresso
+11,2011-11-01,Tea,Darjeeling
+10,2011-11-01,Herbal Tea,Mint
+2,2011-11-01,Coffee,Columbian
+5,2011-11-01,Espresso,Caffe Mocha
+8,2011-11-01,Herbal Tea,Chamomile
+9,2011-11-01,Herbal Tea,Lemon
+9,2011-11-01,Herbal Tea,Lemon
+10,2011-11-01,Herbal Tea,Mint
+11,2011-11-01,Tea,Darjeeling
+2,2011-11-01,Coffee,Columbian
+5,2011-11-01,Espresso,Caffe Mocha
+12,2011-11-01,Tea,Earl Grey
+3,2011-11-01,Coffee,Decaf Irish Cream
+5,2011-11-01,Espresso,Caffe Mocha
+6,2011-11-01,Espresso,Decaf Espresso
+8,2011-11-01,Herbal Tea,Chamomile
+9,2011-11-01,Herbal Tea,Lemon
+1,2011-11-01,Coffee,Amaretto
+2,2011-11-01,Coffee,Columbian
+13,2011-11-01,Tea,Green Tea
+5,2011-11-01,Espresso,Caffe Mocha
+9,2011-11-01,Herbal Tea,Lemon
+11,2011-11-01,Tea,Darjeeling
+7,2011-11-01,Espresso,Regular Espresso
+2,2011-11-01,Coffee,Columbian
+2,2011-11-01,Coffee,Columbian
+3,2011-11-01,Coffee,Decaf Irish Cream
+11,2011-11-01,Tea,Darjeeling
+7,2011-11-01,Espresso,Regular Espresso
+3,2011-11-01,Coffee,Decaf Irish Cream
+5,2011-11-01,Espresso,Caffe Mocha
+6,2011-11-01,Espresso,Decaf Espresso
+11,2011-11-01,Tea,Darjeeling
+8,2011-11-01,Herbal Tea,Chamomile
+9,2011-11-01,Herbal Tea,Lemon
+12,2011-11-01,Tea,Earl Grey
+3,2011-11-01,Coffee,Decaf Irish Cream
+8,2011-11-01,Herbal Tea,Chamomile
+9,2011-11-01,Herbal Tea,Lemon
+12,2011-11-01,Tea,Earl Grey
+8,2011-11-01,Herbal Tea,Chamomile
+10,2011-11-01,Herbal Tea,Mint
+11,2011-11-01,Tea,Darjeeling
+1,2011-11-01,Coffee,Amaretto
+5,2011-11-01,Espresso,Caffe Mocha
+9,2011-11-01,Herbal Tea,Lemon
+11,2011-11-01,Tea,Darjeeling
+12,2011-11-01,Tea,Earl Grey
+1,2011-11-01,Coffee,Amaretto
+2,2011-11-01,Coffee,Columbian
+11,2011-11-01,Tea,Darjeeling
+12,2011-11-01,Tea,Earl Grey
+3,2011-11-01,Coffee,Decaf Irish Cream
+8,2011-11-01,Herbal Tea,Chamomile
+12,2011-11-01,Tea,Earl Grey
+8,2011-11-01,Herbal Tea,Chamomile
+12,2011-11-01,Tea,Earl Grey
+6,2011-11-01,Espresso,Decaf Espresso
+2,2011-11-01,Coffee,Columbian
+13,2011-11-01,Tea,Green Tea
+5,2011-11-01,Espresso,Caffe Mocha
+6,2011-11-01,Espresso,Decaf Espresso
+10,2011-11-01,Herbal Tea,Mint
+11,2011-11-01,Tea,Darjeeling
+4,2011-11-01,Espresso,Caffe Latte
+2,2011-11-01,Coffee,Columbian
+5,2011-11-01,Espresso,Caffe Mocha
+11,2011-11-01,Tea,Darjeeling
+9,2011-11-01,Herbal Tea,Lemon
+4,2011-11-01,Espresso,Caffe Latte
+5,2011-11-01,Espresso,Caffe Mocha
+2,2011-11-01,Coffee,Columbian
+3,2011-11-01,Coffee,Decaf Irish Cream
+6,2011-11-01,Espresso,Decaf Espresso
+2,2011-11-01,Coffee,Columbian
+9,2011-11-01,Herbal Tea,Lemon
+11,2011-11-01,Tea,Darjeeling
+3,2011-11-01,Coffee,Decaf Irish Cream
+13,2011-11-01,Tea,Green Tea
+13,2011-11-01,Tea,Green Tea
+5,2011-11-01,Espresso,Caffe Mocha
+12,2011-11-01,Tea,Earl Grey
+5,2011-11-01,Espresso,Caffe Mocha
+1,2011-11-01,Coffee,Amaretto
+5,2011-11-01,Espresso,Caffe Mocha
+7,2011-11-01,Espresso,Regular Espresso
+2,2011-11-01,Coffee,Columbian
+3,2011-11-01,Coffee,Decaf Irish Cream
+6,2011-11-01,Espresso,Decaf Espresso
+3,2011-11-01,Coffee,Decaf Irish Cream
+8,2011-11-01,Herbal Tea,Chamomile
+6,2011-11-01,Espresso,Decaf Espresso
+4,2011-11-01,Espresso,Caffe Latte
+10,2011-11-01,Herbal Tea,Mint
+13,2011-11-01,Tea,Green Tea
+6,2011-11-01,Espresso,Decaf Espresso
+8,2011-11-01,Herbal Tea,Chamomile
+9,2011-11-01,Herbal Tea,Lemon
+10,2011-11-01,Herbal Tea,Mint
+1,2011-11-01,Coffee,Amaretto
+13,2011-11-01,Tea,Green Tea
+6,2011-11-01,Espresso,Decaf Espresso
+13,2011-11-01,Tea,Green Tea
+8,2011-11-01,Herbal Tea,Chamomile
+5,2011-12-01,Espresso,Caffe Mocha
+6,2011-12-01,Espresso,Decaf Espresso
+10,2011-12-01,Herbal Tea,Mint
+3,2011-12-01,Coffee,Decaf Irish Cream
+4,2011-12-01,Espresso,Caffe Latte
+1,2011-12-01,Coffee,Amaretto
+6,2011-12-01,Espresso,Decaf Espresso
+5,2011-12-01,Espresso,Caffe Mocha
+4,2011-12-01,Espresso,Caffe Latte
+1,2011-12-01,Coffee,Amaretto
+8,2011-12-01,Herbal Tea,Chamomile
+11,2011-12-01,Tea,Darjeeling
+12,2011-12-01,Tea,Earl Grey
+5,2011-12-01,Espresso,Caffe Mocha
+2,2011-12-01,Coffee,Columbian
+5,2011-12-01,Espresso,Caffe Mocha
+11,2011-12-01,Tea,Darjeeling
+12,2011-12-01,Tea,Earl Grey
+1,2011-12-01,Coffee,Amaretto
+11,2011-12-01,Tea,Darjeeling
+5,2011-12-01,Espresso,Caffe Mocha
+9,2011-12-01,Herbal Tea,Lemon
+2,2011-12-01,Coffee,Columbian
+3,2011-12-01,Coffee,Decaf Irish Cream
+9,2011-12-01,Herbal Tea,Lemon
+10,2011-12-01,Herbal Tea,Mint
+8,2011-12-01,Herbal Tea,Chamomile
+11,2011-12-01,Tea,Darjeeling
+2,2011-12-01,Coffee,Columbian
+6,2011-12-01,Espresso,Decaf Espresso
+9,2011-12-01,Herbal Tea,Lemon
+13,2011-12-01,Tea,Green Tea
+11,2011-12-01,Tea,Darjeeling
+10,2011-12-01,Herbal Tea,Mint
+11,2011-12-01,Tea,Darjeeling
+8,2011-12-01,Herbal Tea,Chamomile
+2,2011-12-01,Coffee,Columbian
+3,2011-12-01,Coffee,Decaf Irish Cream
+2,2011-12-01,Coffee,Columbian
+2,2011-12-01,Coffee,Columbian
+6,2011-12-01,Espresso,Decaf Espresso
+4,2011-12-01,Espresso,Caffe Latte
+6,2011-12-01,Espresso,Decaf Espresso
+8,2011-12-01,Herbal Tea,Chamomile
+2,2011-12-01,Coffee,Columbian
+10,2011-12-01,Herbal Tea,Mint
+12,2011-12-01,Tea,Earl Grey
+2,2011-12-01,Coffee,Columbian
+3,2011-12-01,Coffee,Decaf Irish Cream
+9,2011-12-01,Herbal Tea,Lemon
+6,2011-12-01,Espresso,Decaf Espresso
+9,2011-12-01,Herbal Tea,Lemon
+6,2011-12-01,Espresso,Decaf Espresso
+9,2011-12-01,Herbal Tea,Lemon
+1,2011-12-01,Coffee,Amaretto
+2,2011-12-01,Coffee,Columbian
+13,2011-12-01,Tea,Green Tea
+5,2011-12-01,Espresso,Caffe Mocha
+6,2011-12-01,Espresso,Decaf Espresso
+8,2011-12-01,Herbal Tea,Chamomile
+9,2011-12-01,Herbal Tea,Lemon
+10,2011-12-01,Herbal Tea,Mint
+11,2011-12-01,Tea,Darjeeling
+12,2011-12-01,Tea,Earl Grey
+4,2011-12-01,Espresso,Caffe Latte
+9,2011-12-01,Herbal Tea,Lemon
+13,2011-12-01,Tea,Green Tea
+5,2011-12-01,Espresso,Caffe Mocha
+8,2011-12-01,Herbal Tea,Chamomile
+9,2011-12-01,Herbal Tea,Lemon
+2,2011-12-01,Coffee,Columbian
+3,2011-12-01,Coffee,Decaf Irish Cream
+5,2011-12-01,Espresso,Caffe Mocha
+6,2011-12-01,Espresso,Decaf Espresso
+8,2011-12-01,Herbal Tea,Chamomile
+9,2011-12-01,Herbal Tea,Lemon
+4,2011-12-01,Espresso,Caffe Latte
+13,2011-12-01,Tea,Green Tea
+5,2011-12-01,Espresso,Caffe Mocha
+13,2011-12-01,Tea,Green Tea
+3,2011-12-01,Coffee,Decaf Irish Cream
+11,2011-12-01,Tea,Darjeeling
+12,2011-12-01,Tea,Earl Grey
+5,2011-12-01,Espresso,Caffe Mocha
+8,2011-12-01,Herbal Tea,Chamomile
+9,2011-12-01,Herbal Tea,Lemon
+12,2011-12-01,Tea,Earl Grey
+7,2011-12-01,Espresso,Regular Espresso
+2,2011-12-01,Coffee,Columbian
+5,2011-12-01,Espresso,Caffe Mocha
+1,2011-12-01,Coffee,Amaretto
+2,2011-12-01,Coffee,Columbian
+3,2011-12-01,Coffee,Decaf Irish Cream
+11,2011-12-01,Tea,Darjeeling
+1,2011-12-01,Coffee,Amaretto
+6,2011-12-01,Espresso,Decaf Espresso
+12,2011-12-01,Tea,Earl Grey
+2,2011-12-01,Coffee,Columbian
+5,2011-12-01,Espresso,Caffe Mocha
+2,2011-12-01,Coffee,Columbian
+5,2011-12-01,Espresso,Caffe Mocha
+9,2011-12-01,Herbal Tea,Lemon
+13,2011-12-01,Tea,Green Tea
+1,2011-12-01,Coffee,Amaretto
+2,2011-12-01,Coffee,Columbian
+13,2011-12-01,Tea,Green Tea
+5,2011-12-01,Espresso,Caffe Mocha
+9,2011-12-01,Herbal Tea,Lemon
+11,2011-12-01,Tea,Darjeeling
+7,2011-12-01,Espresso,Regular Espresso
+6,2011-12-01,Espresso,Decaf Espresso
+8,2011-12-01,Herbal Tea,Chamomile
+8,2011-12-01,Herbal Tea,Chamomile
+11,2011-12-01,Tea,Darjeeling
+9,2011-12-01,Herbal Tea,Lemon
+3,2011-12-01,Coffee,Decaf Irish Cream
+2,2011-12-01,Coffee,Columbian
+11,2011-12-01,Tea,Darjeeling
+13,2011-12-01,Tea,Green Tea
+9,2011-12-01,Herbal Tea,Lemon
+2,2011-12-01,Coffee,Columbian
+8,2011-12-01,Herbal Tea,Chamomile
+9,2011-12-01,Herbal Tea,Lemon
+5,2011-12-01,Espresso,Caffe Mocha
+12,2011-12-01,Tea,Earl Grey
+3,2011-12-01,Coffee,Decaf Irish Cream
+9,2011-12-01,Herbal Tea,Lemon
+10,2011-12-01,Herbal Tea,Mint
+11,2011-12-01,Tea,Darjeeling
+13,2011-12-01,Tea,Green Tea
+9,2011-12-01,Herbal Tea,Lemon
+3,2011-12-01,Coffee,Decaf Irish Cream
+6,2011-12-01,Espresso,Decaf Espresso
+3,2011-12-01,Coffee,Decaf Irish Cream
+6,2011-12-01,Espresso,Decaf Espresso
+13,2011-12-01,Tea,Green Tea
+9,2011-12-01,Herbal Tea,Lemon
+3,2011-12-01,Coffee,Decaf Irish Cream
+13,2011-12-01,Tea,Green Tea
+5,2011-12-01,Espresso,Caffe Mocha
+6,2011-12-01,Espresso,Decaf Espresso
+10,2011-12-01,Herbal Tea,Mint
+11,2011-12-01,Tea,Darjeeling
+12,2011-12-01,Tea,Earl Grey
+4,2011-12-01,Espresso,Caffe Latte
+3,2011-12-01,Coffee,Decaf Irish Cream
+6,2011-12-01,Espresso,Decaf Espresso
+12,2011-12-01,Tea,Earl Grey
+5,2011-12-01,Espresso,Caffe Mocha
+7,2011-12-01,Espresso,Regular Espresso
+9,2011-12-01,Herbal Tea,Lemon
+8,2011-12-01,Herbal Tea,Chamomile
+8,2011-12-01,Herbal Tea,Chamomile
+3,2011-12-01,Coffee,Decaf Irish Cream
+6,2011-12-01,Espresso,Decaf Espresso
+4,2011-12-01,Espresso,Caffe Latte
+1,2011-12-01,Coffee,Amaretto
+8,2011-12-01,Herbal Tea,Chamomile
+5,2011-12-01,Espresso,Caffe Mocha
+4,2011-12-01,Espresso,Caffe Latte
+3,2011-12-01,Coffee,Decaf Irish Cream
+3,2011-12-01,Coffee,Decaf Irish Cream
+2,2011-12-01,Coffee,Columbian
+13,2011-12-01,Tea,Green Tea
+11,2011-12-01,Tea,Darjeeling
+2,2011-12-01,Coffee,Columbian
+5,2011-12-01,Espresso,Caffe Mocha
+8,2011-12-01,Herbal Tea,Chamomile
+10,2011-12-01,Herbal Tea,Mint
+12,2011-12-01,Tea,Earl Grey
+6,2011-12-01,Espresso,Decaf Espresso
+12,2011-12-01,Tea,Earl Grey
+4,2011-12-01,Espresso,Caffe Latte
+5,2011-12-01,Espresso,Caffe Mocha
+11,2011-12-01,Tea,Darjeeling
+2,2011-12-01,Coffee,Columbian
+8,2011-12-01,Herbal Tea,Chamomile
